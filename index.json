@@ -239,6 +239,143 @@
       ]
     },
     {
+      "repository": "BSp-2/Echo-fleet",
+      "url": "https://github.com/BSp-2/Echo-fleet",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "echo-fleet",
+        "displayName": "[orange[]]Echo [#5aaabd[]]Fleet",
+        "version": "Aetheria /// Final",
+        "minGameVersion": "158.1",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "0f867df520341c79a38d23db6c5f35381e89a854",
+        "url": "https://github.com/BSp-2/Echo-fleet/commit/0f867df520341c79a38d23db6c5f35381e89a854"
+      },
+      "latest": {
+        "id": 380706466,
+        "tag": "v1.0¯first",
+        "name": "Aetheria /// Final",
+        "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v1.0%C2%AFfirst",
+        "publishedAt": "2026-09-01T17:44:55Z",
+        "prerelease": false,
+        "assets": [],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "echo-fleet",
+          "displayName": "[orange[]]Echo [#5aaabd[]]Fleet",
+          "version": "Aetheria /// Final",
+          "minGameVersion": "158.1",
+          "java": false
+        }
+      },
+      "releases": [
+        {
+          "id": 380706466,
+          "tag": "v1.0¯first",
+          "name": "Aetheria /// Final",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v1.0%C2%AFfirst",
+          "publishedAt": "2026-09-01T17:44:55Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 266022099,
+          "tag": "v0.2.1-alpha",
+          "name": "Aysel :D",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.2.1-alpha",
+          "publishedAt": "2025-11-28T15:34:26Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 326836315,
+              "name": "Echo-fleet-main.31.zip",
+              "sizeBytes": 11351859,
+              "digest": "sha256:89b1f6329f9a06fe4977e1e592a261bb897cf9e4135e8b1c11e06ffab0ef47b1",
+              "updatedAt": "2025-12-10T10:37:24Z",
+              "url": "https://github.com/BSp-2/Echo-fleet/releases/download/v0.2.1-alpha/Echo-fleet-main.31.zip"
+            }
+          ]
+        },
+        {
+          "id": 265249844,
+          "tag": "v0.2.01-alpha",
+          "name": "Small weather fix",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.2.01-alpha",
+          "publishedAt": "2025-11-25T19:51:15Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 265218883,
+          "tag": "v0.2-alpha",
+          "name": "Environment rework",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.2-alpha",
+          "publishedAt": "2025-11-25T17:51:57Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 246819905,
+          "tag": "v0.1.2-alpha",
+          "name": "Release v0.1.2-alpha",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.1.2-alpha",
+          "publishedAt": "2025-09-12T15:31:57Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 244086957,
+          "tag": "v0.1.11-alpha",
+          "name": "v0.1.11-alpha",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.1.11-alpha",
+          "publishedAt": "2025-09-02T11:45:26Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 244040844,
+          "tag": "v0.1.1-alpha",
+          "name": "Release v0.1.1-alpha",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.1.1-alpha",
+          "publishedAt": "2025-09-02T08:38:30Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 243740772,
+          "tag": "v0.1.0-alpha",
+          "name": "v0.1.0-alpha",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/v0.1.0-alpha",
+          "publishedAt": "2025-08-31T19:33:46Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 240393652,
+          "tag": "pre-alpha-beta.something",
+          "name": "fixing blocks",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/pre-alpha-beta.something",
+          "publishedAt": "2025-08-16T19:35:25Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 240393202,
+          "tag": "echo-fleet",
+          "name": "uhh release with the uunit factories",
+          "url": "https://github.com/BSp-2/Echo-fleet/releases/tag/echo-fleet",
+          "publishedAt": "2025-08-16T19:30:12Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
+    },
+    {
       "repository": "Catana791/Asthosus",
       "url": "https://github.com/Catana791/Asthosus",
       "archived": false,
@@ -896,8 +1033,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "e873b49bed8efa3b3979d984fe0f8c13757dc247",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/e873b49bed8efa3b3979d984fe0f8c13757dc247"
+        "commit": "ca86a3ce487933c40d25aeb7bdc5fd17949fec94",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/ca86a3ce487933c40d25aeb7bdc5fd17949fec94"
       },
       "latest": {
         "id": 221435847,
@@ -946,14 +1083,14 @@
         "path": "mod.json",
         "name": "aquarion",
         "displayName": "Aquarion",
-        "version": "4.2.4",
+        "version": "4.2.5",
         "minGameVersion": "160.3",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "ce7d78ba8f5711ee343a13b3124ae8307336b7ff",
-        "url": "https://github.com/Twcash/Aquarion/commit/ce7d78ba8f5711ee343a13b3124ae8307336b7ff"
+        "commit": "a4e07748533ccfd79c40280fff87f385be1c4b82",
+        "url": "https://github.com/Twcash/Aquarion/commit/a4e07748533ccfd79c40280fff87f385be1c4b82"
       },
       "latest": {
         "id": 392266914,
