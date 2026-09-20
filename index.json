@@ -1,0 +1,4064 @@
+{
+  "schemaVersion": 1,
+  "topic": "hubdustry-index",
+  "mods": [
+    {
+      "repository": "3Snake3/Sapphirium",
+      "url": "https://github.com/3Snake3/Sapphirium",
+      "archived": false,
+      "channel": "prerelease",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "sapphirium",
+        "displayName": "Sapphirium",
+        "version": "18.4",
+        "minGameVersion": "159.2",
+        "java": false
+      },
+      "source": {
+        "branch": "master",
+        "commit": "26c3d1fac79a74b888f8d2af3defd17f77a99b57",
+        "url": "https://github.com/3Snake3/Sapphirium/commit/26c3d1fac79a74b888f8d2af3defd17f77a99b57"
+      },
+      "latest": {
+        "id": 215065531,
+        "tag": "v17.2",
+        "name": "Beta 17.2 version",
+        "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v17.2",
+        "publishedAt": "2025-04-28T02:52:12Z",
+        "prerelease": true,
+        "assets": [
+          {
+            "id": 250013120,
+            "name": "sapphirium.zip",
+            "sizeBytes": 5131607,
+            "digest": null,
+            "updatedAt": "2025-04-28T02:49:34Z",
+            "url": "https://github.com/3Snake3/Sapphirium/releases/download/v17.2/sapphirium.zip"
+          }
+        ],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "sapphirium",
+          "displayName": "Sapphirium",
+          "version": "17.0",
+          "minGameVersion": "147",
+          "java": false
+        }
+      },
+      "releases": [
+        {
+          "id": 215065531,
+          "tag": "v17.2",
+          "name": "Beta 17.2 version",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v17.2",
+          "publishedAt": "2025-04-28T02:52:12Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 250013120,
+              "name": "sapphirium.zip",
+              "sizeBytes": 5131607,
+              "digest": null,
+              "updatedAt": "2025-04-28T02:49:34Z",
+              "url": "https://github.com/3Snake3/Sapphirium/releases/download/v17.2/sapphirium.zip"
+            }
+          ]
+        },
+        {
+          "id": 213551809,
+          "tag": "v17.1",
+          "name": "Beta 17.1 release",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v17.1",
+          "publishedAt": "2025-04-20T12:07:40Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 247914081,
+              "name": "sapphirium.zip",
+              "sizeBytes": 3999927,
+              "digest": null,
+              "updatedAt": "2025-04-20T12:07:38Z",
+              "url": "https://github.com/3Snake3/Sapphirium/releases/download/v17.1/sapphirium.zip"
+            }
+          ]
+        },
+        {
+          "id": 213002708,
+          "tag": "v17.0",
+          "name": "Huge Erekir Update",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v17.0",
+          "publishedAt": "2025-04-17T05:09:29Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 247526495,
+              "name": "sapphirium.zip",
+              "sizeBytes": 3996067,
+              "digest": null,
+              "updatedAt": "2025-04-18T15:55:34Z",
+              "url": "https://github.com/3Snake3/Sapphirium/releases/download/v17.0/sapphirium.zip"
+            }
+          ]
+        },
+        {
+          "id": 107965108,
+          "tag": "v16.1",
+          "name": "Addition to the v16 release",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v16.1",
+          "publishedAt": "2023-06-09T10:46:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 243064532,
+              "name": "sapphirium.jar",
+              "sizeBytes": 2864473,
+              "digest": null,
+              "updatedAt": "2025-04-03T01:14:31Z",
+              "url": "https://github.com/3Snake3/Sapphirium/releases/download/v16.1/sapphirium.jar"
+            }
+          ]
+        },
+        {
+          "id": 97719841,
+          "tag": "v16.0",
+          "name": "Global Update #16.0",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v16.0",
+          "publishedAt": "2023-04-01T07:18:58Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 111687148,
+              "name": "sapphirium.jar",
+              "sizeBytes": 2573589,
+              "digest": null,
+              "updatedAt": "2023-06-07T12:45:25Z",
+              "url": "https://github.com/3Snake3/Sapphirium/releases/download/v16.0/sapphirium.jar"
+            }
+          ]
+        },
+        {
+          "id": 73127504,
+          "tag": "v15.0",
+          "name": "Update to v15.0 Erekir Edition",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v15.0",
+          "publishedAt": "2022-07-29T05:41:12Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 78155473,
+              "name": "sapphirium.jar",
+              "sizeBytes": 1201605,
+              "digest": null,
+              "updatedAt": "2022-09-17T08:55:45Z",
+              "url": "https://github.com/3Snake3/Sapphirium/releases/download/v15.0/sapphirium.jar"
+            }
+          ]
+        },
+        {
+          "id": 66916941,
+          "tag": "v14.0",
+          "name": "Update #14.0",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v14.0",
+          "publishedAt": "2022-05-16T01:02:52Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 61944931,
+          "tag": "v13.0",
+          "name": "Update #13.0",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v13.0",
+          "publishedAt": "2022-03-16T00:06:25Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 56683503,
+          "tag": "v12.0",
+          "name": "Update #12.0",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v12.0",
+          "publishedAt": "2022-01-09T09:09:11Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 52647992,
+          "tag": "v11.0",
+          "name": "Update #11.0",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v11.0",
+          "publishedAt": "2021-11-04T02:11:11Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 50690533,
+          "tag": "v10.0",
+          "name": "Update #10.0",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v10.0",
+          "publishedAt": "2021-10-03T03:28:31Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 48471573,
+          "tag": "v9.0",
+          "name": "Update",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v9.0",
+          "publishedAt": "2021-08-26T03:42:56Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 45625831,
+          "tag": "V8.0",
+          "name": "Update",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/V8.0",
+          "publishedAt": "2021-07-02T14:01:46Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 43819303,
+          "tag": "v7.0",
+          "name": "Update, units deletion",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/v7.0",
+          "publishedAt": "2021-05-30T13:14:06Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 42575704,
+          "tag": "6.0",
+          "name": "Update",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/tag/6.0",
+          "publishedAt": "2021-05-07T00:50:48Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
+    },
+    {
+      "repository": "Catana791/Asthosus",
+      "url": "https://github.com/Catana791/Asthosus",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "asthosus",
+        "displayName": "Asthosus",
+        "version": "1.7.5",
+        "minGameVersion": "156.2",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "352306ccc68ef46183f7cf0522b7a322d0d4f453",
+        "url": "https://github.com/Catana791/Asthosus/commit/352306ccc68ef46183f7cf0522b7a322d0d4f453"
+      },
+      "latest": {
+        "id": 388456830,
+        "tag": "1.7.5",
+        "name": "v1.7.5 - Mindustry v160+ stable",
+        "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.5",
+        "publishedAt": "2026-09-14T14:19:11Z",
+        "prerelease": false,
+        "assets": [],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "asthosus",
+          "displayName": "Asthosus",
+          "version": "1.7.5",
+          "minGameVersion": "156.2",
+          "java": false
+        }
+      },
+      "releases": [
+        {
+          "id": 388456830,
+          "tag": "1.7.5",
+          "name": "v1.7.5 - Mindustry v160+ stable",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.5",
+          "publishedAt": "2026-09-14T14:19:11Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 360418212,
+          "tag": "1.7.4",
+          "name": "1.7.4",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.4",
+          "publishedAt": "2026-07-27T12:41:21Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 325153265,
+          "tag": "1.7.3-beta-3",
+          "name": "1.7.3-beta 2 - Asthosus 1.7.3 Pre-Release",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.3-beta-3",
+          "publishedAt": "2026-05-19T16:19:38Z",
+          "prerelease": true,
+          "assets": []
+        },
+        {
+          "id": 320624756,
+          "tag": "1.7.3-beta-2",
+          "name": "1.7.3-beta 2 - Asthosus 1.7.3 Pre-Release",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.3-beta-2",
+          "publishedAt": "2026-05-11T16:29:18Z",
+          "prerelease": true,
+          "assets": []
+        },
+        {
+          "id": 305670655,
+          "tag": "1.7.3-beta",
+          "name": "1.7.3-beta - Asthosus 1.7.3 Pre-Release",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.3-beta",
+          "publishedAt": "2026-04-06T13:58:39Z",
+          "prerelease": true,
+          "assets": []
+        },
+        {
+          "id": 305430302,
+          "tag": "1.7.2s",
+          "name": "v1.7.2s - Last Stable v7 Release",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.2s",
+          "publishedAt": "2026-04-05T14:21:27Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 279759721,
+          "tag": "1.7.2",
+          "name": "v1.7.2 - Shaft Rework & Smaller Fixes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.2",
+          "publishedAt": "2026-01-25T18:17:07Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 241611482,
+          "tag": "1.7.1",
+          "name": "v1.7.1 - v8 Fix and Barite Elder Changes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.1",
+          "publishedAt": "2025-08-21T18:45:05Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 238690697,
+          "tag": "1.7.0",
+          "name": "v1.7.0",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.7.0",
+          "publishedAt": "2025-08-08T19:30:19Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 222218817,
+          "tag": "1.6.8",
+          "name": "v1.6.8 - Hover units fix",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.8",
+          "publishedAt": "2025-05-31T12:22:39Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 221058937,
+          "tag": "1.6.7",
+          "name": "v1.6.7 - Map fixes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.7",
+          "publishedAt": "2025-05-26T17:46:24Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 219351329,
+          "tag": "1.6.6",
+          "name": "v1.6.6 - Minor Map Changes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.6",
+          "publishedAt": "2025-05-18T17:20:41Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 219331242,
+          "tag": "1.6.5",
+          "name": "v1.6.5",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.5",
+          "publishedAt": "2025-05-18T09:29:56Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 215809532,
+          "tag": "1.6.3",
+          "name": "v1.6.3 - Simplified Chinese translations",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.3",
+          "publishedAt": "2025-04-30T16:25:05Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 213505692,
+          "tag": "1.6.2",
+          "name": "v1.6.2 - Item and Liquid lore tablets.",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.2",
+          "publishedAt": "2025-04-19T18:25:40Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 210555584,
+          "tag": "1.6.1",
+          "name": "v1.6.1",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.1",
+          "publishedAt": "2025-04-05T13:34:15Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 206098774,
+          "tag": "1.6.0",
+          "name": "v1.6.0 - Fully Mapped",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.6.0",
+          "publishedAt": "2025-03-16T16:17:21Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 203223226,
+          "tag": "1.5.6",
+          "name": "v1.5.6 - Collection of minor changes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.5.6",
+          "publishedAt": "2025-03-02T14:26:25Z",
+          "prerelease": true,
+          "assets": []
+        },
+        {
+          "id": 183253594,
+          "tag": "1.5.2",
+          "name": "v1.5.2 - Integrated Music",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.5.2",
+          "publishedAt": "2024-11-03T11:44:26Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 175653135,
+          "tag": "1.5.1",
+          "name": "v1.5.1 - Minor pre-release",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.5.1",
+          "publishedAt": "2024-09-18T12:30:21Z",
+          "prerelease": true,
+          "assets": []
+        },
+        {
+          "id": 158982638,
+          "tag": "1.4",
+          "name": "v1.4 - LORE + Sprite&Balancing changes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.4",
+          "publishedAt": "2024-06-05T12:34:24Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 155393157,
+          "tag": "1.3",
+          "name": "v1.3 - More maps, difficulty changes",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.3",
+          "publishedAt": "2024-05-12T10:41:25Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 145633126,
+          "tag": "1.1",
+          "name": "v1.1 - Nicer Biomes, small but important additions.",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.1",
+          "publishedAt": "2024-03-09T15:55:11Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 143528939,
+          "tag": "1.0",
+          "name": "Version 1.0 - The first release",
+          "url": "https://github.com/Catana791/Asthosus/releases/tag/1.0",
+          "publishedAt": "2024-02-25T16:25:28Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
+    },
+    {
+      "repository": "stabu-dev/Omaloon",
+      "url": "https://github.com/stabu-dev/Omaloon",
+      "archived": false,
+      "channel": "prerelease",
+      "manifest": {
+        "path": "mod.json",
+        "name": "omaloon",
+        "displayName": "Omaloon",
+        "version": "0.1.2A Indev 8",
+        "minGameVersion": "159.7",
+        "java": true
+      },
+      "source": {
+        "branch": "master",
+        "commit": "df06b1ae34fc462384ce47549a0431a33b816012",
+        "url": "https://github.com/stabu-dev/Omaloon/commit/df06b1ae34fc462384ce47549a0431a33b816012"
+      },
+      "latest": {
+        "id": 365633003,
+        "tag": "v0.1.2A-indev8",
+        "name": "V0.1.2 Alpha Indev8",
+        "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev8",
+        "publishedAt": "2026-08-05T15:40:48Z",
+        "prerelease": true,
+        "assets": [
+          {
+            "id": 502791377,
+            "name": "Omaloon.jar",
+            "sizeBytes": 4133436,
+            "digest": "sha256:f27911fe66b9255570112c46d754649fb4b36494bf80ade2cbb324ba626166b8",
+            "updatedAt": "2026-08-05T15:36:56Z",
+            "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev8/Omaloon.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.json",
+          "name": "omaloon",
+          "displayName": "Omaloon",
+          "version": "0.1.2A Indev 8",
+          "minGameVersion": "159.7",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 365633003,
+          "tag": "v0.1.2A-indev8",
+          "name": "V0.1.2 Alpha Indev8",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev8",
+          "publishedAt": "2026-08-05T15:40:48Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 502791377,
+              "name": "Omaloon.jar",
+              "sizeBytes": 4133436,
+              "digest": "sha256:f27911fe66b9255570112c46d754649fb4b36494bf80ade2cbb324ba626166b8",
+              "updatedAt": "2026-08-05T15:36:56Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev8/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 305201681,
+          "tag": "v0.1.2A-indev7",
+          "name": "V0.1.2 Alpha Indev7",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev7",
+          "publishedAt": "2026-04-04T02:25:42Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 388366682,
+              "name": "Omaloon.jar",
+              "sizeBytes": 3990278,
+              "digest": "sha256:837dbbbef59116422f5fe56a9ab2a751d67b2f1d430f59d73fde743ae83b45f7",
+              "updatedAt": "2026-04-04T02:12:43Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev7/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 292747503,
+          "tag": "v0.1.2A-indev6",
+          "name": "v0.1.2 Alpha Indev6",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev6",
+          "publishedAt": "2026-03-03T22:26:58Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 366337026,
+              "name": "Omaloon.jar",
+              "sizeBytes": 3125989,
+              "digest": "sha256:45cb95b24a0e8ca8869e3969e0dc36a8fe0ca92c7e57134d031c1c1f466022ee",
+              "updatedAt": "2026-03-03T22:26:38Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev6/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 272076806,
+          "tag": "v0.1.2A-indev5",
+          "name": "v0.1.2 Alpha Indev5",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev5",
+          "publishedAt": "2025-12-22T02:23:46Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 331553509,
+              "name": "Omaloon.jar",
+              "sizeBytes": 2405625,
+              "digest": "sha256:fdd0ae3373129878be6f1aca45a55b7354557e6d3287f25031d9c39f5b663cc4",
+              "updatedAt": "2025-12-22T02:23:36Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev5/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 262822349,
+          "tag": "v0.1.2A-indev4",
+          "name": "v0.1.2 Alpha Indev4",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev4",
+          "publishedAt": "2025-11-17T01:41:22Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 317235149,
+              "name": "Omaloon.jar",
+              "sizeBytes": 1200068,
+              "digest": "sha256:08017bc389d8e0cabc36c371fdba88525871a51edce509ba636c5902081a77fe",
+              "updatedAt": "2025-11-17T01:26:59Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev4/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 258828972,
+          "tag": "v0.1.2A-indev3",
+          "name": "v0.1.2 Alpha Indev3",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev3",
+          "publishedAt": "2025-10-31T14:39:24Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 310966061,
+              "name": "Omaloon.jar",
+              "sizeBytes": 1045508,
+              "digest": "sha256:03920a98e42d8f8c7128a95029ae366886a95d87cc013c5978ba228a857b9e53",
+              "updatedAt": "2025-10-31T14:39:13Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev3/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 250647567,
+          "tag": "v0.1.2A-indev2",
+          "name": "v0.1.2 Alpha Indev2",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev2",
+          "publishedAt": "2025-09-29T01:35:51Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 298310128,
+              "name": "Omaloon.jar",
+              "sizeBytes": 1044880,
+              "digest": "sha256:f107502c88fe2120803cffb34529e02d66960d268ce0fd613cfefac434f6c1c9",
+              "updatedAt": "2025-09-29T01:26:31Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev2/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 230320944,
+          "tag": "v0.1.2A-indev1",
+          "name": "v0.1.2 Alpha Indev1",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev1",
+          "publishedAt": "2025-07-07T00:57:24Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 270525832,
+              "name": "Omaloon.jar",
+              "sizeBytes": 883145,
+              "digest": "sha256:104a4194ff503b7062d8a5e6bca32446a96c8ab0b0bf13e25471425de5790dbe",
+              "updatedAt": "2025-07-07T00:25:20Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev1/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 187172177,
+          "tag": "v0.1.1Ah",
+          "name": "v0.1.1 Alpha Hotfix",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.1Ah",
+          "publishedAt": "2024-11-24T18:23:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 208748388,
+              "name": "Omaloon.jar",
+              "sizeBytes": 41663749,
+              "digest": null,
+              "updatedAt": "2024-11-24T18:35:35Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.1Ah/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 187171401,
+          "tag": "v0.1.1A",
+          "name": "v0.1.1 Alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.1A",
+          "publishedAt": "2024-11-24T18:03:26Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 208742906,
+              "name": "Omaloon.jar",
+              "sizeBytes": 41663565,
+              "digest": null,
+              "updatedAt": "2024-11-24T18:03:23Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.1A/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 186682704,
+          "tag": "v0.1A",
+          "name": "v0.1 Alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1A",
+          "publishedAt": "2024-11-21T16:45:11Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 208117682,
+              "name": "Omaloon.jar",
+              "sizeBytes": 41650027,
+              "digest": null,
+              "updatedAt": "2024-11-21T16:11:19Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1A/Omaloon.jar"
+            }
+          ]
+        },
+        {
+          "id": 87887546,
+          "tag": "v0.6f",
+          "name": "v0.6f pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.6f",
+          "publishedAt": "2023-01-04T13:08:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90471267,
+              "name": "Omaloon-public.jar",
+              "sizeBytes": 16899420,
+              "digest": null,
+              "updatedAt": "2023-01-04T13:07:28Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.6f/Omaloon-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 87585540,
+          "tag": "v0.6",
+          "name": "v0.6 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.6",
+          "publishedAt": "2022-12-30T11:58:19Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 89964598,
+              "name": "Omaloon-public.jar",
+              "sizeBytes": 16899750,
+              "digest": null,
+              "updatedAt": "2022-12-30T11:58:03Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.6/Omaloon-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 71928179,
+          "tag": "v0.5",
+          "name": "v0.5 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.5",
+          "publishedAt": "2022-07-13T18:01:15Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 82012573,
+              "name": "Omaloon-public.jar",
+              "sizeBytes": 3170825,
+              "digest": null,
+              "updatedAt": "2022-10-23T19:31:19Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.5/Omaloon-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 71122601,
+          "tag": "v0.4.1",
+          "name": "v0.4.1 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.4.1",
+          "publishedAt": "2022-07-02T12:54:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 70363568,
+              "name": "Omaloon-mod-public.jar",
+              "sizeBytes": 2762322,
+              "digest": null,
+              "updatedAt": "2022-07-02T13:42:17Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.4.1/Omaloon-mod-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 69794461,
+          "tag": "v0.4",
+          "name": "v0.4 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.4",
+          "publishedAt": "2022-06-19T14:08:33Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 69782697,
+              "name": "Omaloon-mod-public.jar",
+              "sizeBytes": 2760935,
+              "digest": null,
+              "updatedAt": "2022-06-27T12:51:47Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.4/Omaloon-mod-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 68030319,
+          "tag": "v0.3",
+          "name": "v0.3 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.3",
+          "publishedAt": "2022-05-27T15:22:08Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 66888337,
+              "name": "Omaloon-mod-public.jar",
+              "sizeBytes": 222577,
+              "digest": null,
+              "updatedAt": "2022-05-28T16:26:46Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.3/Omaloon-mod-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 65377854,
+          "tag": "v0.2",
+          "name": "v0.2 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.2",
+          "publishedAt": "2022-04-26T17:06:12Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 63759084,
+              "name": "OmaLoon-mod-public.jar",
+              "sizeBytes": 678117,
+              "digest": null,
+              "updatedAt": "2022-04-27T05:23:20Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.2/OmaLoon-mod-public.jar"
+            }
+          ]
+        },
+        {
+          "id": 65167786,
+          "tag": "v0.1",
+          "name": "v0.1 pre alpha",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1",
+          "publishedAt": "2022-04-24T12:03:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 63494346,
+              "name": "OmaLoon-mod-public.jar",
+              "sizeBytes": 663485,
+              "digest": null,
+              "updatedAt": "2022-04-24T12:03:30Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1/OmaLoon-mod-public.jar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "TnmSpiroct/Exoprosopa",
+      "url": "https://github.com/TnmSpiroct/Exoprosopa",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "exoprosopa",
+        "displayName": "[[]#93E2EE]Exoprosopa",
+        "version": "0.92",
+        "minGameVersion": "160",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "e873b49bed8efa3b3979d984fe0f8c13757dc247",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/e873b49bed8efa3b3979d984fe0f8c13757dc247"
+      },
+      "latest": {
+        "id": 221435847,
+        "tag": "V0.71",
+        "name": "V0.71 Biome Update",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.71",
+        "publishedAt": "2025-05-28T04:33:09Z",
+        "prerelease": false,
+        "assets": [],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "exoprosopa",
+          "displayName": "[[]#93E2EE]Exoprosopa",
+          "version": "0.71",
+          "minGameVersion": "146",
+          "java": false
+        }
+      },
+      "releases": [
+        {
+          "id": 221435847,
+          "tag": "V0.71",
+          "name": "V0.71 Biome Update",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.71",
+          "publishedAt": "2025-05-28T04:33:09Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 219490566,
+          "tag": "V0.7",
+          "name": "Main Release of Exoprosopa",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.7",
+          "publishedAt": "2025-05-19T11:54:13Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
+    },
+    {
+      "repository": "Twcash/Aquarion",
+      "url": "https://github.com/Twcash/Aquarion",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.json",
+        "name": "aquarion",
+        "displayName": "Aquarion",
+        "version": "4.2.4",
+        "minGameVersion": "160.3",
+        "java": true
+      },
+      "source": {
+        "branch": "main",
+        "commit": "ce7d78ba8f5711ee343a13b3124ae8307336b7ff",
+        "url": "https://github.com/Twcash/Aquarion/commit/ce7d78ba8f5711ee343a13b3124ae8307336b7ff"
+      },
+      "latest": {
+        "id": 392266914,
+        "tag": "4.2.5",
+        "name": "4.2.5",
+        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.5",
+        "publishedAt": "2026-09-20T00:46:20Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 575787218,
+            "name": "Aquarion.jar",
+            "sizeBytes": 51994093,
+            "digest": "sha256:4f2294ea16c4367bd26b9923b312bf7002961accde3a8d93366cc1aa8b4ba3ed",
+            "updatedAt": "2026-09-20T00:46:19Z",
+            "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.5/Aquarion.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.json",
+          "name": "aquarion",
+          "displayName": "Aquarion",
+          "version": "4.2.4",
+          "minGameVersion": "160.3",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 392266914,
+          "tag": "4.2.5",
+          "name": "4.2.5",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.5",
+          "publishedAt": "2026-09-20T00:46:20Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 575787218,
+              "name": "Aquarion.jar",
+              "sizeBytes": 51994093,
+              "digest": "sha256:4f2294ea16c4367bd26b9923b312bf7002961accde3a8d93366cc1aa8b4ba3ed",
+              "updatedAt": "2026-09-20T00:46:19Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.5/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 388044215,
+          "tag": "4.2.4",
+          "name": "4.2.4",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.4",
+          "publishedAt": "2026-09-13T21:41:52Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 561989313,
+              "name": "Aquarion.jar",
+              "sizeBytes": 51893360,
+              "digest": "sha256:f6d825f1f8558f9d13f8ff5987b1ee674a353fb7420184987b59ca497b0e37a3",
+              "updatedAt": "2026-09-13T21:47:35Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.4/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 387707494,
+          "tag": "4.2.1",
+          "name": "4.2.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.1",
+          "publishedAt": "2026-09-12T21:21:45Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 559979416,
+              "name": "Aquarion.jar",
+              "sizeBytes": 51351740,
+              "digest": "sha256:5e172c88c6f5955d71397e08398dd8348abf09b9ec6915feddab3f12a4e9471d",
+              "updatedAt": "2026-09-12T21:21:44Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 387288268,
+          "tag": "4.2.0",
+          "name": "4.2.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.0",
+          "publishedAt": "2026-09-11T19:34:26Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 557878903,
+              "name": "Aquarion.jar",
+              "sizeBytes": 50797135,
+              "digest": "sha256:225c3cafc83e139bd6863e4970fe28eb0609a8dbf0907a2567a15af37f03c4d2",
+              "updatedAt": "2026-09-11T19:34:25Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 358945530,
+          "tag": "4.1.0.1",
+          "name": "4.1.0.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.1.0.1",
+          "publishedAt": "2026-07-23T20:44:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 488684551,
+              "name": "Aquarion.jar",
+              "sizeBytes": 107742504,
+              "digest": "sha256:67b5e79c72437b071c9712394ac218332ee7d169e62fd9fc343823031e26a50d",
+              "updatedAt": "2026-07-24T18:16:24Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.1.0.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 358295479,
+          "tag": "4.1.0.0",
+          "name": "4.1.0.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.1.0.0",
+          "publishedAt": "2026-07-22T20:22:12Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 486383078,
+              "name": "Aquarion.jar",
+              "sizeBytes": 107730979,
+              "digest": "sha256:6e25c2e31e647638a51b1f7085138f368c760731c29ca1f1cef08c720143755d",
+              "updatedAt": "2026-07-22T20:22:11Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.1.0.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 354604458,
+          "tag": "4.0.2",
+          "name": "4.0.2",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.0.2",
+          "publishedAt": "2026-07-15T17:34:05Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 478198117,
+              "name": "main-4.0.2.jar",
+              "sizeBytes": 2233054,
+              "digest": "sha256:494771260748596309c94171c59bf84499892ef9cc7e09c3eb72fc77920f8332",
+              "updatedAt": "2026-07-15T17:34:05Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.0.2/main-4.0.2.jar"
+            },
+            {
+              "id": 478198119,
+              "name": "tools-4.0.2.jar",
+              "sizeBytes": 75123,
+              "digest": "sha256:da9e8a52d71844fa54cd0ac891d57aebfc9e6fc61ffc0fb43b85289313e63440",
+              "updatedAt": "2026-07-15T17:34:04Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.0.2/tools-4.0.2.jar"
+            },
+            {
+              "id": 478198120,
+              "name": "zannotations-4.0.2.jar",
+              "sizeBytes": 141521,
+              "digest": "sha256:1fc0e6222d0adaa760eeb58cbb14b22d5a4133d308bc4a02bd07510d2d877689",
+              "updatedAt": "2026-07-15T20:03:34Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.0.2/zannotations-4.0.2.jar"
+            },
+            {
+              "id": 479503449,
+              "name": "Aquarion-4.0.2.jar",
+              "sizeBytes": 106311821,
+              "digest": "sha256:329c71175b5df541ee2c1197ca17f1b714cf6b0e6d1f0fe2fe8d25bbf01a0a9a",
+              "updatedAt": "2026-07-16T18:40:10Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.0.2/Aquarion-4.0.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 329454844,
+          "tag": "4.0.1",
+          "name": "Release 4.01",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.0.1",
+          "publishedAt": "2026-05-26T14:20:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 430237088,
+              "name": "Aquarion.jar",
+              "sizeBytes": 101323478,
+              "digest": "sha256:e109a248c5492af0794d4ed561f050767801ea943c43fd7b3aad3ad483402420",
+              "updatedAt": "2026-05-26T14:33:03Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.0.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 328376984,
+          "tag": "4.0.0",
+          "name": "4.0.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.0.0",
+          "publishedAt": "2026-05-23T19:16:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 428055913,
+              "name": "Aquarion.jar",
+              "sizeBytes": 101105943,
+              "digest": "sha256:0d22840d8a519e4a419ec23cb3fd9ee57a6eb7e6e6e9601685a5f020aeb8a6ed",
+              "updatedAt": "2026-05-23T19:15:58Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.0.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 319041942,
+          "tag": "3.9.4",
+          "name": "3.9.4",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.9.4",
+          "publishedAt": "2026-05-07T16:43:29Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 414532274,
+              "name": "Aquarion.jar",
+              "sizeBytes": 92027204,
+              "digest": "sha256:2cd42eaa3940c4d3b5d6b2b935fc4ab9ee84489386d6e3487d8a20aa0cdd1918",
+              "updatedAt": "2026-05-07T16:08:51Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.9.4/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 301962192,
+          "tag": "3.9.3",
+          "name": "3.9.3",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.9.3",
+          "publishedAt": "2026-03-26T15:56:40Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 399511870,
+              "name": "aquarion.jar",
+              "sizeBytes": 90695412,
+              "digest": "sha256:857397569fa56f2c866ae301066a5feeca10f26f8e868220a7bea2692602d6d6",
+              "updatedAt": "2026-04-18T19:06:06Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.9.3/aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 292787176,
+          "tag": "3.8.3",
+          "name": "3.8.3",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.8.3",
+          "publishedAt": "2026-03-04T01:40:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 366438672,
+              "name": "aquarion.jar",
+              "sizeBytes": 89849624,
+              "digest": "sha256:49a8a90000df2e73ad5c63208647db37f53d36627f20e22cadee343741ae9945",
+              "updatedAt": "2026-03-04T01:40:06Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.8.3/aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 275373663,
+          "tag": "3.8.2",
+          "name": "3.8.2",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.8.2",
+          "publishedAt": "2026-01-09T04:03:06Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 341273900,
+              "name": "aquarion.jar",
+              "sizeBytes": 89240151,
+              "digest": "sha256:356087fe0c0deaed8d7a9971008eba23547b423dbd836d3c44daf94bdc03a45e",
+              "updatedAt": "2026-01-16T03:11:50Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.8.2/aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 273280052,
+          "tag": "3.8.1",
+          "name": "3.8.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.8.1",
+          "publishedAt": "2025-12-29T20:41:20Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 334266788,
+              "name": "aquarion.jar",
+              "sizeBytes": 115523005,
+              "digest": "sha256:4e0903472160ff902aebed3d4c089c6299acc2775d59e73aede99dcaa45a466a",
+              "updatedAt": "2025-12-30T00:00:33Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.8.1/aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 267294495,
+          "tag": "3.8.0",
+          "name": "3.8.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.8.0",
+          "publishedAt": "2025-12-04T03:48:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 333981925,
+              "name": "aquarion.jar",
+              "sizeBytes": 115433408,
+              "digest": "sha256:172a5345d667f6d99dde95f56bdbca4d1ef08ef253c84a0bc7654c7ad149cf30",
+              "updatedAt": "2025-12-29T04:56:13Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.8.0/aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 248095230,
+          "tag": "3.7.0",
+          "name": "3.7.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.7.0",
+          "publishedAt": "2025-09-17T19:52:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 294377938,
+              "name": "Aquarion.jar",
+              "sizeBytes": 109615177,
+              "digest": "sha256:6a945bb0e3ce7e67f7ed9a110de89e848ac0cff0a649f2e8486bb909cc93f83a",
+              "updatedAt": "2025-09-17T20:24:54Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.7.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 243942843,
+          "tag": "3.6.4",
+          "name": "3.6.4",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.6.4",
+          "publishedAt": "2025-09-01T18:37:57Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 288559870,
+              "name": "Aquarion.jar",
+              "sizeBytes": 71636879,
+              "digest": "sha256:daa8ca23bc1c4052b4e44c907cdf5264f3628489d86e265694af016adc2dfc00",
+              "updatedAt": "2025-09-01T22:35:35Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.6.4/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 243773639,
+          "tag": "3.6.3",
+          "name": "3.6.3",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.6.3",
+          "publishedAt": "2025-09-01T04:27:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 288312008,
+              "name": "Aquarion.jar",
+              "sizeBytes": 71634110,
+              "digest": "sha256:8dd07eb171899ac4d326af7a9e7ebb83c46e9ab948cf9f858e030274b1e1971a",
+              "updatedAt": "2025-09-01T04:27:19Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.6.3/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 243618538,
+          "tag": "3.6.2",
+          "name": "3.6.2",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.6.2",
+          "publishedAt": "2025-08-30T01:52:21Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 287738829,
+              "name": "Aquarion.jar",
+              "sizeBytes": 71634151,
+              "digest": "sha256:aefe3b73c8922ccaa635a8d21e53a79fce9cabf368cf8da8161d5a2f67d767b0",
+              "updatedAt": "2025-08-30T01:52:11Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.6.2/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 243358721,
+          "tag": "3.6.1",
+          "name": "3.6.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.6.1",
+          "publishedAt": "2025-08-29T03:10:19Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 287579505,
+              "name": "Aquarion.jar",
+              "sizeBytes": 70594635,
+              "digest": "sha256:5c5ff1b7dde0958b07c4d7192cf63f3d4c55c2cab79376c634151ae7f7dd7d49",
+              "updatedAt": "2025-08-29T15:59:25Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.6.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 243020238,
+          "tag": "3.6.0",
+          "name": "3.6.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.6.0",
+          "publishedAt": "2025-08-28T00:18:00Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 286941346,
+              "name": "Aquarion.jar",
+              "sizeBytes": 70493633,
+              "digest": "sha256:13d6e035edefa30feb1482339591ebcaadbe024186f59083039416ad2b9a3642",
+              "updatedAt": "2025-08-28T00:17:35Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.6.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 228580403,
+          "tag": "3.5.0",
+          "name": "3.5.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.5.0",
+          "publishedAt": "2025-06-29T05:40:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 268306637,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69772962,
+              "digest": "sha256:a570a417ee8edd14c71c26cc230cf3559ccf6910c9ad69d6f07b3c579128ff8a",
+              "updatedAt": "2025-06-29T05:40:39Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.5.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 226929555,
+          "tag": "3.4.3",
+          "name": "3.4.3",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.4.3",
+          "publishedAt": "2025-06-23T00:39:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 266403420,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69586333,
+              "digest": "sha256:8e341e6e1c4fab24c032d6605b68862618ebd8d76c1f94a55b67e74f583d7b92",
+              "updatedAt": "2025-06-23T06:58:23Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.4.3/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 226879499,
+          "tag": "3.4.2",
+          "name": "3.4.2",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.4.2",
+          "publishedAt": "2025-06-22T06:43:48Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 266173426,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69582469,
+              "digest": "sha256:5222459eb675bc49afd2ab142de5504cef8e5f271ebc138c45d41b6bca2d4510",
+              "updatedAt": "2025-06-22T06:56:11Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.4.2/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 226872097,
+          "tag": "3.4.1",
+          "name": "3.4.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.4.1",
+          "publishedAt": "2025-06-22T03:15:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 266145643,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69579491,
+              "digest": "sha256:939b52f023f7c58c78a40c73422469cc607e5d1687a7871be1bfb6663adc0266",
+              "updatedAt": "2025-06-22T03:15:38Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.4.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 226869089,
+          "tag": "3.4.0",
+          "name": "3.4.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.4.0",
+          "publishedAt": "2025-06-22T01:35:25Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 266121952,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69579851,
+              "digest": "sha256:1df963dd584252f1fdbd2c9dcc35d2d4222400c1c46fc49563b574355046ed1b",
+              "updatedAt": "2025-06-22T01:35:03Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.4.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 220677804,
+          "tag": "3.3.1",
+          "name": "3.3.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.3.1",
+          "publishedAt": "2025-05-23T15:24:11Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 257486277,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69348201,
+              "digest": null,
+              "updatedAt": "2025-05-23T15:21:55Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.3.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 220110518,
+          "tag": "3.3.0",
+          "name": "3.3.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.3.0",
+          "publishedAt": "2025-05-21T15:26:33Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 256735378,
+              "name": "Aquarion.jar",
+              "sizeBytes": 69165771,
+              "digest": null,
+              "updatedAt": "2025-05-21T15:26:31Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.3.0/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 207274107,
+          "tag": "3.2",
+          "name": "3.2.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.2",
+          "publishedAt": "2025-03-20T19:58:25Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 251910711,
+              "name": "Aquarion.jar",
+              "sizeBytes": 65941220,
+              "digest": null,
+              "updatedAt": "2025-05-05T04:20:05Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.2/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 196807227,
+          "tag": "3.1",
+          "name": "3.1",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.1",
+          "publishedAt": "2025-01-26T05:25:54Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 223562967,
+              "name": "Aquarion.jar",
+              "sizeBytes": 4318487,
+              "digest": null,
+              "updatedAt": "2025-01-26T05:34:28Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.1/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 181639972,
+          "tag": "3.0.3.92",
+          "name": "3.0.3.92",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.0.3.92",
+          "publishedAt": "2024-10-24T05:12:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 201708742,
+              "name": "Aquarion.jar",
+              "sizeBytes": 3254947,
+              "digest": null,
+              "updatedAt": "2024-10-25T13:36:24Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.0.3.92/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 181118470,
+          "tag": "3.0.1.1",
+          "name": "Ver: 3.0.1.8",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/3.0.1.1",
+          "publishedAt": "2024-10-22T00:53:09Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 200778688,
+              "name": "AquarionDesktop.jar",
+              "sizeBytes": 3134719,
+              "digest": null,
+              "updatedAt": "2024-10-22T00:52:16Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/3.0.1.1/AquarionDesktop.jar"
+            }
+          ]
+        },
+        {
+          "id": 180860601,
+          "tag": "Release",
+          "name": "Ver: 3.0.0.6",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/Release",
+          "publishedAt": "2024-10-20T06:42:28Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 200480021,
+              "name": "AquarionDesktop.jar",
+              "sizeBytes": 2984612,
+              "digest": null,
+              "updatedAt": "2024-10-20T20:55:00Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/Release/AquarionDesktop.jar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "Yuria-Shikibe/NewHorizonMod",
+      "url": "https://github.com/Yuria-Shikibe/NewHorizonMod",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "new-horizon",
+        "displayName": "New Horizon",
+        "version": "2.2.2-pre-beta",
+        "minGameVersion": "159.7",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "d34eb9ffbb92b829091bec09fcd7218cfd19bbcd",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d34eb9ffbb92b829091bec09fcd7218cfd19bbcd"
+      },
+      "latest": {
+        "id": 363115247,
+        "tag": "v2.2.1",
+        "name": "2.2.1 Release (v159.7)",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.2.1",
+        "publishedAt": "2026-07-31T14:10:35Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 496817477,
+            "name": "NewHorizonMod.2.2.1.jar",
+            "sizeBytes": 11513541,
+            "digest": "sha256:4d9c1d036e4bfe59f5c790c7064f776d63ebb951f24b4ab9aae71046e4615c87",
+            "updatedAt": "2026-07-31T15:03:52Z",
+            "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.2.1/NewHorizonMod.2.2.1.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "new-horizon",
+          "displayName": "New Horizon",
+          "version": "2.2.1",
+          "minGameVersion": "159.7",
+          "java": false
+        }
+      },
+      "releases": [
+        {
+          "id": 363115247,
+          "tag": "v2.2.1",
+          "name": "2.2.1 Release (v159.7)",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.2.1",
+          "publishedAt": "2026-07-31T14:10:35Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 496817477,
+              "name": "NewHorizonMod.2.2.1.jar",
+              "sizeBytes": 11513541,
+              "digest": "sha256:4d9c1d036e4bfe59f5c790c7064f776d63ebb951f24b4ab9aae71046e4615c87",
+              "updatedAt": "2026-07-31T15:03:52Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.2.1/NewHorizonMod.2.2.1.jar"
+            }
+          ]
+        },
+        {
+          "id": 350085906,
+          "tag": "v2.1.2",
+          "name": "2.1.2 Release (v159)",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.1.2",
+          "publishedAt": "2026-07-07T07:39:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 468933524,
+              "name": "NewHorizonMod.2.1.2.jar",
+              "sizeBytes": 11046424,
+              "digest": "sha256:e22ac5762931b35f836b56b2c9b8eebe7b4ec607d47ab997e052f3e4ef20f1bf",
+              "updatedAt": "2026-07-07T07:39:15Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.1.2/NewHorizonMod.2.1.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 349098340,
+          "tag": "v2.1.1",
+          "name": "2.1.1 Release (v158)",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.1.1",
+          "publishedAt": "2026-07-05T05:43:14Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 466918197,
+              "name": "NewHorizonMod.2.1.1.jar",
+              "sizeBytes": 10995827,
+              "digest": "sha256:859489f1152a83457fc7f5e997ad0308de36d0ac5df827ab0835b930465fb5fb",
+              "updatedAt": "2026-07-05T05:40:57Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.1.1/NewHorizonMod.2.1.1.jar"
+            }
+          ]
+        },
+        {
+          "id": 345901628,
+          "tag": "v2.1.0",
+          "name": "2.1.0 Release (v158)",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.1.0",
+          "publishedAt": "2026-06-28T12:15:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 460212955,
+              "name": "NewHorizonMod2.1.0.jar",
+              "sizeBytes": 10886541,
+              "digest": "sha256:3d1f6874d54c9fbaa652c178b87df43e9b597cc0546984bad9491a04f1f8d9e8",
+              "updatedAt": "2026-06-28T12:15:09Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.1.0/NewHorizonMod2.1.0.jar"
+            }
+          ]
+        },
+        {
+          "id": 271939837,
+          "tag": "2.0_v154_1",
+          "name": "2.0_v154_1",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/2.0_v154_1",
+          "publishedAt": "2025-12-20T11:54:36Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 331027160,
+              "name": "NewHorizonMod.2.0_v154_1.jar",
+              "sizeBytes": 10522878,
+              "digest": "sha256:052545941e5a306b2ca03cb80e90d4138efc4d78db21c44138dd55e5830d0003",
+              "updatedAt": "2025-12-20T11:53:29Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/2.0_v154_1/NewHorizonMod.2.0_v154_1.jar"
+            }
+          ]
+        },
+        {
+          "id": 271126557,
+          "tag": "2.0_v154_0",
+          "name": "2.0_v154_0",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/2.0_v154_0",
+          "publishedAt": "2025-12-17T15:00:54Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 329834290,
+              "name": "NewHorizonMod.2.0_v154_0.jar",
+              "sizeBytes": 10213876,
+              "digest": "sha256:eb670752043b032edac19d7169179f3cc6057db283a4904117f2c3bb9ac0b038",
+              "updatedAt": "2025-12-17T15:00:40Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/2.0_v154_0/NewHorizonMod.2.0_v154_0.jar"
+            }
+          ]
+        },
+        {
+          "id": 251459016,
+          "tag": "v2.0-pre-beta-4",
+          "name": "2.0 PRE-BETA-4 RELEASE",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.0-pre-beta-4",
+          "publishedAt": "2025-10-01T14:56:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 299335438,
+              "name": "NewHorizonMod.2.0-pre-alpha-4.jar",
+              "sizeBytes": 7889286,
+              "digest": "sha256:2a6205cb41d3b947f87d717b26fced8e087f73283f71e3198d9b300115a88448",
+              "updatedAt": "2025-10-01T14:55:10Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.0-pre-beta-4/NewHorizonMod.2.0-pre-alpha-4.jar"
+            }
+          ]
+        },
+        {
+          "id": 242233531,
+          "tag": "v2.0-pre-beta",
+          "name": "2.0 PRE-BETA RELEASE",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.0-pre-beta",
+          "publishedAt": "2025-08-25T11:21:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 286002736,
+              "name": "NewHorizonMod.2.0-pre-beta-1.jar",
+              "sizeBytes": 7825647,
+              "digest": "sha256:e1d0693ebe3a4390a5ba2b6a1c857bd0b8e20d4f03a4a4cce7cd1e6fe6013899",
+              "updatedAt": "2025-08-25T11:21:53Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.0-pre-beta/NewHorizonMod.2.0-pre-beta-1.jar"
+            }
+          ]
+        },
+        {
+          "id": 216470955,
+          "tag": "v2.0",
+          "name": "2.0 ALPHA VERSION",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.0",
+          "publishedAt": "2025-05-05T11:49:24Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 252037274,
+              "name": "NewHorizonMod.2a36.jar",
+              "sizeBytes": 7456869,
+              "digest": null,
+              "updatedAt": "2025-05-05T15:47:28Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.0/NewHorizonMod.2a36.jar"
+            }
+          ]
+        },
+        {
+          "id": 198368048,
+          "tag": "0.5.8",
+          "name": "0.5.8 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.5.8",
+          "publishedAt": "2025-02-04T15:36:46Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 226209244,
+              "name": "NewHorizonMod.0.5.8.jar",
+              "sizeBytes": 8112316,
+              "digest": null,
+              "updatedAt": "2025-02-04T15:27:21Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.8/NewHorizonMod.0.5.8.jar"
+            }
+          ]
+        },
+        {
+          "id": 194236077,
+          "tag": "0.5.7",
+          "name": "0.5.7 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.5.7",
+          "publishedAt": "2025-01-11T11:24:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 219670560,
+              "name": "NewHorizonMod.0.5.7hotfix.jar",
+              "sizeBytes": 7942652,
+              "digest": null,
+              "updatedAt": "2025-01-11T16:20:21Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.7/NewHorizonMod.0.5.7hotfix.jar"
+            }
+          ]
+        },
+        {
+          "id": 184071610,
+          "tag": "0.5.4",
+          "name": "0.5.4 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.5.4",
+          "publishedAt": "2024-11-07T05:22:54Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 204720946,
+              "name": "NewHorizonMod.0.5.4.jar",
+              "sizeBytes": 7667980,
+              "digest": null,
+              "updatedAt": "2024-11-07T05:22:49Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.4/NewHorizonMod.0.5.4.jar"
+            }
+          ]
+        },
+        {
+          "id": 177431017,
+          "tag": "0.5.3",
+          "name": "0.5.3",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.5.3",
+          "publishedAt": "2024-09-28T16:33:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 195800372,
+              "name": "NewHorizonMod.0.5.3.2.jar",
+              "sizeBytes": 7560468,
+              "digest": null,
+              "updatedAt": "2024-09-30T03:27:02Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.3/NewHorizonMod.0.5.3.2.jar"
+            },
+            {
+              "id": 196681179,
+              "name": "NewHorizonMod.0.5.3.2-vietnamese-translation.jar",
+              "sizeBytes": 7606619,
+              "digest": null,
+              "updatedAt": "2024-10-03T16:23:56Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.3/NewHorizonMod.0.5.3.2-vietnamese-translation.jar"
+            }
+          ]
+        },
+        {
+          "id": 173208957,
+          "tag": "0.5.2",
+          "name": "0.5.2 update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.5.2",
+          "publishedAt": "2024-09-03T13:35:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 190117566,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 7346096,
+              "digest": null,
+              "updatedAt": "2024-09-03T13:35:14Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 168600405,
+          "tag": "0.5.1",
+          "name": "0.5.1 update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.5.1",
+          "publishedAt": "2024-08-04T12:07:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 183821136,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 7101943,
+              "digest": null,
+              "updatedAt": "2024-08-04T14:25:34Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.5.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 165305995,
+          "tag": "v0.5.0",
+          "name": "0.5.0 update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.5.0",
+          "publishedAt": "2024-07-13T15:55:19Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 179384116,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 7007937,
+              "digest": null,
+              "updatedAt": "2024-07-13T15:55:19Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.5.0/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 116023531,
+          "tag": "v0.4.8",
+          "name": "0.4.8 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.8",
+          "publishedAt": "2023-08-11T06:53:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 121220680,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 7100128,
+              "digest": null,
+              "updatedAt": "2023-08-12T12:58:15Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 115317257,
+          "tag": "v0.4.7",
+          "name": "0.4.7 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.7",
+          "publishedAt": "2023-08-06T02:34:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 120295756,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6943604,
+              "digest": null,
+              "updatedAt": "2023-08-06T04:30:35Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 114745891,
+          "tag": "v0.4.6",
+          "name": "0.4.6 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.6",
+          "publishedAt": "2023-08-02T03:31:07Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 119696706,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6922982,
+              "digest": null,
+              "updatedAt": "2023-08-02T04:15:20Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 113006029,
+          "tag": "0.4.5",
+          "name": "0.4.5 Map Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.4.5",
+          "publishedAt": "2023-07-21T05:51:45Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 117954793,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6861577,
+              "digest": null,
+              "updatedAt": "2023-07-21T07:32:14Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.4.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 112415608,
+          "tag": "v0.4.4",
+          "name": "0.4.4 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.4",
+          "publishedAt": "2023-07-16T16:41:31Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 117259540,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6721711,
+              "digest": null,
+              "updatedAt": "2023-07-16T16:40:45Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 112221248,
+          "tag": "v0.4.3",
+          "name": "0.4.3 Update & Remake",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.3",
+          "publishedAt": "2023-07-14T08:35:30Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 116963294,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6619170,
+              "digest": null,
+              "updatedAt": "2023-07-14T08:35:22Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 112049095,
+          "tag": "v0.4.2.1",
+          "name": "0.4.2.1 Fix",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.2.1",
+          "publishedAt": "2023-07-13T04:53:11Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 116783068,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6596211,
+              "digest": null,
+              "updatedAt": "2023-07-13T04:53:09Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.2.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 111903416,
+          "tag": "v0.4.2",
+          "name": "0.4.2 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.2",
+          "publishedAt": "2023-07-12T07:13:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 116642131,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6593360,
+              "digest": null,
+              "updatedAt": "2023-07-12T07:49:39Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 108972114,
+          "tag": "v0.4.1",
+          "name": "0.4.1 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4.1",
+          "publishedAt": "2023-06-17T15:32:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 113562906,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6547566,
+              "digest": null,
+              "updatedAt": "2023-06-20T14:05:45Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 108730653,
+          "tag": "v0.4",
+          "name": "0.4 UPDATE",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.4",
+          "publishedAt": "2023-06-15T13:30:57Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 112921785,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6457447,
+              "digest": null,
+              "updatedAt": "2023-06-15T15:55:38Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 106444763,
+          "tag": "v0.3.3",
+          "name": "0.3.3 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.3.3",
+          "publishedAt": "2023-06-03T14:25:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 111117932,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6203251,
+              "digest": null,
+              "updatedAt": "2023-06-03T14:21:18Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.3.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 103031670,
+          "tag": "v0.3.2.2",
+          "name": "0.3.2.2 Fix",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.3.2.2",
+          "publishedAt": "2023-05-15T16:03:18Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 108265914,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6109760,
+              "digest": null,
+              "updatedAt": "2023-05-15T16:03:16Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.3.2.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 102878593,
+          "tag": "v0.3.2",
+          "name": "0.3.2 Update & Adapt",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.3.2",
+          "publishedAt": "2023-05-13T19:08:31Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 108028154,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6101529,
+              "digest": null,
+              "updatedAt": "2023-05-13T19:08:29Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.3.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 102097652,
+          "tag": "v0.3.1.1",
+          "name": "0.3.1.1 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.3.1.1",
+          "publishedAt": "2023-05-06T15:00:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 106999254,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 6070095,
+              "digest": null,
+              "updatedAt": "2023-05-06T15:00:52Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.3.1.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 95291497,
+          "tag": "v0.3,0",
+          "name": "0.3.0 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.3%2C0",
+          "publishedAt": "2023-03-11T18:12:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 98985802,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5794502,
+              "digest": null,
+              "updatedAt": "2023-03-11T18:25:50Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.3%2C0/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 93680089,
+          "tag": "v0.2.9",
+          "name": "0.2.9 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.9",
+          "publishedAt": "2023-02-25T13:54:01Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 97197794,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5741892,
+              "digest": null,
+              "updatedAt": "2023-02-26T15:43:01Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 91380294,
+          "tag": "v0.2.8",
+          "name": "0.2.8 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.8",
+          "publishedAt": "2023-02-05T11:58:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 94389195,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5668049,
+              "digest": null,
+              "updatedAt": "2023-02-05T13:50:12Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 90158233,
+          "tag": "v0.2.7",
+          "name": "0.2.7 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.7",
+          "publishedAt": "2023-01-25T11:08:36Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 92971840,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5511450,
+              "digest": null,
+              "updatedAt": "2023-01-25T11:08:26Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 89500275,
+          "tag": "v0.2.6.1",
+          "name": "0.2.6.1 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.6.1",
+          "publishedAt": "2023-01-19T05:33:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 92259058,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5395457,
+              "digest": null,
+              "updatedAt": "2023-01-19T10:16:33Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.6.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 88535630,
+          "tag": "v0.2.5",
+          "name": "0.2.5 Resume & Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.5",
+          "publishedAt": "2023-01-11T06:18:01Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 91254930,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5231302,
+              "digest": null,
+              "updatedAt": "2023-01-11T06:18:00Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 88194426,
+          "tag": "v0.2.4",
+          "name": "0.2.4 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.4",
+          "publishedAt": "2023-01-07T02:26:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90793089,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5195528,
+              "digest": null,
+              "updatedAt": "2023-01-07T02:26:58Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 87652604,
+          "tag": "v0.2.3",
+          "name": "0.2.3 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.3",
+          "publishedAt": "2023-01-01T10:16:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90146277,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5096740,
+              "digest": null,
+              "updatedAt": "2023-01-01T10:24:41Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 86769842,
+          "tag": "v0.2.2",
+          "name": "0.2.2 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2.2",
+          "publishedAt": "2022-12-21T10:41:26Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 89010047,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5589980,
+              "digest": null,
+              "updatedAt": "2022-12-21T10:41:25Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 79358851,
+          "tag": "0.2.1",
+          "name": "0.2.1 Adaption & Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.2.1",
+          "publishedAt": "2022-10-09T05:16:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 80426795,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5504389,
+              "digest": null,
+              "updatedAt": "2022-10-09T05:13:30Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.2.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 78779412,
+          "tag": "v0.2",
+          "name": "0.2 Event System Framework Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.2",
+          "publishedAt": "2022-10-02T05:49:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 79695732,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5444903,
+              "digest": null,
+              "updatedAt": "2022-10-02T05:48:59Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 77459409,
+          "tag": "v0.1.8",
+          "name": "0.1.8 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.8",
+          "publishedAt": "2022-09-17T17:55:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 78184802,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5355901,
+              "digest": null,
+              "updatedAt": "2022-09-17T17:55:47Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 75751686,
+          "tag": "v0.1.6.1",
+          "name": "0.1.6.1 Server Adaption",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.6.1",
+          "publishedAt": "2022-08-30T10:02:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 76287374,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4994759,
+              "digest": null,
+              "updatedAt": "2022-08-30T10:02:46Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.6.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 75737583,
+          "tag": "v0.1.6",
+          "name": "0.1.6 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.6",
+          "publishedAt": "2022-08-30T07:59:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 76281028,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4993722,
+              "digest": null,
+              "updatedAt": "2022-08-30T08:58:02Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 74925249,
+          "tag": "v0.1.5",
+          "name": "0.1.5 Resmue",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.5",
+          "publishedAt": "2022-08-21T07:10:58Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 75364890,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4799018,
+              "digest": null,
+              "updatedAt": "2022-08-21T07:10:57Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 74372206,
+          "tag": "v0.1.4",
+          "name": "0.1.4 Turret Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.4",
+          "publishedAt": "2022-08-14T07:30:58Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 74664447,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4715529,
+              "digest": null,
+              "updatedAt": "2022-08-14T08:28:05Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 74355559,
+          "tag": "v0.1.3",
+          "name": "0.1.3 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.3",
+          "publishedAt": "2022-08-13T14:02:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 74603667,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4603382,
+              "digest": null,
+              "updatedAt": "2022-08-13T14:02:25Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 73833743,
+          "tag": "v7_0.1.2",
+          "name": "0.1.2 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v7_0.1.2",
+          "publishedAt": "2022-08-07T14:23:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 73968710,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4589134,
+              "digest": null,
+              "updatedAt": "2022-08-07T14:23:58Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v7_0.1.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 73639292,
+          "tag": "v0.1.1",
+          "name": "0.1.1 v7 Resume",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v0.1.1",
+          "publishedAt": "2022-08-04T12:30:45Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 73671474,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4492833,
+              "digest": null,
+              "updatedAt": "2022-08-04T12:30:44Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v0.1.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 72692310,
+          "tag": "0.1-Alpha-V7",
+          "name": "0.1 Alpha For V7",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/0.1-Alpha-V7",
+          "publishedAt": "2022-07-24T08:28:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 72518769,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4176742,
+              "digest": null,
+              "updatedAt": "2022-07-24T08:27:34Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/0.1-Alpha-V7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 62856163,
+          "tag": "v1.11.0.6.1",
+          "name": "1.11.0.6.1 Bug Fixes",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.11.0.6.1",
+          "publishedAt": "2022-03-27T01:40:08Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 60714613,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5806977,
+              "digest": null,
+              "updatedAt": "2022-03-27T01:46:06Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.11.0.6.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 62259984,
+          "tag": "v1.11.0.6",
+          "name": "1.11.0.6 Optimization",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.11.0.6",
+          "publishedAt": "2022-03-20T01:32:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 60000426,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5803462,
+              "digest": null,
+              "updatedAt": "2022-03-20T01:31:56Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.11.0.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 59597742,
+          "tag": "v1.11.0.5",
+          "name": "1.11.0.5 Fixes",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.11.0.5",
+          "publishedAt": "2022-02-15T12:02:15Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 56894078,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5788553,
+              "digest": null,
+              "updatedAt": "2022-02-15T12:02:14Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.11.0.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 59524468,
+          "tag": "v1.11.0",
+          "name": "1.11.0 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.11.0",
+          "publishedAt": "2022-02-14T15:54:33Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 56810194,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5770178,
+              "digest": null,
+              "updatedAt": "2022-02-14T17:28:56Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.11.0/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58758022,
+          "tag": "v1.10.9.1",
+          "name": "More Events for 1.10.9.1",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.9.1",
+          "publishedAt": "2022-02-06T05:45:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55981101,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5722376,
+              "digest": null,
+              "updatedAt": "2022-02-06T07:49:58Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.9.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58753469,
+          "tag": "v1.10.9",
+          "name": "1.10.9 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.9",
+          "publishedAt": "2022-02-05T06:53:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55917814,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5679558,
+              "digest": null,
+              "updatedAt": "2022-02-05T09:28:40Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58571060,
+          "tag": "v1.10.8",
+          "name": "1.10.8 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.8",
+          "publishedAt": "2022-02-03T06:13:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55704797,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5660412,
+              "digest": null,
+              "updatedAt": "2022-02-03T06:16:58Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58521356,
+          "tag": "v1.10.7.6",
+          "name": "1.10.7.6 Fix",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.7.6",
+          "publishedAt": "2022-02-02T14:38:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55638190,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5621311,
+              "digest": null,
+              "updatedAt": "2022-02-02T14:39:17Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.7.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58505183,
+          "tag": "v1.10.7.5",
+          "name": "1.10.7.5 Fixes",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.7.5",
+          "publishedAt": "2022-02-02T11:09:44Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55629344,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5620824,
+              "digest": null,
+              "updatedAt": "2022-02-02T12:54:45Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.7.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58478784,
+          "tag": "v1.10.7",
+          "name": "1.10.7 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.7",
+          "publishedAt": "2022-02-02T01:45:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55588172,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5592364,
+              "digest": null,
+              "updatedAt": "2022-02-02T03:18:17Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58285149,
+          "tag": "v1.10.6",
+          "name": "1.10.6 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.6",
+          "publishedAt": "2022-01-30T17:09:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55362376,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5533420,
+              "digest": null,
+              "updatedAt": "2022-01-30T17:09:50Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 58249629,
+          "tag": "v1.10.5",
+          "name": "1.10.5 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.5",
+          "publishedAt": "2022-01-29T10:58:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 55282181,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5376641,
+              "digest": null,
+              "updatedAt": "2022-01-29T10:58:22Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 57470240,
+          "tag": "v1.10.4.5",
+          "name": "1.10.4.5 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.4.5",
+          "publishedAt": "2022-01-19T14:12:08Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 54374059,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5287447,
+              "digest": null,
+              "updatedAt": "2022-01-19T14:11:52Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.4.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 56678468,
+          "tag": "v1.10.4",
+          "name": "1.10.4 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.4",
+          "publishedAt": "2022-01-09T03:38:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 53523121,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5201836,
+              "digest": null,
+              "updatedAt": "2022-01-09T03:38:16Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 56243024,
+          "tag": "v1.10.3",
+          "name": "1.10.3 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.3",
+          "publishedAt": "2022-01-01T03:46:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 52953695,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 5083110,
+              "digest": null,
+              "updatedAt": "2022-01-01T03:46:57Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 55106739,
+          "tag": "v1.10.2.5",
+          "name": "1.10.2.5 Improve",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.2.5",
+          "publishedAt": "2021-12-11T15:11:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 51549554,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4936224,
+              "digest": null,
+              "updatedAt": "2021-12-11T16:23:11Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.2.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 54635882,
+          "tag": "v1.10.2.1",
+          "name": "1.10.2.1 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.2.1",
+          "publishedAt": "2021-12-04T18:28:20Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 51008548,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4908669,
+              "digest": null,
+              "updatedAt": "2021-12-04T18:28:18Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.2.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 54180147,
+          "tag": "v1.10.1.5",
+          "name": "1.10.1.5 Fixes",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.1.5",
+          "publishedAt": "2021-11-28T01:44:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 50464363,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4890852,
+              "digest": null,
+              "updatedAt": "2021-11-28T01:44:00Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.1.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 53784128,
+          "tag": "v1.10.1",
+          "name": "1.10.1  Update & Fix",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.1",
+          "publishedAt": "2021-11-21T02:56:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 49946228,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4868929,
+              "digest": null,
+              "updatedAt": "2021-11-21T02:56:10Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 53298932,
+          "tag": "v1.10.0.5",
+          "name": "v1.10.0.5 Updates & Fixes",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.0.5",
+          "publishedAt": "2021-11-13T17:26:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 49337539,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4820286,
+              "digest": null,
+              "updatedAt": "2021-11-13T17:37:55Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.0.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 51126887,
+          "tag": "v1.10.0.1",
+          "name": "1.10.0.1 Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.10.0.1",
+          "publishedAt": "2021-11-07T02:50:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 48809297,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4815139,
+              "digest": null,
+              "updatedAt": "2021-11-07T02:50:50Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.10.0.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 51122768,
+          "tag": "v1.9.9",
+          "name": "1.9.9 Content Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.9",
+          "publishedAt": "2021-10-11T08:24:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 46694912,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4679377,
+              "digest": null,
+              "updatedAt": "2021-10-11T09:16:14Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 50809054,
+          "tag": "v1.9.8.5",
+          "name": "1.9.8.5 Content Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.8.5",
+          "publishedAt": "2021-10-05T11:53:49Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 46275941,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4429783,
+              "digest": null,
+              "updatedAt": "2021-10-05T11:53:48Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.8.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 50703362,
+          "tag": "v1.9.8",
+          "name": "1.9.8 Cutscene Improve",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.8",
+          "publishedAt": "2021-10-03T18:21:12Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 46157028,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4375117,
+              "digest": null,
+              "updatedAt": "2021-10-03T18:21:09Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 50680654,
+          "tag": "v1.9.7.6",
+          "name": "1.9.7.6 Test & Improve",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.7.6",
+          "publishedAt": "2021-10-02T15:48:16Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 46096040,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4349520,
+              "digest": null,
+              "updatedAt": "2021-10-02T15:48:12Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.7.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 50628524,
+          "tag": "v1.9.7.5",
+          "name": "1.9.7.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.7.5",
+          "publishedAt": "2021-10-01T12:29:58Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 46022872,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4316275,
+              "digest": null,
+              "updatedAt": "2021-10-01T12:29:34Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.7.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 49949872,
+          "tag": "v1.9.7.2",
+          "name": "1.9.7.2 Bug Fixes",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.7.2",
+          "publishedAt": "2021-09-21T01:24:00Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 45245475,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4152700,
+              "digest": null,
+              "updatedAt": "2021-09-21T02:18:48Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.7.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 49859344,
+          "tag": "v1.9.7.1",
+          "name": "1.9.7.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.7.1",
+          "publishedAt": "2021-09-20T14:47:42Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 45207804,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4152397,
+              "digest": null,
+              "updatedAt": "2021-09-20T14:47:40Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.7.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 49009494,
+          "tag": "v1.9.7",
+          "name": "1.9.7 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.7",
+          "publishedAt": "2021-09-04T12:49:45Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 44031984,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4105987,
+              "digest": null,
+              "updatedAt": "2021-09-04T12:49:29Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 48636639,
+          "tag": "v1.9.6",
+          "name": "1.9.6 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.6",
+          "publishedAt": "2021-08-29T17:56:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 43567344,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4076124,
+              "digest": null,
+              "updatedAt": "2021-08-29T17:56:25Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 48435951,
+          "tag": "v1.9.5",
+          "name": "1.9.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.5",
+          "publishedAt": "2021-08-25T14:58:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 43269155,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4061279,
+              "digest": null,
+              "updatedAt": "2021-08-25T15:09:17Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 47950312,
+          "tag": "v1.9.4",
+          "name": "1.9.4 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.4",
+          "publishedAt": "2021-08-17T05:36:13Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 42631862,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 3976947,
+              "digest": null,
+              "updatedAt": "2021-08-17T10:29:52Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 47729485,
+          "tag": "v1.9.3",
+          "name": "1.9.3 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.3",
+          "publishedAt": "2021-08-12T09:14:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 42279170,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4554158,
+              "digest": null,
+              "updatedAt": "2021-08-12T09:51:43Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 47495041,
+          "tag": "v1.9.2",
+          "name": "1.9.2 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.2",
+          "publishedAt": "2021-08-08T13:15:07Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 42011881,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4522875,
+              "digest": null,
+              "updatedAt": "2021-08-08T13:33:58Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 47338045,
+          "tag": "v1.9.1",
+          "name": "1.9.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9.1",
+          "publishedAt": "2021-08-05T05:48:37Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 41791989,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4504603,
+              "digest": null,
+              "updatedAt": "2021-08-05T05:48:35Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 47113916,
+          "tag": "v1.9",
+          "name": "1.9 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.9",
+          "publishedAt": "2021-08-01T16:36:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 41499564,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4226251,
+              "digest": null,
+              "updatedAt": "2021-08-01T16:36:13Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46943066,
+          "tag": "v1.8.9.1",
+          "name": "1.8.9.1 Fix",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.9.1",
+          "publishedAt": "2021-07-29T01:21:43Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 41229691,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4192198,
+              "digest": null,
+              "updatedAt": "2021-07-29T01:21:42Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.9.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46918489,
+          "tag": "v1.8.9",
+          "name": "1.8.9 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.9",
+          "publishedAt": "2021-07-28T16:37:33Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 41198929,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 4192785,
+              "digest": null,
+              "updatedAt": "2021-07-28T16:37:31Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46817669,
+          "tag": "v1.8.8",
+          "name": "1.8.8 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.8",
+          "publishedAt": "2021-07-27T09:12:05Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 41097230,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 3501534,
+              "digest": null,
+              "updatedAt": "2021-07-27T09:12:04Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46361820,
+          "tag": "v1.8.7.1",
+          "name": "1.8.7.1 Fix Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.7.1",
+          "publishedAt": "2021-07-17T17:10:29Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40539870,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 3320195,
+              "digest": null,
+              "updatedAt": "2021-07-18T06:46:32Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.7.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46227598,
+          "tag": "v1.8.6",
+          "name": "1.8.6 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.6",
+          "publishedAt": "2021-07-15T04:05:49Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40333182,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 3252728,
+              "digest": null,
+              "updatedAt": "2021-07-15T05:32:24Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46112146,
+          "tag": "v1.8.5",
+          "name": "1.8.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.5",
+          "publishedAt": "2021-07-13T10:37:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40209041,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 3021501,
+              "digest": null,
+              "updatedAt": "2021-07-13T11:40:37Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46036312,
+          "tag": "v1.8.4",
+          "name": "1.8.4 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.4",
+          "publishedAt": "2021-07-12T06:50:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40133414,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 3007748,
+              "digest": null,
+              "updatedAt": "2021-07-12T09:37:56Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 46012815,
+          "tag": "v1.8.3",
+          "name": "1.8.3 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.3",
+          "publishedAt": "2021-07-11T02:27:15Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40070977,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2843722,
+              "digest": null,
+              "updatedAt": "2021-07-11T02:32:33Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 45982047,
+          "tag": "v1.8.2",
+          "name": "1.8.2 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.2",
+          "publishedAt": "2021-07-10T09:44:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40039616,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2897184,
+              "digest": null,
+              "updatedAt": "2021-07-10T09:44:03Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 45982048,
+          "tag": "v1.8.1",
+          "name": "1.8.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8.1",
+          "publishedAt": "2021-07-09T17:51:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 40008970,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2883160,
+              "digest": null,
+              "updatedAt": "2021-07-09T17:50:09Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 43815863,
+          "tag": "v1.8",
+          "name": "1.8 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.8",
+          "publishedAt": "2021-05-30T08:52:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 37782109,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2845678,
+              "digest": null,
+              "updatedAt": "2021-05-30T09:13:33Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 42658553,
+          "tag": "v1.7.9",
+          "name": "1.7.9 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.9",
+          "publishedAt": "2021-05-09T06:52:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 36679848,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2772112,
+              "digest": null,
+              "updatedAt": "2021-05-09T06:52:08Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 42320566,
+          "tag": "v1.7.8",
+          "name": "1.7.8 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.8",
+          "publishedAt": "2021-05-02T04:00:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 36679787,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2772112,
+              "digest": null,
+              "updatedAt": "2021-05-09T06:51:39Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 41936742,
+          "tag": "v1.7.7",
+          "name": "1.7.7 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.7",
+          "publishedAt": "2021-04-24T07:05:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 35731521,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2687219,
+              "digest": null,
+              "updatedAt": "2021-04-24T07:05:29Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 41598792,
+          "tag": "v1.7.6",
+          "name": "1.7.6 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.6",
+          "publishedAt": "2021-04-18T05:13:08Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 35300483,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 2495408,
+              "digest": null,
+              "updatedAt": "2021-04-18T05:23:32Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 41224147,
+          "tag": "v1.7.5",
+          "name": "1.7.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.5",
+          "publishedAt": "2021-04-10T15:36:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 34762258,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1921641,
+              "digest": null,
+              "updatedAt": "2021-04-10T15:36:54Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 40930008,
+          "tag": "v1.7.4.2",
+          "name": "1.7.4.2 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.4.2",
+          "publishedAt": "2021-04-05T06:07:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 34457089,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1883220,
+              "digest": null,
+              "updatedAt": "2021-04-05T06:07:01Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.4.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 40918079,
+          "tag": "v1.7.4.1",
+          "name": "1.7.4.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.4.1",
+          "publishedAt": "2021-04-04T16:09:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 34436835,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1884273,
+              "digest": null,
+              "updatedAt": "2021-04-04T16:09:08Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.4.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 40916640,
+          "tag": "v1.7.4",
+          "name": "1.7.4 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.4",
+          "publishedAt": "2021-04-04T14:37:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 34435245,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1880914,
+              "digest": null,
+              "updatedAt": "2021-04-04T14:37:07Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 40591898,
+          "tag": "v1.7.3",
+          "name": "1.7.3 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.3",
+          "publishedAt": "2021-03-28T05:30:48Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 34097010,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1606563,
+              "digest": null,
+              "updatedAt": "2021-03-28T05:30:45Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.3/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 40117120,
+          "tag": "v1.7.2",
+          "name": "1.7.2 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.2",
+          "publishedAt": "2021-03-21T08:42:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33762805,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1571890,
+              "digest": null,
+              "updatedAt": "2021-03-21T08:42:01Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 40101820,
+          "tag": "v1.7.1",
+          "name": "1.7.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.1",
+          "publishedAt": "2021-03-20T12:58:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33735868,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1553518,
+              "digest": null,
+              "updatedAt": "2021-03-20T12:58:52Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 39771701,
+          "tag": "v1.7.0.1",
+          "name": "1.7.0.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.0.1",
+          "publishedAt": "2021-03-14T00:47:08Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33432059,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1539437,
+              "digest": null,
+              "updatedAt": "2021-03-14T00:47:23Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.0.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 39763611,
+          "tag": "v1.7.0",
+          "name": "1.7.0 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.7.0",
+          "publishedAt": "2021-03-13T16:53:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33420713,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1533097,
+              "digest": null,
+              "updatedAt": "2021-03-13T16:53:26Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.7.0/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 39391833,
+          "tag": "v1.6.9.1",
+          "name": "1.6.9.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.9.1",
+          "publishedAt": "2021-03-07T08:22:20Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33062850,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1526395,
+              "digest": null,
+              "updatedAt": "2021-03-07T08:22:01Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.9.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 39378295,
+          "tag": "v1.6.9",
+          "name": "1.6.9 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.9",
+          "publishedAt": "2021-03-06T13:51:45Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33039395,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1509890,
+              "digest": null,
+              "updatedAt": "2021-03-06T13:51:41Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 39374577,
+          "tag": "v1.6.8.5",
+          "name": "1.6.8.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.8.5",
+          "publishedAt": "2021-03-06T09:09:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 33034555,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1495473,
+              "digest": null,
+              "updatedAt": "2021-03-06T09:09:33Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.8.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38900845,
+          "tag": "v1.6.8.2",
+          "name": "1.6.8.2 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.8.2",
+          "publishedAt": "2021-02-27T14:10:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32715304,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1495131,
+              "digest": null,
+              "updatedAt": "2021-02-27T14:09:29Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.8.2/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38843421,
+          "tag": "v1.6.8.1",
+          "name": "1.6.8.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.8.1",
+          "publishedAt": "2021-02-27T08:35:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32709168,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1494477,
+              "digest": null,
+              "updatedAt": "2021-02-27T08:35:56Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.8.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38842555,
+          "tag": "v1.6.8",
+          "name": "1.6.8 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.8",
+          "publishedAt": "2021-02-27T07:16:01Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32707809,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1491199,
+              "digest": null,
+              "updatedAt": "2021-02-27T07:15:52Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38807005,
+          "tag": "v1.6.7.8",
+          "name": "1.6.7.8 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.7.8",
+          "publishedAt": "2021-02-26T15:41:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32679169,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1471059,
+              "digest": null,
+              "updatedAt": "2021-02-26T15:41:21Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.7.8/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38805018,
+          "tag": "v1.6.7.7",
+          "name": "1.6.7.7 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.7.7",
+          "publishedAt": "2021-02-26T15:05:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32677288,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1471022,
+              "digest": null,
+              "updatedAt": "2021-02-26T15:05:26Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.7.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38785714,
+          "tag": "v1.6.7.5",
+          "name": "1.6.7.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.7.5",
+          "publishedAt": "2021-02-26T08:04:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32660275,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1468174,
+              "digest": null,
+              "updatedAt": "2021-02-26T08:04:55Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.7.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38750113,
+          "tag": "v1.6.7",
+          "name": "1.6.7 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.7",
+          "publishedAt": "2021-02-25T16:15:43Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32621609,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1467639,
+              "digest": null,
+              "updatedAt": "2021-02-25T16:15:41Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.7/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38739987,
+          "tag": "v1.6.6.5",
+          "name": "1.6.6.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v1.6.6.5",
+          "publishedAt": "2021-02-25T13:57:49Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32613445,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1448389,
+              "digest": null,
+              "updatedAt": "2021-02-25T13:57:44Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v1.6.6.5/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38672541,
+          "tag": "Update1.6.6",
+          "name": "1.6.6 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.6.6",
+          "publishedAt": "2021-02-24T18:56:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32562391,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1451221,
+              "digest": null,
+              "updatedAt": "2021-02-24T18:56:45Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.6.6/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38496419,
+          "tag": "Update1.6.5.1",
+          "name": "1.6.5.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.6.5.1",
+          "publishedAt": "2021-02-23T16:14:19Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32487083,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1441282,
+              "digest": null,
+              "updatedAt": "2021-02-23T16:14:38Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.6.5.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38375512,
+          "tag": "Update1.6.4",
+          "name": "1.6.4 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.6.4",
+          "publishedAt": "2021-02-20T16:09:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32353901,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1427479,
+              "digest": null,
+              "updatedAt": "2021-02-20T16:07:57Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.6.4/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38241042,
+          "tag": "Update1.6.3.1",
+          "name": "1.6.3.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.6.3.1",
+          "publishedAt": "2021-02-18T16:25:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32262834,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1901004,
+              "digest": null,
+              "updatedAt": "2021-02-18T16:49:39Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.6.3.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38149053,
+          "tag": "Update1.6.1",
+          "name": "1.6.1 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.6.1",
+          "publishedAt": "2021-02-17T06:42:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32186045,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1907065,
+              "digest": null,
+              "updatedAt": "2021-02-17T06:42:45Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.6.1/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38145061,
+          "tag": "Update1.6.0",
+          "name": "1.6.0 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.6.0",
+          "publishedAt": "2021-02-17T03:58:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32181434,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1899989,
+              "digest": null,
+              "updatedAt": "2021-02-17T03:59:37Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.6.0/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38047649,
+          "tag": "Update1.5.9",
+          "name": "1.5.9 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.5.9",
+          "publishedAt": "2021-02-15T08:37:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32088173,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1210440,
+              "digest": null,
+              "updatedAt": "2021-02-15T08:38:40Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.5.9/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 38022355,
+          "tag": "UpdateMod",
+          "name": "1.5.7.4 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/UpdateMod",
+          "publishedAt": "2021-02-14T02:58:32Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 32052067,
+              "name": "NewHorizonMod.jar",
+              "sizeBytes": 1116636,
+              "digest": null,
+              "updatedAt": "2021-02-14T02:58:31Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/UpdateMod/NewHorizonMod.jar"
+            }
+          ]
+        },
+        {
+          "id": 37841001,
+          "tag": "Update1.5.7.3",
+          "name": "1.5.7.3 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.5.7.3",
+          "publishedAt": "2021-02-10T04:41:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 31880285,
+              "name": "NewHorizonMod.1.5.7.3.jar",
+              "sizeBytes": 1098120,
+              "digest": null,
+              "updatedAt": "2021-02-10T04:48:25Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.5.7.3/NewHorizonMod.1.5.7.3.jar"
+            }
+          ]
+        },
+        {
+          "id": 37837662,
+          "tag": "Update1.5.7",
+          "name": "1.5.7 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.5.7",
+          "publishedAt": "2021-02-10T02:14:05Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 31878278,
+              "name": "NewHorizonMod.1.5.7.jar",
+              "sizeBytes": 1097890,
+              "digest": null,
+              "updatedAt": "2021-02-10T03:07:54Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update1.5.7/NewHorizonMod.1.5.7.jar"
+            }
+          ]
+        },
+        {
+          "id": 37739577,
+          "tag": "Update1.5.5",
+          "name": "1.5.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update1.5.5",
+          "publishedAt": "2021-02-08T13:17:40Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 37469696,
+          "tag": "1.4.5",
+          "name": "1.4.5 Beta Update",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/1.4.5",
+          "publishedAt": "2021-02-06T10:08:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 31719571,
+              "name": "NewHorizonMod.1.4.5.jar",
+              "sizeBytes": 917242,
+              "digest": null,
+              "updatedAt": "2021-02-06T10:05:54Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/1.4.5/NewHorizonMod.1.4.5.jar"
+            }
+          ]
+        },
+        {
+          "id": 33605548,
+          "tag": "Update",
+          "name": "New Horizon Mod Update v1.2 beta",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/Update",
+          "publishedAt": "2020-11-08T01:07:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 30162708,
+              "name": "NewHorizonMod.1.2.beta.jar",
+              "sizeBytes": 636684,
+              "digest": null,
+              "updatedAt": "2021-01-01T07:08:20Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/Update/NewHorizonMod.1.2.beta.jar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

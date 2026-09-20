@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "topic": "hubdustry-index",
+  "exclude": [
+    "hubdustrylab/hubdustry-index"
+  ],
+  "repositories": [
+    {
+      "repository": "Twcash/Aquarion",
+      "channel": "stable"
+    },
+    {
+      "repository": "catana791/asthosus",
+      "channel": "stable"
+    },
+    {
+      "repository": "tnmspiroct/exoprosopa",
+      "channel": "stable"
+    },
+    {
+      "repository": "Yuria-Shikibe/NewHorizonMod",
+      "channel": "stable"
+    },
+    {
+      "repository": "stabu-dev/Omaloon",
+      "channel": "prerelease"
+    },
+    {
+      "repository": "3Snake3/Sapphirium",
+      "channel": "prerelease"
+    }
+  ]
+}
