@@ -1083,14 +1083,14 @@
         "path": "mod.json",
         "name": "aquarion",
         "displayName": "Aquarion",
-        "version": "4.2.5",
+        "version": "4.2.6",
         "minGameVersion": "160.3",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "a4e07748533ccfd79c40280fff87f385be1c4b82",
-        "url": "https://github.com/Twcash/Aquarion/commit/a4e07748533ccfd79c40280fff87f385be1c4b82"
+        "commit": "edd69e31e5b4eb78245b93402706052f31a2e1e2",
+        "url": "https://github.com/Twcash/Aquarion/commit/edd69e31e5b4eb78245b93402706052f31a2e1e2"
       },
       "latest": {
         "id": 392266914,
