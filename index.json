@@ -253,8 +253,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "acfd95acf3c3c04fa2bfe6edb7edddefb918a829",
-        "url": "https://github.com/BSp-2/Echo-fleet/commit/acfd95acf3c3c04fa2bfe6edb7edddefb918a829"
+        "commit": "6b704a4ae9b53d4bf9db63e3b92614d52b9c699c",
+        "url": "https://github.com/BSp-2/Echo-fleet/commit/6b704a4ae9b53d4bf9db63e3b92614d52b9c699c"
       },
       "latest": {
         "id": 380706466,
@@ -1098,36 +1098,54 @@
       },
       "source": {
         "branch": "main",
-        "commit": "508237e4b5fbdfb212caff8a9d789302496025e1",
-        "url": "https://github.com/Twcash/Aquarion/commit/508237e4b5fbdfb212caff8a9d789302496025e1"
+        "commit": "baf83fd44fb001ab22101811c8f6d633a86a0af7",
+        "url": "https://github.com/Twcash/Aquarion/commit/baf83fd44fb001ab22101811c8f6d633a86a0af7"
       },
       "latest": {
-        "id": 392266914,
-        "tag": "4.2.5",
-        "name": "4.2.5",
-        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.5",
-        "publishedAt": "2026-09-20T00:46:20Z",
+        "id": 393965557,
+        "tag": "4.2.6",
+        "name": "4.2.6",
+        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.6",
+        "publishedAt": "2026-09-22T17:16:16Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 575787218,
+            "id": 581869137,
             "name": "Aquarion.jar",
-            "sizeBytes": 51994093,
-            "digest": "sha256:4f2294ea16c4367bd26b9923b312bf7002961accde3a8d93366cc1aa8b4ba3ed",
-            "updatedAt": "2026-09-20T00:46:19Z",
-            "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.5/Aquarion.jar"
+            "sizeBytes": 52046145,
+            "digest": "sha256:6105ab1e57ea0d91604067da69095c3fdae36ea98b0932b5d822721c8cb1b5a2",
+            "updatedAt": "2026-09-22T17:16:16Z",
+            "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.6/Aquarion.jar"
           }
         ],
         "manifest": {
           "path": "mod.json",
           "name": "aquarion",
           "displayName": "Aquarion",
-          "version": "4.2.4",
+          "version": "4.2.6",
           "minGameVersion": "160.3",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 393965557,
+          "tag": "4.2.6",
+          "name": "4.2.6",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.6",
+          "publishedAt": "2026-09-22T17:16:16Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 581869137,
+              "name": "Aquarion.jar",
+              "sizeBytes": 52046145,
+              "digest": "sha256:6105ab1e57ea0d91604067da69095c3fdae36ea98b0932b5d822721c8cb1b5a2",
+              "updatedAt": "2026-09-22T17:16:16Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.6/Aquarion.jar"
+            }
+          ]
+        },
         {
           "id": 392266914,
           "tag": "4.2.5",
