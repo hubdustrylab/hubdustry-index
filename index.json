@@ -1033,27 +1033,36 @@
       },
       "source": {
         "branch": "main",
-        "commit": "ab2e86d854e5e2fd46e8158dda8ddce5806efbac",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/ab2e86d854e5e2fd46e8158dda8ddce5806efbac"
+        "commit": "13a554a68aad6b23d83019fd6ea9ec7893597da3",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/13a554a68aad6b23d83019fd6ea9ec7893597da3"
       },
       "latest": {
-        "id": 221435847,
-        "tag": "V0.71",
-        "name": "V0.71 Biome Update",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.71",
-        "publishedAt": "2025-05-28T04:33:09Z",
+        "id": 393786058,
+        "tag": "V0.93",
+        "name": "V0.93 End-Game + Pre-Finalize Update",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
+        "publishedAt": "2026-09-22T14:32:15Z",
         "prerelease": false,
         "assets": [],
         "manifest": {
           "path": "mod.hjson",
           "name": "exoprosopa",
           "displayName": "[[]#93E2EE]Exoprosopa",
-          "version": "0.71",
-          "minGameVersion": "146",
+          "version": "0.93",
+          "minGameVersion": "160",
           "java": false
         }
       },
       "releases": [
+        {
+          "id": 393786058,
+          "tag": "V0.93",
+          "name": "V0.93 End-Game + Pre-Finalize Update",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
+          "publishedAt": "2026-09-22T14:32:15Z",
+          "prerelease": false,
+          "assets": []
+        },
         {
           "id": 221435847,
           "tag": "V0.71",
