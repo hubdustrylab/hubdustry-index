@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "topic": "hubdustry-index",
+  "revision": "sha256:9007e64833cf213b7e6ba9f18244038d6382be6ee09ac0cf39f57794b8ca8dfd",
+  "mods": [
+    {
+      "repository": "3Snake3/Sapphirium",
+      "channel": "prerelease",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:7b00284f8ec91eb662c399f4fa30e8094ac3ce0f1121e7a4e60a2a3d707513a2",
+        "releaseId": 215065531,
+        "tag": "v17.2",
+        "commit": "f2cb2c55ead676187c944c5e29b3d4bb4b8f5504",
+        "publishedAt": "2025-04-28T02:52:12Z",
+        "modName": "sapphirium",
+        "version": "17.0",
+        "minGameVersion": "147",
+        "java": false,
+        "prerelease": true,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "sapphirium.zip",
+          "url": "https://github.com/3Snake3/Sapphirium/releases/download/v17.2/sapphirium.zip",
+          "assetId": 250013120,
+          "sizeBytes": 5131607,
+          "digest": null,
+          "updatedAt": "2025-04-28T02:49:34Z"
+        }
+      }
+    },
+    {
+      "repository": "BSp-2/Echo-fleet",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:a59520cecddbc7cf79d32d45e49b4af6831b2df1365fd541915b094c10e18953",
+        "releaseId": 380706466,
+        "tag": "v1.0¯first",
+        "commit": "c04462e56b80566bec426ca282e230a90f544082",
+        "publishedAt": "2026-09-01T17:44:55Z",
+        "modName": "echo-fleet",
+        "version": "Aetheria /// Final",
+        "minGameVersion": "158.1",
+        "java": false,
+        "prerelease": false,
+        "artifact": {
+          "kind": "source-archive",
+          "name": "Echo-fleet-c04462e56b80566bec426ca282e230a90f544082.zip",
+          "url": "https://github.com/BSp-2/Echo-fleet/archive/c04462e56b80566bec426ca282e230a90f544082.zip",
+          "assetId": null,
+          "sizeBytes": null,
+          "digest": null,
+          "updatedAt": null
+        }
+      }
+    },
+    {
+      "repository": "Catana791/Asthosus",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:2a330ccddc0364dffc60923e3325a7c1fbafc2c3c3ebb6e0d467309ebdc3e18e",
+        "releaseId": 388456830,
+        "tag": "1.7.5",
+        "commit": "bd4bf33f9a9d8b3f674e7aa35a371e6203fb5275",
+        "publishedAt": "2026-09-14T14:19:11Z",
+        "modName": "asthosus",
+        "version": "1.7.5",
+        "minGameVersion": "156.2",
+        "java": false,
+        "prerelease": false,
+        "artifact": {
+          "kind": "source-archive",
+          "name": "Asthosus-bd4bf33f9a9d8b3f674e7aa35a371e6203fb5275.zip",
+          "url": "https://github.com/Catana791/Asthosus/archive/bd4bf33f9a9d8b3f674e7aa35a371e6203fb5275.zip",
+          "assetId": null,
+          "sizeBytes": null,
+          "digest": null,
+          "updatedAt": null
+        }
+      }
+    },
+    {
+      "repository": "DeerCarbonate/Azimuth",
+      "channel": "stable",
+      "status": "blocked",
+      "reason": "missing_release_manifest",
+      "update": null
+    },
+    {
+      "repository": "RA2EXE/Saturation-Firepower",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:f11ca5214e4b8e8fc0abb55a4c2c8f2f32e7f212971c800d79e7fed47a0ad3c8",
+        "releaseId": 387607687,
+        "tag": "v-4.0.6",
+        "commit": "db983066cd478f2c248aaaf3c537bee01025ab8f",
+        "publishedAt": "2026-09-12T15:09:10Z",
+        "modName": "sfire-mod",
+        "version": "4.0.6",
+        "minGameVersion": "160",
+        "java": true,
+        "prerelease": false,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "Saturation-Firepower-4.0.6.jar",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.6/Saturation-Firepower-4.0.6.jar",
+          "assetId": 559452068,
+          "sizeBytes": 8148174,
+          "digest": "sha256:895b76ba8a6a4e5eeb358c583a70056ba2d808260694fb20b16031c553c07ba6",
+          "updatedAt": "2026-09-12T15:08:34Z"
+        }
+      }
+    },
+    {
+      "repository": "stabu-dev/Omaloon",
+      "channel": "prerelease",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:7df2e8a3ec85be3094860a0211d87e56d3b5428f27f4e7d6cdd84e09963ac273",
+        "releaseId": 365633003,
+        "tag": "v0.1.2A-indev8",
+        "commit": "df06b1ae34fc462384ce47549a0431a33b816012",
+        "publishedAt": "2026-08-05T15:40:48Z",
+        "modName": "omaloon",
+        "version": "0.1.2A Indev 8",
+        "minGameVersion": "159.7",
+        "java": true,
+        "prerelease": true,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "Omaloon.jar",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev8/Omaloon.jar",
+          "assetId": 502791377,
+          "sizeBytes": 4133436,
+          "digest": "sha256:f27911fe66b9255570112c46d754649fb4b36494bf80ade2cbb324ba626166b8",
+          "updatedAt": "2026-08-05T15:36:56Z"
+        }
+      }
+    },
+    {
+      "repository": "TnmSpiroct/Exoprosopa",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:fe66bbd941678e8032e0e4e2dd433b63c2b7e26a9254237e1396e8eec2cb8f0f",
+        "releaseId": 221435847,
+        "tag": "V0.71",
+        "commit": "3c8ff0a9a11afbf2e3195e66263d69d986b16d42",
+        "publishedAt": "2025-05-28T04:33:09Z",
+        "modName": "exoprosopa",
+        "version": "0.71",
+        "minGameVersion": "146",
+        "java": false,
+        "prerelease": false,
+        "artifact": {
+          "kind": "source-archive",
+          "name": "Exoprosopa-3c8ff0a9a11afbf2e3195e66263d69d986b16d42.zip",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/archive/3c8ff0a9a11afbf2e3195e66263d69d986b16d42.zip",
+          "assetId": null,
+          "sizeBytes": null,
+          "digest": null,
+          "updatedAt": null
+        }
+      }
+    },
+    {
+      "repository": "Twcash/Aquarion",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:3fa0a5dd7d83e49be5612320f90a54097f7ff4d0835404f0465144872f24133b",
+        "releaseId": 396430855,
+        "tag": "4.2.8",
+        "commit": "7682d1197c9d0f7387efd7f28aaa5ecacc1149ed",
+        "publishedAt": "2026-09-25T08:17:59Z",
+        "modName": "aquarion",
+        "version": "4.2.7",
+        "minGameVersion": "160.5",
+        "java": true,
+        "prerelease": false,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "Aquarion.jar",
+          "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.8/Aquarion.jar",
+          "assetId": 587886448,
+          "sizeBytes": 52347720,
+          "digest": "sha256:bb271e86b4b6a0f9940bec1f55dfffba2273d3f71f6477944c46c2ce38d06ce3",
+          "updatedAt": "2026-09-25T08:17:59Z"
+        }
+      }
+    },
+    {
+      "repository": "Uenhe/Fire",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:6c922b47a0f8532c8721f3d39f73ca88a9336747ea83828ee0a89cca23466370",
+        "releaseId": 389001809,
+        "tag": "v1.5.9",
+        "commit": "92113219c4305742b305ec6960f31d98845af84a",
+        "publishedAt": "2026-09-15T09:05:57Z",
+        "modName": "fire",
+        "version": "1.5.9",
+        "minGameVersion": "160.3",
+        "java": true,
+        "prerelease": false,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "Fire.1.5.9-160.3.jar",
+          "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.9/Fire.1.5.9-160.3.jar",
+          "assetId": 565327638,
+          "sizeBytes": 4704396,
+          "digest": "sha256:43d8bb9e51fdd3aab7d7f56ce10342e2dd489ceeeddf29c910c4b9a0c695d34c",
+          "updatedAt": "2026-09-15T09:05:52Z"
+        }
+      }
+    },
+    {
+      "repository": "WMF-Industries/ExpandedIndustries",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:3b6a21d213c5a4ad10bb525e5dfe043b0f38641353aadd3d5f57c8ea19e4bc3e",
+        "releaseId": 399522846,
+        "tag": "v1.8.9",
+        "commit": "60c61c9b534d484de55c7a9aa67cdd5efdc3d6ea",
+        "publishedAt": "2026-09-29T20:58:01Z",
+        "modName": "EI",
+        "version": "1.8.9",
+        "minGameVersion": "160.5",
+        "java": true,
+        "prerelease": false,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "ExpandedIndustries.jar",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.9/ExpandedIndustries.jar",
+          "assetId": 599207584,
+          "sizeBytes": 1310588,
+          "digest": "sha256:1a38baa21695cb7e342a09a0876e667bcbb0b6e871b574d45a33752828e29fef",
+          "updatedAt": "2026-09-29T20:57:59Z"
+        }
+      }
+    },
+    {
+      "repository": "Yuria-Shikibe/NewHorizonMod",
+      "channel": "stable",
+      "status": "ready",
+      "reason": null,
+      "update": {
+        "key": "sha256:2bfbffc8a7786207b5e6319fd40007b427fcfb8a2d03bfaf2d5ea6970b0f268b",
+        "releaseId": 363115247,
+        "tag": "v2.2.1",
+        "commit": "128d5a447642b526cca7422f4be0935b84ac63b5",
+        "publishedAt": "2026-07-31T14:10:35Z",
+        "modName": "new-horizon",
+        "version": "2.2.1",
+        "minGameVersion": "159.7",
+        "java": true,
+        "prerelease": false,
+        "artifact": {
+          "kind": "release-asset",
+          "name": "NewHorizonMod.2.2.1.jar",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.2.1/NewHorizonMod.2.2.1.jar",
+          "assetId": 496817477,
+          "sizeBytes": 11513541,
+          "digest": "sha256:4d9c1d036e4bfe59f5c790c7064f776d63ebb951f24b4ab9aae71046e4615c87",
+          "updatedAt": "2026-07-31T15:03:52Z"
+        }
+      }
+    }
+  ]
+}

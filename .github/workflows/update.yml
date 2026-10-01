@@ -9,6 +9,7 @@ on:
     paths:
       - sources.json
       - scripts/**
+      - test/**
       - package.json
       - package-lock.json
       - .github/workflows/update.yml
@@ -35,23 +36,44 @@ jobs:
         with:
           node-version: '24'
           cache: npm
+      - name: Record snapshot base
+        id: base
+        run: echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - run: npm ci --ignore-scripts
-      - run: npm test
+      - name: Run collector tests
+        run: npm test
       - name: Collect public upstream metadata
         run: npm run update
         env:
           GITHUB_TOKEN: ${{ github.token }}
-      - run: npm run check
+      - name: Validate generated index and worker feed
+        run: npm run check
       - name: Publish changed snapshot
         shell: bash
+        env:
+          SNAPSHOT_BASE_COMMIT: ${{ steps.base.outputs.commit }}
         run: |
-          git add index.json
+          set -euo pipefail
+          git add index.json updates.json
           if git diff --cached --quiet; then
             echo 'No upstream changes.'
             exit 0
           fi
           git diff --cached --check
+          git fetch --no-tags origin main
+          if [ "$(git rev-parse FETCH_HEAD)" != "$SNAPSHOT_BASE_COMMIT" ]; then
+            echo 'Main advanced during collection; skipping this snapshot.'
+            exit 0
+          fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -m 'chore(index): refresh upstream releases'
-          git push origin HEAD:main
+          if ! git push origin HEAD:main; then
+            git fetch --no-tags origin main
+            if [ "$(git rev-parse FETCH_HEAD)" != "$SNAPSHOT_BASE_COMMIT" ]; then
+              echo 'Main advanced before push; skipping this snapshot.'
+              exit 0
+            fi
+            echo 'Snapshot push failed without a concurrent main update.' >&2
+            exit 1
+          fi

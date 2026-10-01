@@ -20,6 +20,8 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci --ignore-scripts
-      - run: npm test
-      - run: npm run check
+      - name: Test collection and update selection
+        run: npm test
+      - name: Validate sources, index, and worker feed consistency
+        run: npm run check
       - run: git diff --check

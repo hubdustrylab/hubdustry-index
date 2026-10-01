@@ -4,9 +4,10 @@ import { mkdtemp, readFile, writeFile, rm, stat } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, resolve, sep } from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { validateSources, discover, readManifest, normalizeReleases, collect, main } from '../scripts/update.mjs';
+import { validateSources, discover, readManifest, normalizeReleases, resolveReleaseCommit, collect, buildIndex, main } from '../scripts/update.mjs';
 
 const commit = 'a'.repeat(40);
+const releasedCommit = 'b'.repeat(40);
 const digest = 'b'.repeat(64);
 const config = { schemaVersion: 1, topic: 'hubdustry-index', exclude: [], repositories: [] };
 const manifest = text => ({ type: 'file', encoding: 'base64', size: Buffer.byteLength(text), content: Buffer.from(text).toString('base64') });
@@ -18,8 +19,9 @@ function fakeApi(custom = {}) {
     if (custom.api) return custom.api(path);
     if (path.startsWith('/search/')) return { total_count: 1, incomplete_results: false, items: [{ full_name: 'owner/mod' }] };
     if (path === '/repos/owner/mod') return { full_name: 'owner/mod', default_branch: 'main', archived: false };
-    if (path.includes('/git/ref/')) return { object: { sha: commit } };
-    if (path.includes('/contents/mod.json')) return manifest(JSON.stringify({ name: 'demo', version: path.includes('ref=v') ? 'released-version' : 'development-version', minGameVersion: 160 }));
+    if (path.includes('/git/ref/tags/')) return { object: { type: 'commit', sha: releasedCommit } };
+    if (path.includes('/git/ref/')) return { object: { type: 'commit', sha: commit } };
+    if (path.includes('/contents/mod.json')) return manifest(JSON.stringify({ name: 'demo', version: path.includes(`ref=${releasedCommit}`) ? 'released-version' : 'development-version', minGameVersion: 160 }));
     if (path.includes('/releases?')) return custom.releases ?? releases;
     throw new Error(`Unexpected fixture request: ${path}`);
   };
@@ -43,12 +45,14 @@ test('discovery follows pagination and refuses incomplete search snapshots', asy
   const result = await discover(config, async path => {
     const page = new URL(path, 'https://api.github.com').searchParams.get('page');
     pages.push(page);
-    return { total_count: 101, incomplete_results: false, items: [{ full_name: `owner/mod${page}` }] };
+    return { total_count: 101, incomplete_results: false, items: page === '1'
+      ? Array.from({ length: 100 }, (_, i) => ({ full_name: `owner/mod${i}` })) : [{ full_name: 'owner/last' }] };
   });
   assert.deepEqual(pages, ['1', '2']);
-  assert.equal(result.length, 2);
+  assert.equal(result.length, 101);
   await assert.rejects(discover(config, async () => ({ total_count: 1, incomplete_results: true, items: [] })), /Incomplete/);
   await assert.rejects(discover(config, async () => ({ total_count: 1001, incomplete_results: false, items: [] })), /Incomplete/);
+  await assert.rejects(discover(config, async () => ({ total_count: 2, incomplete_results: false, items: [{ full_name: 'owner/mod' }] })), /Truncated/);
 });
 
 test('HJSON manifests work in assets; a missing or malformed manifest never becomes a mod', async () => {
@@ -72,6 +76,7 @@ test('stable and prerelease channels select different releases, with distinct br
   assert.equal(beta.latest.tag, 'v3-beta');
   assert.equal(stable.manifest.version, 'development-version');
   assert.equal(stable.latest.manifest.version, 'released-version');
+  assert.equal(stable.latest.commit, releasedCommit);
   assert.deepEqual(Object.keys(stable).sort(), ['repository', 'url', 'archived', 'channel', 'manifest', 'source', 'latest', 'releases'].sort());
 });
 
@@ -113,7 +118,84 @@ test('failed upstream calls preserve the published snapshot; successful identica
   assert.equal(await readFile(new URL('README.md', root), 'utf8'), before);
   await main(root, fakeApi());
   const first = await stat(new URL('index.json', root));
+  const firstUpdates = await stat(new URL('updates.json', root));
   await main(root, fakeApi());
   assert.equal((await stat(new URL('index.json', root))).mtimeMs, first.mtimeMs);
+  assert.equal((await stat(new URL('updates.json', root))).mtimeMs, firstUpdates.mtimeMs);
+  const indexBefore = await readFile(new URL('index.json', root), 'utf8');
+  const updatesBefore = await readFile(new URL('updates.json', root), 'utf8');
+  const api = fakeApi();
+  await assert.rejects(main(root, async path => path.includes('/contents/') ? null : api(path)), /Tracked mod manifest unavailable/);
+  assert.equal(await readFile(new URL('index.json', root), 'utf8'), indexBefore);
+  assert.equal(await readFile(new URL('updates.json', root), 'utf8'), updatesBefore);
   assert.equal(await readFile(new URL('README.md', root), 'utf8'), before);
+});
+
+test('Java manifests with a main class are detected without a java flag, including HJSON in mod.json', async () => {
+  const parsed = await readManifest('owner/mod', commit, async () => manifest('{"name":"demo","main":"mod.Main"}'));
+  assert.equal(parsed.java, true);
+  assert.equal((await readManifest('owner/mod', commit, async () => manifest('name: demo'))).name, 'demo');
+});
+
+test('release commits resolve lightweight, annotated and nested tags; cycles and trees are refused', async () => {
+  const requests = [];
+  const result = await resolveReleaseCommit('owner/mod', 'folder/v1', async path => {
+    requests.push(path);
+    return path.includes('/git/ref/') ? { object: { type: 'tag', sha: commit } }
+      : { object: { type: 'commit', sha: releasedCommit } };
+  });
+  assert.equal(result, releasedCommit);
+  assert.equal(requests[0], '/repos/owner/mod/git/ref/tags/folder/v1');
+  assert.equal(requests[1], `/repos/owner/mod/git/tags/${commit}`);
+  await assert.rejects(resolveReleaseCommit('owner/mod', 'v1', async () => ({ object: { type: 'tag', sha: commit } })), /Invalid release tag/);
+  await assert.rejects(resolveReleaseCommit('owner/mod', 'v1', async () => ({ object: { type: 'tree', sha: commit } })), /does not point to a commit/);
+});
+
+test('release pagination collects a full page and preserves failures on later pages', async () => {
+  const api = fakeApi();
+  const pages = [];
+  const paged = async path => {
+    if (!path.includes('/releases?')) return api(path);
+    const page = new URL(path, 'https://api.github.com').searchParams.get('page');
+    pages.push(page);
+    return page === '1' ? Array.from({ length: 100 }, (_, i) => release(i + 1, `v${i + 1}`, '2026-01-01'))
+      : [release(101, 'v101', '2026-02-01')];
+  };
+  const mod = await collect({ repository: 'owner/mod', channel: 'stable' }, paged);
+  assert.equal(mod.releases.length, 101);
+  assert.equal(mod.latest.tag, 'v101');
+  assert.deepEqual(pages, ['1', '2']);
+  await assert.rejects(collect({ repository: 'owner/mod', channel: 'stable' }, async path => {
+    if (path.endsWith('page=2')) throw new Error('GitHub HTTP 503');
+    return paged(path);
+  }), /503/);
+});
+
+test('canonical repositories are deduplicated, excluded and channel conflicts fail', async () => {
+  const api = fakeApi();
+  const redirected = async path => path === '/repos/old/mod' ? api('/repos/owner/mod') : api(path);
+  const entries = [{ repository: 'old/mod', channel: 'stable' }, { repository: 'owner/mod', channel: 'stable' }];
+  assert.equal((await buildIndex({ ...config, repositories: entries }, redirected)).mods.length, 1);
+  assert.equal((await buildIndex({ ...config, repositories: entries, exclude: ['OWNER/MOD'] }, redirected)).mods.length, 0);
+  await assert.rejects(buildIndex({ ...config, repositories: [entries[0], { ...entries[1], channel: 'prerelease' }] }, redirected), /Conflicting channels/);
+  await assert.rejects(collect({ repository: 'old/mod', channel: 'stable', asset: 'mod.jar' }, redirected), /canonical repository/);
+});
+
+test('assets still being uploaded never become update candidates', () => {
+  const assets = [{ id: 1, name: 'ready.jar', size: 10, updated_at: '2026-01-01', state: 'uploaded' },
+    { id: 2, name: 'uploading.jar', size: 10, updated_at: '2026-01-01', state: 'starter' }];
+  assert.deepEqual(normalizeReleases([release(1, 'v1', '2026-01-01', { assets })], 'owner/mod')[0].assets.map(asset => asset.name), ['ready.jar']);
+});
+
+test('an invalid release manifest blocks its candidate without stopping collection of valid mods', async () => {
+  const api = fakeApi();
+  const index = await buildIndex(config, async path => path.includes(`/contents/mod.json?ref=${releasedCommit}`)
+    ? manifest('{ invalid') : api(path));
+  assert.equal(index.mods.length, 1);
+  assert.equal(index.mods[0].latest.manifest, null);
+  assert.equal(index.mods[0].latest.commit, releasedCommit);
+  await assert.rejects(buildIndex(config, async path => {
+    if (path.includes(`/contents/mod.json?ref=${releasedCommit}`)) throw new Error('GitHub HTTP 503');
+    return api(path);
+  }), /503/);
 });
