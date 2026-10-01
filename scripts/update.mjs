@@ -125,7 +125,15 @@ export async function collect(entry, api = github) {
   }
   const releases = normalizeReleases(raw, repository);
   const latest = releases.find(release => entry.channel === 'prerelease' || !release.prerelease) ?? null;
-  const latestManifest = latest ? await readManifest(repository, latest.tag, api) : null;
+  let latestManifest = null;
+  if (latest) {
+    try {
+      latestManifest = await readManifest(repository, latest.tag, api);
+    } catch (error) {
+      if (error.cause !== 'manifest') throw error;
+      console.log(`Skipping invalid release manifest: ${repository}@${latest.tag}`);
+    }
+  }
   return {
     repository, url: `https://github.com/${repository}`, archived: repo.archived === true,
     channel: entry.channel, manifest,

@@ -630,6 +630,390 @@
       ]
     },
     {
+      "repository": "DeerCarbonate/Azimuth",
+      "url": "https://github.com/DeerCarbonate/Azimuth",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "azimut",
+        "displayName": "[[]#d2fffe]Azimuth[[]]",
+        "version": "0.51",
+        "minGameVersion": "160",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "719d4d96133bc1846cfb0ed7827a251c8be48152",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/719d4d96133bc1846cfb0ed7827a251c8be48152"
+      },
+      "latest": {
+        "id": 280663973,
+        "tag": "Minor_update",
+        "name": "0.33 update: Bugfixes, Logic and Bundles",
+        "url": "https://github.com/DeerCarbonate/Azimuth/releases/tag/Minor_update",
+        "publishedAt": "2026-01-28T11:11:45Z",
+        "prerelease": false,
+        "assets": [],
+        "manifest": null
+      },
+      "releases": [
+        {
+          "id": 280663973,
+          "tag": "Minor_update",
+          "name": "0.33 update: Bugfixes, Logic and Bundles",
+          "url": "https://github.com/DeerCarbonate/Azimuth/releases/tag/Minor_update",
+          "publishedAt": "2026-01-28T11:11:45Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
+    },
+    {
+      "repository": "RA2EXE/Saturation-Firepower",
+      "url": "https://github.com/RA2EXE/Saturation-Firepower",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "sfire-mod",
+        "displayName": "Saturation Firepower Mod",
+        "version": "4.0.6.2",
+        "minGameVersion": "160",
+        "java": true
+      },
+      "source": {
+        "branch": "main",
+        "commit": "5644d4eb65fb67d0dc18168d36f1c084113344d6",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/5644d4eb65fb67d0dc18168d36f1c084113344d6"
+      },
+      "latest": {
+        "id": 387607687,
+        "tag": "v-4.0.6",
+        "name": "4.0.6",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.6",
+        "publishedAt": "2026-09-12T15:09:10Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 559452068,
+            "name": "Saturation-Firepower-4.0.6.jar",
+            "sizeBytes": 8148174,
+            "digest": "sha256:895b76ba8a6a4e5eeb358c583a70056ba2d808260694fb20b16031c553c07ba6",
+            "updatedAt": "2026-09-12T15:08:34Z",
+            "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.6/Saturation-Firepower-4.0.6.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "sfire-mod",
+          "displayName": "Saturation Firepower Mod",
+          "version": "4.0.6",
+          "minGameVersion": "160",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 387607687,
+          "tag": "v-4.0.6",
+          "name": "4.0.6",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.6",
+          "publishedAt": "2026-09-12T15:09:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 559452068,
+              "name": "Saturation-Firepower-4.0.6.jar",
+              "sizeBytes": 8148174,
+              "digest": "sha256:895b76ba8a6a4e5eeb358c583a70056ba2d808260694fb20b16031c553c07ba6",
+              "updatedAt": "2026-09-12T15:08:34Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.6/Saturation-Firepower-4.0.6.jar"
+            }
+          ]
+        },
+        {
+          "id": 380431182,
+          "tag": "v-4.0.5.3",
+          "name": "4.0.5.3",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.5.3",
+          "publishedAt": "2026-09-01T11:15:53Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 378976786,
+          "tag": "v-4.0.5.2",
+          "name": "4.0.5.2",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.5.2",
+          "publishedAt": "2026-08-29T12:28:54Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 535191363,
+              "name": "Saturation-Firepower-4.0.5.2.jar",
+              "sizeBytes": 8073829,
+              "digest": "sha256:1d4f6db5bd18dc1ff7d53744ccd7defad01ed35c6c09c00aa14bb1f61ac100e2",
+              "updatedAt": "2026-08-29T12:28:02Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.5.2/Saturation-Firepower-4.0.5.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 365032953,
+          "tag": "v-4.0.5",
+          "name": "Saturation Firepower 4.0.5",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.5",
+          "publishedAt": "2026-08-04T17:17:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 501607972,
+              "name": "Saturation-Firepower-4.0.5.jar",
+              "sizeBytes": 7967167,
+              "digest": "sha256:59d2b6d77eef54e64ad55a3c2931132455791893de38e1b5a3570df716eef40f",
+              "updatedAt": "2026-08-04T17:17:09Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.5/Saturation-Firepower-4.0.5.jar"
+            }
+          ]
+        },
+        {
+          "id": 350317205,
+          "tag": "v4.0.4.2",
+          "name": "Saturation Firepower 4.0.4.2",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v4.0.4.2",
+          "publishedAt": "2026-07-07T13:26:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 470945130,
+              "name": "Saturation-Firepower-4.0.4.2.jar",
+              "sizeBytes": 7863125,
+              "digest": "sha256:36e96c3e4dbd91a87b85133a48720fb18c873573ce5351a19baeb8e3172ec48b",
+              "updatedAt": "2026-07-09T03:13:28Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v4.0.4.2/Saturation-Firepower-4.0.4.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 349452979,
+          "tag": "v-4.0.4",
+          "name": "Saturation Firepower 4.0.4",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.4",
+          "publishedAt": "2026-07-06T09:42:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 467933846,
+              "name": "Saturation.Firepower-4.0.4.jar",
+              "sizeBytes": 7862214,
+              "digest": "sha256:3fa461fc386b51630758e53e4b3ebcce5b94f5d9adaf2a2b12a73d742e3539ca",
+              "updatedAt": "2026-07-06T09:42:47Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.4/Saturation.Firepower-4.0.4.jar"
+            }
+          ]
+        },
+        {
+          "id": 328461919,
+          "tag": "v-4.0.3.1",
+          "name": "Saturation Firepower 4.0.3.1",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.3.1",
+          "publishedAt": "2026-05-24T08:06:05Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 428429727,
+              "name": "SF-4.0.3.1.jar",
+              "sizeBytes": 7450203,
+              "digest": "sha256:9d44e20bdb18d867b86aeee6a8a5625b169a635b9574cb2c9fa0a0124ecedb7a",
+              "updatedAt": "2026-05-24T08:04:30Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.3.1/SF-4.0.3.1.jar"
+            }
+          ]
+        },
+        {
+          "id": 311813146,
+          "tag": "v-4.0.3",
+          "name": "Saturation Firepower 4.0.3",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.3",
+          "publishedAt": "2026-04-21T15:39:00Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 401699374,
+              "name": "saturation-firepower-4.0.3.jar",
+              "sizeBytes": 7484167,
+              "digest": "sha256:f81ff3860fd567ffbcdafd74060a0902dc3c37cb97864224958d1e84b1b02ab8",
+              "updatedAt": "2026-04-21T15:38:56Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.3/saturation-firepower-4.0.3.jar"
+            }
+          ]
+        },
+        {
+          "id": 300300361,
+          "tag": "v-4.0.2",
+          "name": "Saturation Firepower 4.0.2",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.2",
+          "publishedAt": "2026-03-23T16:33:15Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 379847061,
+              "name": "Saturation.Firepower-4.0.2.jar",
+              "sizeBytes": 7447086,
+              "digest": "sha256:593b3c21e0ffa2217c8e33705c050f3845f440b2f393e589f13d5bd122e50be0",
+              "updatedAt": "2026-03-23T16:33:15Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.2/Saturation.Firepower-4.0.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 240895742,
+          "tag": "v-4.0.0",
+          "name": "Java rebuild 4.0.0 [V8-150.1+]",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.0",
+          "publishedAt": "2025-08-19T13:33:44Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 284055689,
+              "name": "Saturation-Firepower-4.0.0.jar",
+              "sizeBytes": 7076232,
+              "digest": "sha256:bf531f6c5799aaf1d09facefddf17e75b8b2921178309ae38585dd0d8d66b44c",
+              "updatedAt": "2025-08-19T13:59:47Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.0/Saturation-Firepower-4.0.0.jar"
+            }
+          ]
+        },
+        {
+          "id": 155391060,
+          "tag": "v-3.1.6.4",
+          "name": "v3.1.6.4",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.6.4",
+          "publishedAt": "2024-05-12T09:19:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 167446184,
+              "name": "3.1.6.4.jar",
+              "sizeBytes": 6293480,
+              "digest": null,
+              "updatedAt": "2024-05-12T09:19:03Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.6.4/3.1.6.4.jar"
+            }
+          ]
+        },
+        {
+          "id": 152727276,
+          "tag": "v-3.1.6.2",
+          "name": "v3.1.6.2",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.6.2",
+          "publishedAt": "2024-04-25T04:09:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 164106462,
+              "name": "Saturation.Firepower.3.1.6.2.jar",
+              "sizeBytes": 6324180,
+              "digest": null,
+              "updatedAt": "2024-04-25T04:09:17Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.6.2/Saturation.Firepower.3.1.6.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 130720616,
+          "tag": "v-3.1.4",
+          "name": "fix most errors ",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.4",
+          "publishedAt": "2023-11-21T18:34:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 136747689,
+              "name": "3.1.4.zip",
+              "sizeBytes": 6007785,
+              "digest": null,
+              "updatedAt": "2023-11-21T18:32:42Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.4/3.1.4.zip"
+            }
+          ]
+        },
+        {
+          "id": 125135901,
+          "tag": "v-3.1.3.2",
+          "name": "v-3.1.3.3",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.3.2",
+          "publishedAt": "2023-10-15T17:34:12Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 133738651,
+              "name": "3.1.3.3.zip",
+              "sizeBytes": 5999149,
+              "digest": null,
+              "updatedAt": "2023-11-03T09:06:22Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.3.2/3.1.3.3.zip"
+            }
+          ]
+        },
+        {
+          "id": 121396071,
+          "tag": "v-3.1.2",
+          "name": "饱和火力-3.1.2",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.2",
+          "publishedAt": "2023-09-16T05:28:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 126299296,
+              "name": "3.1.2.zip",
+              "sizeBytes": 5207274,
+              "digest": null,
+              "updatedAt": "2023-09-16T05:25:17Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.2/3.1.2.zip"
+            }
+          ]
+        },
+        {
+          "id": 116733375,
+          "tag": "v-3.1.1.3",
+          "name": "v-3.1.1.3",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.1.3",
+          "publishedAt": "2023-08-12T17:47:12Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 121240218,
+              "name": "3.1.1.3.zip",
+              "sizeBytes": 4828990,
+              "digest": null,
+              "updatedAt": "2023-08-12T17:42:53Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.1.3/3.1.1.3.zip"
+            }
+          ]
+        },
+        {
+          "id": 116111212,
+          "tag": "v-3.1.1",
+          "name": "v-3.1.1",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-3.1.1",
+          "publishedAt": "2023-08-11T19:17:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 121138310,
+              "name": "3.1.1.zip",
+              "sizeBytes": 4830258,
+              "digest": null,
+              "updatedAt": "2023-08-11T19:18:15Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-3.1.1/3.1.1.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "repository": "stabu-dev/Omaloon",
       "url": "https://github.com/stabu-dev/Omaloon",
       "archived": false,
@@ -1033,36 +1417,27 @@
       },
       "source": {
         "branch": "main",
-        "commit": "f19b5b0ee6e808e52a4948dc3d7107babaac9c64",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/f19b5b0ee6e808e52a4948dc3d7107babaac9c64"
+        "commit": "f53106954beda1114f6493de26e5953050699428",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/f53106954beda1114f6493de26e5953050699428"
       },
       "latest": {
-        "id": 393786058,
-        "tag": "V0.93",
-        "name": "V0.93 End-Game + Pre-Finalize Update",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
-        "publishedAt": "2026-09-22T14:32:15Z",
+        "id": 221435847,
+        "tag": "V0.71",
+        "name": "V0.71 Biome Update",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.71",
+        "publishedAt": "2025-05-28T04:33:09Z",
         "prerelease": false,
         "assets": [],
         "manifest": {
           "path": "mod.hjson",
           "name": "exoprosopa",
           "displayName": "[[]#93E2EE]Exoprosopa",
-          "version": "0.93",
-          "minGameVersion": "160",
+          "version": "0.71",
+          "minGameVersion": "146",
           "java": false
         }
       },
       "releases": [
-        {
-          "id": 393786058,
-          "tag": "V0.93",
-          "name": "V0.93 End-Game + Pre-Finalize Update",
-          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
-          "publishedAt": "2026-09-22T14:32:15Z",
-          "prerelease": false,
-          "assets": []
-        },
         {
           "id": 221435847,
           "tag": "V0.71",
@@ -1098,8 +1473,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "7d931389ff11351b96695e6394ce33c9d6476fca",
-        "url": "https://github.com/Twcash/Aquarion/commit/7d931389ff11351b96695e6394ce33c9d6476fca"
+        "commit": "efc6417dd4fd9077a5ede98dcd3702f053bfd995",
+        "url": "https://github.com/Twcash/Aquarion/commit/efc6417dd4fd9077a5ede98dcd3702f053bfd995"
       },
       "latest": {
         "id": 396430855,
@@ -1797,6 +2172,1144 @@
               "digest": null,
               "updatedAt": "2024-10-20T20:55:00Z",
               "url": "https://github.com/Twcash/Aquarion/releases/download/Release/AquarionDesktop.jar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "Uenhe/Fire",
+      "url": "https://github.com/Uenhe/Fire",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "fire",
+        "displayName": "Fire",
+        "version": "1.5.9",
+        "minGameVersion": "160.3",
+        "java": true
+      },
+      "source": {
+        "branch": "main",
+        "commit": "92113219c4305742b305ec6960f31d98845af84a",
+        "url": "https://github.com/Uenhe/Fire/commit/92113219c4305742b305ec6960f31d98845af84a"
+      },
+      "latest": {
+        "id": 389001809,
+        "tag": "v1.5.9",
+        "name": "Fire v1.5.9",
+        "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.9",
+        "publishedAt": "2026-09-15T09:05:57Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 565327638,
+            "name": "Fire.1.5.9-160.3.jar",
+            "sizeBytes": 4704396,
+            "digest": "sha256:43d8bb9e51fdd3aab7d7f56ce10342e2dd489ceeeddf29c910c4b9a0c695d34c",
+            "updatedAt": "2026-09-15T09:05:52Z",
+            "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.9/Fire.1.5.9-160.3.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "fire",
+          "displayName": "Fire",
+          "version": "1.5.9",
+          "minGameVersion": "160.3",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 389001809,
+          "tag": "v1.5.9",
+          "name": "Fire v1.5.9",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.9",
+          "publishedAt": "2026-09-15T09:05:57Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 565327638,
+              "name": "Fire.1.5.9-160.3.jar",
+              "sizeBytes": 4704396,
+              "digest": "sha256:43d8bb9e51fdd3aab7d7f56ce10342e2dd489ceeeddf29c910c4b9a0c695d34c",
+              "updatedAt": "2026-09-15T09:05:52Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.9/Fire.1.5.9-160.3.jar"
+            }
+          ]
+        },
+        {
+          "id": 387915615,
+          "tag": "v1.5.8",
+          "name": "Fire v1.5.8-160.3",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.8",
+          "publishedAt": "2026-09-13T13:53:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 561302468,
+              "name": "Fire.1.5.8-160.3.jar",
+              "sizeBytes": 4702886,
+              "digest": "sha256:c5eb98a7bc33a77c0ba2ca09b22893031b4bc59f8d5231e17130673d18b93ffe",
+              "updatedAt": "2026-09-13T13:53:14Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.8/Fire.1.5.8-160.3.jar"
+            }
+          ]
+        },
+        {
+          "id": 387502687,
+          "tag": "v1.5.7",
+          "name": "Fire v1.5.7-160.1",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.7",
+          "publishedAt": "2026-09-12T09:02:36Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 558954707,
+              "name": "Fire.1.5.7-160.1.jar",
+              "sizeBytes": 4705410,
+              "digest": "sha256:8cd9473caad2b42c47e0e518781544f44858d254db023fca9ba0e76bac57070b",
+              "updatedAt": "2026-09-12T09:00:55Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.7/Fire.1.5.7-160.1.jar"
+            }
+          ]
+        },
+        {
+          "id": 362401603,
+          "tag": "v1.5.6",
+          "name": "Fire v1.5.6",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.6",
+          "publishedAt": "2026-07-30T11:59:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 495312156,
+              "name": "Fire.1.5.6-159.jar",
+              "sizeBytes": 4422772,
+              "digest": "sha256:754e5b356536198e932b82028324c0c34f5c4a2bb0d439ab24fe37306b8a0ff7",
+              "updatedAt": "2026-07-30T11:59:56Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.6/Fire.1.5.6-159.jar"
+            }
+          ]
+        },
+        {
+          "id": 350894963,
+          "tag": "v1.5.5",
+          "name": "Fire v1.5.5",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.5",
+          "publishedAt": "2026-07-08T11:55:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 470222832,
+              "name": "Fire.1.5.5-159.jar",
+              "sizeBytes": 4407574,
+              "digest": "sha256:6565cb0e40b0b03feedf680c8828a61437ba7083d276f081dd90943aaabe4859",
+              "updatedAt": "2026-07-08T11:55:47Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.5/Fire.1.5.5-159.jar"
+            }
+          ]
+        },
+        {
+          "id": 350010895,
+          "tag": "v1.5.4",
+          "name": "Fire v1.5.4-159",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.4",
+          "publishedAt": "2026-07-08T11:52:45Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 470220171,
+              "name": "Fire.1.5.4-159.jar",
+              "sizeBytes": 4406952,
+              "digest": "sha256:6b97f207e21465ed9aa60e7feff73b793f1995812a7361ba928d51ea491f8644",
+              "updatedAt": "2026-07-08T11:52:42Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.4/Fire.1.5.4-159.jar"
+            }
+          ]
+        },
+        {
+          "id": 345705612,
+          "tag": "v1.5.3",
+          "name": "Fire v1.5.3",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.3",
+          "publishedAt": "2026-06-27T14:12:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 459523061,
+              "name": "Fire.1.5.3-157.4.jar",
+              "sizeBytes": 4406794,
+              "digest": "sha256:09c8142796c9331ee1b1fa15f70abdbd8f7bba7fa5594b8b6228afd41cb51473",
+              "updatedAt": "2026-06-27T14:12:29Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.3/Fire.1.5.3-157.4.jar"
+            }
+          ]
+        },
+        {
+          "id": 341912157,
+          "tag": "v1.5.2",
+          "name": "Fire v1.5.2",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.2",
+          "publishedAt": "2026-06-19T11:49:49Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 459503563,
+              "name": "Fire.1.5.2-157.4.jar",
+              "sizeBytes": 4390862,
+              "digest": "sha256:822848e007073ccd739b55c66c7f081c5c875e8e5b06309f9d7bb06d283e87cb",
+              "updatedAt": "2026-06-27T13:31:36Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.2/Fire.1.5.2-157.4.jar"
+            }
+          ]
+        },
+        {
+          "id": 341730405,
+          "tag": "v1.5.1",
+          "name": "Fire v1.5.1-157.4",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.1",
+          "publishedAt": "2026-06-19T02:51:31Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 451803459,
+              "name": "Fire.1.5.1-157.4.jar",
+              "sizeBytes": 4392060,
+              "digest": "sha256:3480071b42be5f51ac3dde50a3e798fa9f04747e5f27244563550be7b47b71c5",
+              "updatedAt": "2026-06-19T02:51:29Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.1/Fire.1.5.1-157.4.jar"
+            }
+          ]
+        },
+        {
+          "id": 273697876,
+          "tag": "v1.5.0",
+          "name": "Fire v1.5.0-154.2",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.0",
+          "publishedAt": "2026-01-01T12:25:28Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 335174992,
+              "name": "Fire.1.5.0-154.2.jar",
+              "sizeBytes": 4181738,
+              "digest": "sha256:705b1d3c417a00accfc2b8077c2af436224fb24912e9f8919351d66d7c75dfc5",
+              "updatedAt": "2026-01-01T12:20:28Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.0/Fire.1.5.0-154.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 271727738,
+          "tag": "v1.4.10",
+          "name": "Fire v1.4.10",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.10",
+          "publishedAt": "2025-12-19T11:47:13Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 330627451,
+              "name": "Fire.1.4.10-154.2.jar",
+              "sizeBytes": 3962659,
+              "digest": "sha256:da9edf6b946b7c36047d824ac84a9ce037f20eb2ff878a703b6a1c03490d7e94",
+              "updatedAt": "2025-12-19T11:47:09Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.10/Fire.1.4.10-154.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 243702387,
+          "tag": "v1.4.9",
+          "name": "Fire v1.4.9",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.9",
+          "publishedAt": "2025-08-31T07:08:56Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 288060498,
+              "name": "Fire.1.4.9-151.jar",
+              "sizeBytes": 3923646,
+              "digest": "sha256:7001924680a1518cb52422c5db8436bf77bfafb788226832d6b01aae1107bba8",
+              "updatedAt": "2025-08-31T07:08:51Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.9/Fire.1.4.9-151.jar"
+            }
+          ]
+        },
+        {
+          "id": 235975868,
+          "tag": "v1.4.8",
+          "name": "Fire v1.4.8",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.8",
+          "publishedAt": "2025-07-29T13:38:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 277425791,
+              "name": "Fire.1.4.8-150.jar",
+              "sizeBytes": 3782825,
+              "digest": "sha256:32089a591e34aea6a5c51fb8f3fa18332b3430a62bc1cebde706cd74311921e3",
+              "updatedAt": "2025-07-29T13:37:59Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.8/Fire.1.4.8-150.jar"
+            }
+          ]
+        },
+        {
+          "id": 235162318,
+          "tag": "v1.4.7",
+          "name": "Fire v1.4.7",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.7",
+          "publishedAt": "2025-07-25T12:45:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 276293149,
+              "name": "Fire.1.4.7-150.jar",
+              "sizeBytes": 3754613,
+              "digest": "sha256:d1901640dbc7aa38ad1e37b7f4901cf526afb0fdcc22e89b284c1bd98552e837",
+              "updatedAt": "2025-07-25T12:45:49Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.7/Fire.1.4.7-150.jar"
+            }
+          ]
+        },
+        {
+          "id": 234803688,
+          "tag": "v1.4.6",
+          "name": "Fire v1.4.6",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.6",
+          "publishedAt": "2025-07-24T08:51:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 275871864,
+              "name": "Fire.1.4.6-150.jar",
+              "sizeBytes": 3719751,
+              "digest": "sha256:b361670e3bf38f856fa409b51d249b892370a68e3229848d1b3392ffe08c2836",
+              "updatedAt": "2025-07-24T08:51:44Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.6/Fire.1.4.6-150.jar"
+            }
+          ]
+        },
+        {
+          "id": 232753049,
+          "tag": "v1.4.5",
+          "name": "Fire v1.4.5",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.5",
+          "publishedAt": "2025-07-16T06:51:13Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 273301057,
+              "name": "Fire.1.4.5-149.jar",
+              "sizeBytes": 3715821,
+              "digest": "sha256:612356e59091a7483aae7ff5ab4bfb24a0b8f52977f055b6b4c8c1741360aedb",
+              "updatedAt": "2025-07-16T06:51:10Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.5/Fire.1.4.5-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 232412818,
+          "tag": "v1.4.4",
+          "name": "Fire v1.4.4",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.4",
+          "publishedAt": "2025-07-15T06:23:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 272968385,
+              "name": "Fire.1.4.4-149.jar",
+              "sizeBytes": 3701830,
+              "digest": "sha256:1f0d3ad64e243cdc52b14e36dfc8940e3f69bf9417c33ce7d83c95e8d4a0ed3c",
+              "updatedAt": "2025-07-15T06:22:20Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.4/Fire.1.4.4-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 232199244,
+          "tag": "v1.4.3",
+          "name": "Fire v1.4.3",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.3",
+          "publishedAt": "2025-07-14T11:41:00Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 272716537,
+              "name": "Fire.1.4.3-149.jar",
+              "sizeBytes": 3701758,
+              "digest": "sha256:4ba267ad1aea889a05658e0f9ae4db0d04d359cb332f617cc3898c346b8c1b2c",
+              "updatedAt": "2025-07-14T11:40:59Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.3/Fire.1.4.3-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 225326287,
+          "tag": "v1.4.2",
+          "name": "Fire v1.4.2",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.2",
+          "publishedAt": "2025-06-14T10:22:48Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 263885675,
+              "name": "Fire.1.4.2-149.jar",
+              "sizeBytes": 3618505,
+              "digest": "sha256:6695254a4fe418a75f454043b34f3c372658d45cb78e4066739b40cb2f85cdbf",
+              "updatedAt": "2025-06-14T10:22:42Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.2/Fire.1.4.2-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 217778886,
+          "tag": "v1.4.1",
+          "name": "Fire v1.4.1",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.1",
+          "publishedAt": "2025-05-10T12:44:31Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 253451096,
+              "name": "Fire.1.4.1-149.jar",
+              "sizeBytes": 3716830,
+              "digest": null,
+              "updatedAt": "2025-05-10T12:40:07Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.1/Fire.1.4.1-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 216356513,
+          "tag": "v1.4.0r",
+          "name": "Fire v1.4.0 - Release",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.0r",
+          "publishedAt": "2025-05-04T14:51:36Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 251756510,
+              "name": "Fire.1.4.0-149.jar",
+              "sizeBytes": 3685931,
+              "digest": null,
+              "updatedAt": "2025-05-04T14:41:25Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.0r/Fire.1.4.0-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 216342502,
+          "tag": "v1.4.0b",
+          "name": "Fire v1.4.0 - Beta",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.4.0b",
+          "publishedAt": "2025-05-04T08:49:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 251720195,
+              "name": "Fire.1.4.0b-149.jar",
+              "sizeBytes": 3681979,
+              "digest": null,
+              "updatedAt": "2025-05-04T08:48:41Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.4.0b/Fire.1.4.0b-149.jar"
+            }
+          ]
+        },
+        {
+          "id": 210592365,
+          "tag": "v1.3.2-server_fixed",
+          "name": "Fire v1.3.2 for server",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.3.2-server_fixed",
+          "publishedAt": "2025-04-06T07:36:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 243953126,
+              "name": "Fire_1.3.2-146_fixed3.jar",
+              "sizeBytes": 2646184,
+              "digest": null,
+              "updatedAt": "2025-04-06T07:34:58Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.3.2-server_fixed/Fire_1.3.2-146_fixed3.jar"
+            }
+          ]
+        },
+        {
+          "id": 167969804,
+          "tag": "v1.3.2",
+          "name": "Fire v1.3.2",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.3.2",
+          "publishedAt": "2024-07-31T04:26:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 182901829,
+              "name": "Fire_1.3.2.jar",
+              "sizeBytes": 2645958,
+              "digest": null,
+              "updatedAt": "2024-07-31T04:26:52Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.3.2/Fire_1.3.2.jar"
+            }
+          ]
+        },
+        {
+          "id": 167470492,
+          "tag": "v1.3.1",
+          "name": "Fire v1.3.1",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.3.1",
+          "publishedAt": "2024-07-27T09:10:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 182175686,
+              "name": "Fire_1.3.1.jar",
+              "sizeBytes": 2645789,
+              "digest": null,
+              "updatedAt": "2024-07-27T09:25:34Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.3.1/Fire_1.3.1.jar"
+            }
+          ]
+        },
+        {
+          "id": 166838848,
+          "tag": "v1.3.0",
+          "name": "Fire v1.3.0",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.3.0",
+          "publishedAt": "2024-07-24T07:17:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 181499421,
+              "name": "Fire_1.3.0.jar",
+              "sizeBytes": 2646177,
+              "digest": null,
+              "updatedAt": "2024-07-24T07:16:47Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.3.0/Fire_1.3.0.jar"
+            }
+          ]
+        },
+        {
+          "id": 139256017,
+          "tag": "v1.2.0",
+          "name": "Fire v1.2.0",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.2.0",
+          "publishedAt": "2024-01-31T06:18:30Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 148869890,
+              "name": "Fire.1.2.0.jar",
+              "sizeBytes": 1259050,
+              "digest": null,
+              "updatedAt": "2024-01-31T06:18:09Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.2.0/Fire.1.2.0.jar"
+            }
+          ]
+        },
+        {
+          "id": 102894691,
+          "tag": "v1.1.3",
+          "name": "Fire v1.1.3",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.1.3",
+          "publishedAt": "2023-05-14T08:37:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 108087687,
+              "name": "Fire.v1.1.3.zip",
+              "sizeBytes": 1525144,
+              "digest": null,
+              "updatedAt": "2023-05-14T08:32:54Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.1.3/Fire.v1.1.3.zip"
+            }
+          ]
+        },
+        {
+          "id": 98646790,
+          "tag": "v1.1.2",
+          "name": "Fire v1.1.2",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.1.2",
+          "publishedAt": "2023-04-09T08:59:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 102904384,
+              "name": "Fire.v1.1.2.zip",
+              "sizeBytes": 1022261,
+              "digest": null,
+              "updatedAt": "2023-04-09T08:58:40Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.1.2/Fire.v1.1.2.zip"
+            }
+          ]
+        },
+        {
+          "id": 97754060,
+          "tag": "v1.1.1",
+          "name": "Fire v1.1.1",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.1.1",
+          "publishedAt": "2023-04-02T05:22:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 101965600,
+              "name": "Fire.v1.1.1.zip",
+              "sizeBytes": 1007341,
+              "digest": null,
+              "updatedAt": "2023-04-02T05:13:49Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.1.1/Fire.v1.1.1.zip"
+            }
+          ]
+        },
+        {
+          "id": 94545469,
+          "tag": "v1.1.0",
+          "name": "Fire v1.1.0",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.1.0",
+          "publishedAt": "2023-03-05T09:50:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 98114018,
+              "name": "Fire_v1.1.0.zip",
+              "sizeBytes": 940299,
+              "digest": null,
+              "updatedAt": "2023-03-05T09:50:43Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.1.0/Fire_v1.1.0.zip"
+            }
+          ]
+        },
+        {
+          "id": 88225055,
+          "tag": "v1.0.3",
+          "name": "Fire v1.0.3",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.0.3",
+          "publishedAt": "2023-01-08T02:15:24Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90885483,
+              "name": "Fire.v1.0.3.zip",
+              "sizeBytes": 771460,
+              "digest": null,
+              "updatedAt": "2023-01-08T02:25:57Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.0.3/Fire.v1.0.3.zip"
+            }
+          ]
+        },
+        {
+          "id": 88083367,
+          "tag": "v1.0.2",
+          "name": "Fire v1.0.2",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.0.2",
+          "publishedAt": "2023-01-06T03:00:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90675310,
+              "name": "Fire.v1.0.2.zip",
+              "sizeBytes": 770013,
+              "digest": null,
+              "updatedAt": "2023-01-06T02:54:51Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.0.2/Fire.v1.0.2.zip"
+            }
+          ]
+        },
+        {
+          "id": 87885373,
+          "tag": "v1.0.1a",
+          "name": "Fire v1.0.1 for game crush issue",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.0.1a",
+          "publishedAt": "2023-01-04T12:42:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90468668,
+              "name": "Fire.v1.0.1.forGameCrushIssue.zip",
+              "sizeBytes": 759785,
+              "digest": null,
+              "updatedAt": "2023-01-04T12:42:17Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.0.1a/Fire.v1.0.1.forGameCrushIssue.zip"
+            }
+          ]
+        },
+        {
+          "id": 87672842,
+          "tag": "v1.0.1",
+          "name": "Fire v1.0.1",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.0.1",
+          "publishedAt": "2023-01-02T03:58:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90212586,
+              "name": "Fire.v1.0.1.zip",
+              "sizeBytes": 759783,
+              "digest": null,
+              "updatedAt": "2023-01-02T03:56:48Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.0.1/Fire.v1.0.1.zip"
+            }
+          ]
+        },
+        {
+          "id": 87669743,
+          "tag": "v1.0.0",
+          "name": "Fire v1.0.0",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.0.0",
+          "publishedAt": "2023-01-02T02:06:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 90205207,
+              "name": "Fire.v1.0.0.zip",
+              "sizeBytes": 759525,
+              "digest": null,
+              "updatedAt": "2023-01-02T01:51:05Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.0.0/Fire.v1.0.0.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "WMF-Industries/ExpandedIndustries",
+      "url": "https://github.com/WMF-Industries/ExpandedIndustries",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "assets/mod.hjson",
+        "name": "EI",
+        "displayName": "[orange]Expanded [lightgray]Industries",
+        "version": "1.8.9",
+        "minGameVersion": "160.5",
+        "java": true
+      },
+      "source": {
+        "branch": "Mods",
+        "commit": "60c61c9b534d484de55c7a9aa67cdd5efdc3d6ea",
+        "url": "https://github.com/WMF-Industries/ExpandedIndustries/commit/60c61c9b534d484de55c7a9aa67cdd5efdc3d6ea"
+      },
+      "latest": {
+        "id": 399522846,
+        "tag": "v1.8.9",
+        "name": "Expanded Industries v1.8",
+        "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.9",
+        "publishedAt": "2026-09-29T20:58:01Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 599207584,
+            "name": "ExpandedIndustries.jar",
+            "sizeBytes": 1310588,
+            "digest": "sha256:1a38baa21695cb7e342a09a0876e667bcbb0b6e871b574d45a33752828e29fef",
+            "updatedAt": "2026-09-29T20:57:59Z",
+            "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.9/ExpandedIndustries.jar"
+          }
+        ],
+        "manifest": {
+          "path": "assets/mod.hjson",
+          "name": "EI",
+          "displayName": "[orange]Expanded [lightgray]Industries",
+          "version": "1.8.9",
+          "minGameVersion": "160.5",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 399522846,
+          "tag": "v1.8.9",
+          "name": "Expanded Industries v1.8",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.9",
+          "publishedAt": "2026-09-29T20:58:01Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 599207584,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1310588,
+              "digest": "sha256:1a38baa21695cb7e342a09a0876e667bcbb0b6e871b574d45a33752828e29fef",
+              "updatedAt": "2026-09-29T20:57:59Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.9/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 397819858,
+          "tag": "v1.8.8",
+          "name": "Expanded Industries v1.8",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.8",
+          "publishedAt": "2026-09-27T21:28:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 593809077,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1318526,
+              "digest": "sha256:5234af4b42f4f3af726b7deb226242a278563ea00c152cbfa732d659eb567c3a",
+              "updatedAt": "2026-09-27T21:27:54Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.8/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 355320127,
+          "tag": "v1.8.7",
+          "name": "Expanded Industries v1.8 [Pt2 Release 7]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.7",
+          "publishedAt": "2026-07-16T19:39:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 479560045,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1210330,
+              "digest": "sha256:3e67e45c203b202973193293e866b7ccce336180983802a35b774a918aa23345",
+              "updatedAt": "2026-07-16T19:39:43Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.7/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 350771295,
+          "tag": "v1.8.6",
+          "name": "Expanded Industries v1.8 [Pt2 Release 6]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.6",
+          "publishedAt": "2026-07-08T07:45:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 470035793,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1040128,
+              "digest": "sha256:ab03d38dd2b43ae8aeba16fa1e1e99ea79b63d38dccb6abd85bdabbb80fd4910",
+              "updatedAt": "2026-07-08T07:45:38Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.6/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 309780589,
+          "tag": "v1.8.5",
+          "name": "Expanded Industries v1.8 [Pt2 Release 5]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.5",
+          "publishedAt": "2026-04-16T10:34:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 397704717,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1034461,
+              "digest": "sha256:1230b87c30df3360897a372acb3be90d06306cddcb99f846c08491d7525a86b5",
+              "updatedAt": "2026-04-16T10:33:50Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.5/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 302902376,
+          "tag": "v1.8.4",
+          "name": "Expanded Industries v1.8 [Pt2 Release 4]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.4",
+          "publishedAt": "2026-03-29T20:00:47Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 384185647,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1034332,
+              "digest": "sha256:04e16f344e4b2392df4aa55595adb3f2cb0c6e85a98b5f92c8a1ce454860b970",
+              "updatedAt": "2026-03-29T20:00:45Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.4/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 301887915,
+          "tag": "v1.8.3",
+          "name": "Expanded Industries v1.8 [Pt2 Release 3]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.3",
+          "publishedAt": "2026-03-26T14:12:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 382141926,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1033896,
+              "digest": "sha256:7310ad23614953e9ded2e44298e0c4754d2ed024cbffd1bfaa192b186fc39ff0",
+              "updatedAt": "2026-03-26T14:11:55Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.3/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 292602170,
+          "tag": "v1.8.2",
+          "name": "Expanded Industries v1.8 [Pt2 Release 2]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8.2",
+          "publishedAt": "2026-03-03T15:41:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 366148161,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1033061,
+              "digest": "sha256:726f6ee43d37a4f662ec856a54d1addb2142c1ae360ab02a7173f1167b718f8e",
+              "updatedAt": "2026-03-03T15:41:16Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8.2/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 292416126,
+          "tag": "v1.8PT2",
+          "name": "Expanded Industries v1.8 [Pt2]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8PT2",
+          "publishedAt": "2026-03-03T07:50:30Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 365878557,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1032625,
+              "digest": "sha256:0333d2111e98f216c9679185ced5a66dcc618faa9abef9045f5204a10c677815",
+              "updatedAt": "2026-03-03T07:50:11Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8PT2/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 281599991,
+          "tag": "v1.8PT1",
+          "name": "Expanded Industries v1.8 [Pt1]",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.8PT1",
+          "publishedAt": "2026-01-30T17:06:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 348277655,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1005383,
+              "digest": "sha256:13b4ab4356d59f237793649c1528d796be40fb96a525c2d434f4aae5b05c1cce",
+              "updatedAt": "2026-01-30T17:06:36Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.8PT1/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 113195105,
+          "tag": "v1.7",
+          "name": "Expanded Industries v1.7",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.7",
+          "publishedAt": "2023-07-22T17:18:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 143277098,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1031101,
+              "digest": null,
+              "updatedAt": "2024-01-01T16:43:55Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.7/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 94014807,
+          "tag": "v1.6",
+          "name": "Expanded Industries v1.6",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.6",
+          "publishedAt": "2023-02-28T23:39:18Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 118143124,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 995549,
+              "digest": null,
+              "updatedAt": "2023-07-22T17:21:00Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.6/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 81559178,
+          "tag": "v1.5",
+          "name": "Expanded Industries v1.5",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.5",
+          "publishedAt": "2022-10-31T14:33:35Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 92331078,
+              "name": "ExpandedIndustries.jar",
+              "sizeBytes": 1043961,
+              "digest": null,
+              "updatedAt": "2023-01-19T22:16:28Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.5/ExpandedIndustries.jar"
+            }
+          ]
+        },
+        {
+          "id": 74510989,
+          "tag": "v1.5B",
+          "name": "Expanded Industries v1.5B",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.5B",
+          "publishedAt": "2022-08-16T12:26:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 74869433,
+              "name": "ExpandedIndustries-Mods.zip",
+              "sizeBytes": 685532,
+              "digest": null,
+              "updatedAt": "2022-08-16T12:26:34Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.5B/ExpandedIndustries-Mods.zip"
+            }
+          ]
+        },
+        {
+          "id": 63777173,
+          "tag": "v1.4",
+          "name": "Expanded Industries 1.4",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.4",
+          "publishedAt": "2022-04-06T17:23:23Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 64167936,
+              "name": "ExpandedIndustries-Mods.zip",
+              "sizeBytes": 565135,
+              "digest": null,
+              "updatedAt": "2022-05-01T10:39:21Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.4/ExpandedIndustries-Mods.zip"
+            }
+          ]
+        },
+        {
+          "id": 60918320,
+          "tag": "v1.4B",
+          "name": "Expanded Industries 1.4 Beta",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.4B",
+          "publishedAt": "2022-03-03T17:29:21Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 58463047,
+              "name": "EI-v1.4.zip",
+              "sizeBytes": 545096,
+              "digest": null,
+              "updatedAt": "2022-03-03T17:29:21Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.4B/EI-v1.4.zip"
+            }
+          ]
+        },
+        {
+          "id": 54820779,
+          "tag": "v1.3.5",
+          "name": "Expanded Industries 1.3.5",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.3.5",
+          "publishedAt": "2021-12-07T19:31:38Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 51237083,
+              "name": "ExpandedIndustries-1.3.5.zip",
+              "sizeBytes": 572003,
+              "digest": null,
+              "updatedAt": "2021-12-07T19:30:56Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.3.5/ExpandedIndustries-1.3.5.zip"
+            }
+          ]
+        },
+        {
+          "id": 53799651,
+          "tag": "v1.3",
+          "name": "Expanded Industries 1.3",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.3",
+          "publishedAt": "2021-11-21T19:11:16Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 49986658,
+              "name": "ExpandedIndustries-v1.3.zip",
+              "sizeBytes": 560861,
+              "digest": null,
+              "updatedAt": "2021-11-21T19:13:16Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.3/ExpandedIndustries-v1.3.zip"
+            }
+          ]
+        },
+        {
+          "id": 53405875,
+          "tag": "1.2Updated",
+          "name": "Expanded Industries 1.2.5.5",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/1.2Updated",
+          "publishedAt": "2021-11-15T16:55:11Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 49481241,
+              "name": "Expanded_Industries_1.2.5.5.zip",
+              "sizeBytes": 551875,
+              "digest": null,
+              "updatedAt": "2021-11-15T16:53:47Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/1.2Updated/Expanded_Industries_1.2.5.5.zip"
+            }
+          ]
+        },
+        {
+          "id": 52720463,
+          "tag": "1.2",
+          "name": "Expanded Industries 1.2.5",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/1.2",
+          "publishedAt": "2021-11-04T18:19:35Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 48644589,
+              "name": "ExpandedIndustries.v1.2.5.zip",
+              "sizeBytes": 551712,
+              "digest": null,
+              "updatedAt": "2021-11-04T19:23:55Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/1.2/ExpandedIndustries.v1.2.5.zip"
+            }
+          ]
+        },
+        {
+          "id": 50079215,
+          "tag": "1.2BetaUpdated",
+          "name": "Expanded Industries 1.2 Beta Update",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/1.2BetaUpdated",
+          "publishedAt": "2021-09-22T18:04:42Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 45386429,
+              "name": "ExpandedIndustries-Mods.zip",
+              "sizeBytes": 539776,
+              "digest": null,
+              "updatedAt": "2021-09-22T18:03:59Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/1.2BetaUpdated/ExpandedIndustries-Mods.zip"
+            }
+          ]
+        },
+        {
+          "id": 48393757,
+          "tag": "v1.1",
+          "name": "Expanded Industries 1.1 Full",
+          "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/tag/v1.1",
+          "publishedAt": "2021-08-25T02:01:06Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 43219724,
+              "name": "ExpandedIndustries-Mods.1.zip",
+              "sizeBytes": 1247956,
+              "digest": null,
+              "updatedAt": "2021-08-25T01:59:18Z",
+              "url": "https://github.com/WMF-Industries/ExpandedIndustries/releases/download/v1.1/ExpandedIndustries-Mods.1.zip"
             }
           ]
         }

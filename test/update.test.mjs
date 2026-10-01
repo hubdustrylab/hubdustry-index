@@ -96,6 +96,19 @@ test('a tagged repository with an invalid manifest is skipped', async () => {
     path.includes('/contents/') ? manifest('{ invalid') : api(path)), null);
 });
 
+test('malformed release manifests retain public release metadata; transport failures preserve the snapshot', async () => {
+  const api = fakeApi();
+  const result = await collect({ repository: 'owner/mod', channel: 'stable' }, async path =>
+    path.includes('/contents/mod.json?ref=v2') ? manifest('{ invalid') : api(path));
+  assert.equal(result.latest.tag, 'v2');
+  assert.equal(result.latest.manifest, null);
+  assert.equal(result.manifest.name, 'demo');
+  await assert.rejects(collect({ repository: 'owner/mod', channel: 'stable' }, async path => {
+    if (path.includes('/contents/mod.json?ref=v2')) throw new Error('GitHub HTTP 503');
+    return api(path);
+  }), /503/);
+});
+
 test('failed upstream calls preserve the published snapshot; successful identical runs do not rewrite it', async t => {
   const directory = await mkdtemp(join(tmpdir(), 'hubdustry-index-test-'));
   t.after(async () => {
