@@ -1527,8 +1527,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "236b58b7dd46ac4be8f6c7c74375e7bf18d8d72e",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/236b58b7dd46ac4be8f6c7c74375e7bf18d8d72e"
+        "commit": "7a6c81c11173727ab0829fa04f7dcc7124cd55c5",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/7a6c81c11173727ab0829fa04f7dcc7124cd55c5"
       },
       "latest": {
         "id": 221435847,
@@ -1583,8 +1583,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "a8eef54611dae1b003a4b2c00a72b4672680a175",
-        "url": "https://github.com/Twcash/Aquarion/commit/a8eef54611dae1b003a4b2c00a72b4672680a175"
+        "commit": "693644d3bd8f97b67a2a2718fe0864f8a2adfa32",
+        "url": "https://github.com/Twcash/Aquarion/commit/693644d3bd8f97b67a2a2718fe0864f8a2adfa32"
       },
       "latest": {
         "id": 396430855,
@@ -2296,42 +2296,60 @@
         "path": "mod.hjson",
         "name": "fire",
         "displayName": "Fire",
-        "version": "1.5.9",
+        "version": "1.5.10",
         "minGameVersion": "160.3",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "92113219c4305742b305ec6960f31d98845af84a",
-        "url": "https://github.com/Uenhe/Fire/commit/92113219c4305742b305ec6960f31d98845af84a"
+        "commit": "ca9ddfa0ad0e8bced2326c7427d872082ff3bd76",
+        "url": "https://github.com/Uenhe/Fire/commit/ca9ddfa0ad0e8bced2326c7427d872082ff3bd76"
       },
       "latest": {
-        "id": 389001809,
-        "tag": "v1.5.9",
-        "name": "Fire v1.5.9",
-        "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.9",
-        "publishedAt": "2026-09-15T09:05:57Z",
+        "id": 401274909,
+        "tag": "v1.5.10",
+        "name": "Fire v1.5.10",
+        "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.10",
+        "publishedAt": "2026-10-01T19:15:55Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 565327638,
-            "name": "Fire.1.5.9-160.3.jar",
-            "sizeBytes": 4704396,
-            "digest": "sha256:43d8bb9e51fdd3aab7d7f56ce10342e2dd489ceeeddf29c910c4b9a0c695d34c",
-            "updatedAt": "2026-09-15T09:05:52Z",
-            "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.9/Fire.1.5.9-160.3.jar"
+            "id": 603955242,
+            "name": "Fire.1.5.10-160.3.jar",
+            "sizeBytes": 4754204,
+            "digest": "sha256:e6270d86f59a9a078291624d46d79abdbd5fdca485fd3296182a4506087bbfba",
+            "updatedAt": "2026-10-01T19:15:43Z",
+            "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.10/Fire.1.5.10-160.3.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "fire",
           "displayName": "Fire",
-          "version": "1.5.9",
+          "version": "1.5.10",
           "minGameVersion": "160.3",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 401274909,
+          "tag": "v1.5.10",
+          "name": "Fire v1.5.10",
+          "url": "https://github.com/Uenhe/Fire/releases/tag/v1.5.10",
+          "publishedAt": "2026-10-01T19:15:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 603955242,
+              "name": "Fire.1.5.10-160.3.jar",
+              "sizeBytes": 4754204,
+              "digest": "sha256:e6270d86f59a9a078291624d46d79abdbd5fdca485fd3296182a4506087bbfba",
+              "updatedAt": "2026-10-01T19:15:43Z",
+              "url": "https://github.com/Uenhe/Fire/releases/download/v1.5.10/Fire.1.5.10-160.3.jar"
+            }
+          ]
+        },
         {
           "id": 389001809,
           "tag": "v1.5.9",
