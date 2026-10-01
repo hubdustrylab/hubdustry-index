@@ -239,6 +239,116 @@
       ]
     },
     {
+      "repository": "430230562/vanilla-neoplasm-extend",
+      "url": "https://github.com/430230562/vanilla-neoplasm-extend",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.json",
+        "name": "vne",
+        "displayName": "原版瘤液拓展",
+        "version": "0.51",
+        "minGameVersion": "159",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "f338d78eb2dcc7ddae8aea136cd5e84e37ffd4fc",
+        "url": "https://github.com/430230562/vanilla-neoplasm-extend/commit/f338d78eb2dcc7ddae8aea136cd5e84e37ffd4fc"
+      },
+      "latest": {
+        "id": 359612367,
+        "tag": "v0.50",
+        "name": "v0.50更新",
+        "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.50",
+        "publishedAt": "2026-07-25T00:45:13Z",
+        "prerelease": false,
+        "assets": [],
+        "manifest": {
+          "path": "mod.json",
+          "name": "vne",
+          "displayName": "原版瘤液拓展",
+          "version": "0.5",
+          "minGameVersion": "159",
+          "java": false
+        }
+      },
+      "releases": [
+        {
+          "id": 359612367,
+          "tag": "v0.50",
+          "name": "v0.50更新",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.50",
+          "publishedAt": "2026-07-25T00:45:13Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 344031777,
+          "tag": "v0.40",
+          "name": "v0.40",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.40",
+          "publishedAt": "2026-06-24T10:19:44Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 329090339,
+          "tag": "v0.32",
+          "name": "0.32更新",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.32",
+          "publishedAt": "2026-05-25T22:33:26Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 299918690,
+          "tag": "v0.3",
+          "name": "v0.3update",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.3",
+          "publishedAt": "2026-03-22T15:45:00Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 275824723,
+          "tag": "v0.22",
+          "name": "v0.22",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.22",
+          "publishedAt": "2026-01-11T14:39:10Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 272029890,
+          "tag": "v0.21",
+          "name": "V0.21更新",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.21",
+          "publishedAt": "2025-12-21T15:28:28Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 270203320,
+          "tag": "v0.20",
+          "name": "0.20更新",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/v0.20",
+          "publishedAt": "2025-12-14T15:11:15Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 267996305,
+          "tag": "V0.12",
+          "name": "v0.12",
+          "url": "https://github.com/430230562/vanilla-neoplasm-extend/releases/tag/V0.12",
+          "publishedAt": "2025-12-06T14:45:38Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
+    },
+    {
       "repository": "BSp-2/Echo-fleet",
       "url": "https://github.com/BSp-2/Echo-fleet",
       "archived": false,
@@ -644,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "719d4d96133bc1846cfb0ed7827a251c8be48152",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/719d4d96133bc1846cfb0ed7827a251c8be48152"
+        "commit": "7237e2b169375e1dc6ae41fa7a035f71c31d2013",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/7237e2b169375e1dc6ae41fa7a035f71c31d2013"
       },
       "latest": {
         "id": 280663973,
@@ -684,8 +794,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "5644d4eb65fb67d0dc18168d36f1c084113344d6",
-        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/5644d4eb65fb67d0dc18168d36f1c084113344d6"
+        "commit": "b12f9b4067edd4f79852a900212068a916eecef2",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/b12f9b4067edd4f79852a900212068a916eecef2"
       },
       "latest": {
         "id": 387607687,
@@ -1417,8 +1527,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "f53106954beda1114f6493de26e5953050699428",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/f53106954beda1114f6493de26e5953050699428"
+        "commit": "236b58b7dd46ac4be8f6c7c74375e7bf18d8d72e",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/236b58b7dd46ac4be8f6c7c74375e7bf18d8d72e"
       },
       "latest": {
         "id": 221435847,
@@ -1473,8 +1583,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "efc6417dd4fd9077a5ede98dcd3702f053bfd995",
-        "url": "https://github.com/Twcash/Aquarion/commit/efc6417dd4fd9077a5ede98dcd3702f053bfd995"
+        "commit": "a8eef54611dae1b003a4b2c00a72b4672680a175",
+        "url": "https://github.com/Twcash/Aquarion/commit/a8eef54611dae1b003a4b2c00a72b4672680a175"
       },
       "latest": {
         "id": 396430855,
