@@ -780,6 +780,27 @@
       ]
     },
     {
+      "repository": "KOCTOLOM/Mindustry-overhaul",
+      "url": "https://github.com/KOCTOLOM/Mindustry-overhaul",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "mov",
+        "displayName": "Mindustry Overhaul",
+        "version": "v1.4.91",
+        "minGameVersion": "151.1",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "276ffd46144c1be98559658c54a74dc1d2aa4456",
+        "url": "https://github.com/KOCTOLOM/Mindustry-overhaul/commit/276ffd46144c1be98559658c54a74dc1d2aa4456"
+      },
+      "latest": null,
+      "releases": []
+    },
+    {
       "repository": "RA2EXE/Saturation-Firepower",
       "url": "https://github.com/RA2EXE/Saturation-Firepower",
       "archived": false,
@@ -1527,8 +1548,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "7a6c81c11173727ab0829fa04f7dcc7124cd55c5",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/7a6c81c11173727ab0829fa04f7dcc7124cd55c5"
+        "commit": "c60f85e5e002a9680e63122625a939fb4cca7379",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/c60f85e5e002a9680e63122625a939fb4cca7379"
       },
       "latest": {
         "id": 221435847,
