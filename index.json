@@ -1548,8 +1548,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "d2607542dd59107d0f5c5504f21808016a901954",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/d2607542dd59107d0f5c5504f21808016a901954"
+        "commit": "e3e3c230a98be0c7528c45a28af8c4e415c26616",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/e3e3c230a98be0c7528c45a28af8c4e415c26616"
       },
       "latest": {
         "id": 402562275,
@@ -1607,42 +1607,60 @@
         "path": "mod.json",
         "name": "aquarion",
         "displayName": "Aquarion",
-        "version": "4.2.8",
+        "version": "4.2.9",
         "minGameVersion": "160.5",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "03458c7502bc960cd94ab7e1115c6213d2beb178",
-        "url": "https://github.com/Twcash/Aquarion/commit/03458c7502bc960cd94ab7e1115c6213d2beb178"
+        "commit": "7dea749a6cee649c1ed3af040e90a0b88ce8897b",
+        "url": "https://github.com/Twcash/Aquarion/commit/7dea749a6cee649c1ed3af040e90a0b88ce8897b"
       },
       "latest": {
-        "id": 396430855,
-        "tag": "4.2.8",
-        "name": "4.2.8",
-        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.8",
-        "publishedAt": "2026-09-25T08:17:59Z",
+        "id": 402680268,
+        "tag": "4.2.9",
+        "name": "4.2.9",
+        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.9",
+        "publishedAt": "2026-10-03T20:30:17Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 587886448,
+            "id": 608485631,
             "name": "Aquarion.jar",
-            "sizeBytes": 52347720,
-            "digest": "sha256:bb271e86b4b6a0f9940bec1f55dfffba2273d3f71f6477944c46c2ce38d06ce3",
-            "updatedAt": "2026-09-25T08:17:59Z",
-            "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.8/Aquarion.jar"
+            "sizeBytes": 71175294,
+            "digest": "sha256:439ab4c4434a57a6fc691d702b665b65483c7f305f369fa3ebb510036071d289",
+            "updatedAt": "2026-10-03T20:30:17Z",
+            "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.9/Aquarion.jar"
           }
         ],
         "manifest": {
           "path": "mod.json",
           "name": "aquarion",
           "displayName": "Aquarion",
-          "version": "4.2.7",
+          "version": "4.2.9",
           "minGameVersion": "160.5",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 402680268,
+          "tag": "4.2.9",
+          "name": "4.2.9",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.9",
+          "publishedAt": "2026-10-03T20:30:17Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 608485631,
+              "name": "Aquarion.jar",
+              "sizeBytes": 71175294,
+              "digest": "sha256:439ab4c4434a57a6fc691d702b665b65483c7f305f369fa3ebb510036071d289",
+              "updatedAt": "2026-10-03T20:30:17Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.9/Aquarion.jar"
+            }
+          ]
+        },
         {
           "id": 396430855,
           "tag": "4.2.8",
