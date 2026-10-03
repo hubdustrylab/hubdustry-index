@@ -363,8 +363,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "0302ccd587b2a028279ad86c89b4d34308e0fc3c",
-        "url": "https://github.com/BSp-2/Echo-fleet/commit/0302ccd587b2a028279ad86c89b4d34308e0fc3c"
+        "commit": "7de3edc45784ab24d7689990a9f201b59f03e716",
+        "url": "https://github.com/BSp-2/Echo-fleet/commit/7de3edc45784ab24d7689990a9f201b59f03e716"
       },
       "latest": {
         "id": 380706466,
@@ -1548,27 +1548,36 @@
       },
       "source": {
         "branch": "main",
-        "commit": "5c116e778072be8056b302685612af49601bd2cf",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/5c116e778072be8056b302685612af49601bd2cf"
+        "commit": "d2607542dd59107d0f5c5504f21808016a901954",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/d2607542dd59107d0f5c5504f21808016a901954"
       },
       "latest": {
-        "id": 221435847,
-        "tag": "V0.71",
-        "name": "V0.71 Biome Update",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.71",
-        "publishedAt": "2025-05-28T04:33:09Z",
+        "id": 402562275,
+        "tag": "V0.93",
+        "name": "V0.93 End-Game + Pre-Finalize Update",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
+        "publishedAt": "2026-10-03T15:07:53Z",
         "prerelease": false,
         "assets": [],
         "manifest": {
           "path": "mod.hjson",
           "name": "exoprosopa",
           "displayName": "[[]#93E2EE]Exoprosopa",
-          "version": "0.71",
-          "minGameVersion": "146",
+          "version": "0.93",
+          "minGameVersion": "160",
           "java": false
         }
       },
       "releases": [
+        {
+          "id": 402562275,
+          "tag": "V0.93",
+          "name": "V0.93 End-Game + Pre-Finalize Update",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
+          "publishedAt": "2026-10-03T15:07:53Z",
+          "prerelease": false,
+          "assets": []
+        },
         {
           "id": 221435847,
           "tag": "V0.71",
