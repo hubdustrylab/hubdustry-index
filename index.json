@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "5bcf7f64996a78f495855e4c1a89d9f15d10e583",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/5bcf7f64996a78f495855e4c1a89d9f15d10e583"
+        "commit": "982239b465a16b28c47be2abe14ef124c8e46222",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/982239b465a16b28c47be2abe14ef124c8e46222"
       },
       "latest": {
         "id": 280663973,
@@ -799,6 +799,673 @@
       },
       "latest": null,
       "releases": []
+    },
+    {
+      "repository": "Martian238/Vanilla-Expansion-Mod",
+      "url": "https://github.com/Martian238/Vanilla-Expansion-Mod",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "ve",
+        "displayName": "Vanilla Expansion",
+        "version": "2.1.2.1",
+        "minGameVersion": "160",
+        "java": true
+      },
+      "source": {
+        "branch": "main",
+        "commit": "246e1826e14c28bd6c8306b0306edb38abdfac5b",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/246e1826e14c28bd6c8306b0306edb38abdfac5b"
+      },
+      "latest": {
+        "id": 403011073,
+        "tag": "v2121",
+        "name": "v2.1.2.1 Annihilate Test Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2121",
+        "publishedAt": "2026-10-04T12:32:04Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 609814719,
+            "name": "vanilla-expansion2121.jar",
+            "sizeBytes": 29278112,
+            "digest": "sha256:00f6265df35d5ec755199560e7db594f9c5c7b291228a41b6e15662e981182b1",
+            "updatedAt": "2026-10-04T12:32:04Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2121/vanilla-expansion2121.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "ve",
+          "displayName": "Vanilla Expansion",
+          "version": "2.1.2.1",
+          "minGameVersion": "160",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 403011073,
+          "tag": "v2121",
+          "name": "v2.1.2.1 Annihilate Test Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2121",
+          "publishedAt": "2026-10-04T12:32:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 609814719,
+              "name": "vanilla-expansion2121.jar",
+              "sizeBytes": 29278112,
+              "digest": "sha256:00f6265df35d5ec755199560e7db594f9c5c7b291228a41b6e15662e981182b1",
+              "updatedAt": "2026-10-04T12:32:04Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2121/vanilla-expansion2121.jar"
+            }
+          ]
+        },
+        {
+          "id": 397478288,
+          "tag": "v2120-3",
+          "name": "v2.1.2.0-3 Dense Alloy Fix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2120-3",
+          "publishedAt": "2026-09-27T02:33:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 591960196,
+              "name": "vanilla-expansion21203.jar",
+              "sizeBytes": 28875500,
+              "digest": "sha256:e906782eb273111d09e6b62ab525bd66e619b1ca27b8bd593f720059e128b750",
+              "updatedAt": "2026-09-27T02:33:34Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2120-3/vanilla-expansion21203.jar"
+            }
+          ]
+        },
+        {
+          "id": 396314534,
+          "tag": "v2120-2",
+          "name": "v2.1.2.0-2 Dense Alloy Offset Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2120-2",
+          "publishedAt": "2026-09-25T05:00:55Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 587729614,
+              "name": "vanilla-expansion21202.jar",
+              "sizeBytes": 28719796,
+              "digest": "sha256:23b80e3b44c60c1516ed36737f0561a913a54ccd28f32443146573e113c3d7b9",
+              "updatedAt": "2026-09-25T06:46:24Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2120-2/vanilla-expansion21202.jar"
+            }
+          ]
+        },
+        {
+          "id": 394754375,
+          "tag": "v2120",
+          "name": "v2.1.2.0 Slate Guardpost Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2120",
+          "publishedAt": "2026-09-23T14:41:29Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 583955434,
+              "name": "vanilla-expansion2120.jar",
+              "sizeBytes": 28709707,
+              "digest": "sha256:2260c98eef7f0bbaac1458b4a7a99a357ba2b0bca62afa32661bf463762e0a38",
+              "updatedAt": "2026-09-23T14:41:29Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2120/vanilla-expansion2120.jar"
+            }
+          ]
+        },
+        {
+          "id": 389629874,
+          "tag": "v211H-1",
+          "name": "v2.1.1.H-1 Polymer Crafter Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211H-1",
+          "publishedAt": "2026-09-16T04:05:10Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 567135613,
+              "name": "vanilla-expansion211h1.jar",
+              "sizeBytes": 28594133,
+              "digest": "sha256:236d3688439208c764b5b280186bfa30c29e4731f95de65a2f2ee62c678c9189",
+              "updatedAt": "2026-09-16T04:05:10Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211H-1/vanilla-expansion211h1.jar"
+            }
+          ]
+        },
+        {
+          "id": 387840628,
+          "tag": "v211H",
+          "name": "v2.1.1.H ",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211H",
+          "publishedAt": "2026-09-13T09:43:00Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 560877405,
+              "name": "vanilla-expansion211h.jar",
+              "sizeBytes": 28595835,
+              "digest": "sha256:b7e10c4cdfbde2be15b019cb37d93ddcaaa5f15abd2f410a9a51f32e56bf3fdd",
+              "updatedAt": "2026-09-13T09:43:00Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211H/vanilla-expansion211h.jar"
+            }
+          ]
+        },
+        {
+          "id": 383459732,
+          "tag": "v211G-1",
+          "name": "v2.1.1.G-1 Triumph Truck Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211G-1",
+          "publishedAt": "2026-09-06T04:06:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 546702514,
+              "name": "vanilla-expansion211g1.jar",
+              "sizeBytes": 28397195,
+              "digest": "sha256:e58cb7366decebe60d35cd668ceabe802df06da29458f568034dcb1215429904",
+              "updatedAt": "2026-09-06T04:06:34Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211G-1/vanilla-expansion211g1.jar"
+            }
+          ]
+        },
+        {
+          "id": 383237703,
+          "tag": "v211G",
+          "name": "v2.1.1.G Corromech Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211G",
+          "publishedAt": "2026-09-05T12:22:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 545791254,
+              "name": "vanilla-expansion211g.jar",
+              "sizeBytes": 26509459,
+              "digest": "sha256:682c46cd84882b51343b27d8206dff32ab66edd67070519f2b3a9f637fdea5b7",
+              "updatedAt": "2026-09-05T12:22:50Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211G/vanilla-expansion211g.jar"
+            }
+          ]
+        },
+        {
+          "id": 382153839,
+          "tag": "v211F-2",
+          "name": "v2.1.1.F-2 Java Unit Saving Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211F-2",
+          "publishedAt": "2026-09-03T16:00:24Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 542992462,
+              "name": "vanilla-expansion211f2.jar",
+              "sizeBytes": 26459997,
+              "digest": "sha256:c93d13f21a3fa1a653bf02756c80974951f68839383be3de0914adacbe6ad6af",
+              "updatedAt": "2026-09-03T16:00:24Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211F-2/vanilla-expansion211f2.jar"
+            }
+          ]
+        },
+        {
+          "id": 381995971,
+          "tag": "v211F-1",
+          "name": "v2.1.1.F-1 Shield Beam Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211F-1",
+          "publishedAt": "2026-09-03T12:22:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 542733531,
+              "name": "vanilla-expansion211f1.jar",
+              "sizeBytes": 26446051,
+              "digest": "sha256:8ac1ce106feb84fabfa8c5d2e12ebb6e0cdbc924137fd0058bc15ddd44786a05",
+              "updatedAt": "2026-09-03T12:22:50Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211F-1/vanilla-expansion211f1.jar"
+            }
+          ]
+        },
+        {
+          "id": 381352066,
+          "tag": "v211F",
+          "name": "v2.1.1.F Spawn Egg Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211F",
+          "publishedAt": "2026-09-02T15:21:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 541332716,
+              "name": "vanilla-expansion211f.jar",
+              "sizeBytes": 26431422,
+              "digest": "sha256:414cc2fc0f62c98b92482028bbb9fc2bb11b637d111f61dcee38894fb62bda62",
+              "updatedAt": "2026-09-02T15:21:03Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211F/vanilla-expansion211f.jar"
+            }
+          ]
+        },
+        {
+          "id": 378539515,
+          "tag": "v211E-3",
+          "name": "v2.1.1.E-3 Large Title Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211E-3",
+          "publishedAt": "2026-08-28T14:33:06Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 533908733,
+              "name": "vanilla-expansion.v2.1.1.E-3.jar",
+              "sizeBytes": 26226412,
+              "digest": "sha256:6d0825dbba87ee7ff9bbf9c86b1bbc98c5c8fd358b4376a14c02a591cbe6b0fa",
+              "updatedAt": "2026-08-28T14:26:06Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211E-3/vanilla-expansion.v2.1.1.E-3.jar"
+            }
+          ]
+        },
+        {
+          "id": 377577942,
+          "tag": "v211E-2",
+          "name": "v2.1.1.E-2 Fluid Limiter Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211E-2",
+          "publishedAt": "2026-08-27T05:16:35Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 531835906,
+              "name": "vanilla-expansion211e2.jar",
+              "sizeBytes": 25466369,
+              "digest": "sha256:5fdbf4f52d9635417244add5595ad63e24d5c09e675367f35aa3551ac7449b01",
+              "updatedAt": "2026-08-27T06:16:01Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211E-2/vanilla-expansion211e2.jar"
+            }
+          ]
+        },
+        {
+          "id": 376379723,
+          "tag": "v211E",
+          "name": "v2.1.1.E Java Expansion Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211E",
+          "publishedAt": "2026-08-25T12:18:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 529156226,
+              "name": "vanilla-expansion211e.jar",
+              "sizeBytes": 25384642,
+              "digest": "sha256:9070934d558faad25c31eb7d4b6aab7ed26dc223a3719eb9a1e176732337f9ef",
+              "updatedAt": "2026-08-25T12:18:53Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211E/vanilla-expansion211e.jar"
+            }
+          ]
+        },
+        {
+          "id": 369807622,
+          "tag": "v211D",
+          "name": "v2.1.1.D Sedimentary Acid Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211D",
+          "publishedAt": "2026-08-13T09:44:33Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 512855233,
+              "name": "vanilla-expansion211d1.jar",
+              "sizeBytes": 24597722,
+              "digest": "sha256:5f4357e49803b764674f7a6882ced58781827a9edd1bea7661c0bdfefaeacdaf",
+              "updatedAt": "2026-08-13T10:42:47Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211D/vanilla-expansion211d1.jar"
+            }
+          ]
+        },
+        {
+          "id": 367173931,
+          "tag": "v211C-1",
+          "name": "v2.1.1.C-1 Projector Hotfix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211C-1",
+          "publishedAt": "2026-08-08T10:20:03Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 506277175,
+              "name": "vanilla-expansion.v2.1.1.C-1.jar",
+              "sizeBytes": 24151601,
+              "digest": "sha256:c2b6469965adb462384720b823569cf341853e7d2ce2562bd3f7623f3eba328f",
+              "updatedAt": "2026-08-08T10:19:52Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211C-1/vanilla-expansion.v2.1.1.C-1.jar"
+            }
+          ]
+        },
+        {
+          "id": 366889731,
+          "tag": "v211C",
+          "name": "v2.1.1.C Hyper Buff Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211C",
+          "publishedAt": "2026-08-07T16:59:07Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 505408345,
+              "name": "vanilla-expansion211c.jar",
+              "sizeBytes": 24148302,
+              "digest": "sha256:588ee2b2da10c458e8fe544a53ab9d1462380011a8b7b796cf417cce7ddc99bc",
+              "updatedAt": "2026-08-07T16:59:07Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211C/vanilla-expansion211c.jar"
+            }
+          ]
+        },
+        {
+          "id": 363976130,
+          "tag": "v211B-1",
+          "name": "v2.1.1.B-1 Gobi Hotfix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211B-1",
+          "publishedAt": "2026-08-03T03:44:15Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 499569258,
+              "name": "vanilla-expansion211b-1.jar",
+              "sizeBytes": 23626801,
+              "digest": "sha256:30de5a312a608aec16968b6ae90c896bc6f2d575bd9c96e5326c56aa26c79a04",
+              "updatedAt": "2026-08-03T03:44:15Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211B-1/vanilla-expansion211b-1.jar"
+            }
+          ]
+        },
+        {
+          "id": 363796665,
+          "tag": "v211B",
+          "name": "v2.1.1.B MultiCrafter Hotfix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211B",
+          "publishedAt": "2026-08-02T13:37:06Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 498931235,
+              "name": "vanilla-expansion211b.jar",
+              "sizeBytes": 23618527,
+              "digest": "sha256:5b8cb1a83ee0da443378e566a4f602db5a5e850840b45abbf47c13249231f449",
+              "updatedAt": "2026-08-02T13:37:06Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211B/vanilla-expansion211b.jar"
+            }
+          ]
+        },
+        {
+          "id": 363701007,
+          "tag": "v211A",
+          "name": "v2.1.1.A Phase Distribution Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v211A",
+          "publishedAt": "2026-08-02T04:50:53Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 498567910,
+              "name": "vanilla-expansion211a.jar",
+              "sizeBytes": 23618331,
+              "digest": "sha256:8954ee960722c0b63da94464eef2cd5c1ff3b6c07ce12f22f7f251a317a6bde1",
+              "updatedAt": "2026-08-02T04:50:53Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v211A/vanilla-expansion211a.jar"
+            }
+          ]
+        },
+        {
+          "id": 362359823,
+          "tag": "v2119",
+          "name": "v2.1.1.9 Server Support Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2119",
+          "publishedAt": "2026-07-30T10:48:40Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 495249325,
+              "name": "vanilla-expansion2119.jar",
+              "sizeBytes": 23598611,
+              "digest": "sha256:620f9e014eccca38685c48fc17bae640dffb3d9e7f7da029721362f22531db7b",
+              "updatedAt": "2026-07-30T10:48:40Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2119/vanilla-expansion2119.jar"
+            }
+          ]
+        },
+        {
+          "id": 362258101,
+          "tag": "v2118",
+          "name": "v2.1.1.8 Skibidi Bryde Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2118",
+          "publishedAt": "2026-07-30T07:44:01Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 495066407,
+              "name": "vanilla-expansionv2118.jar",
+              "sizeBytes": 23405235,
+              "digest": "sha256:4f9346cb7ff8fcb15ef959cc067708cb5a805b9f50304d5b05f9867f23fb5928",
+              "updatedAt": "2026-07-30T07:44:01Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2118/vanilla-expansionv2118.jar"
+            }
+          ]
+        },
+        {
+          "id": 360061176,
+          "tag": "v2117",
+          "name": "v2.1.1.7 Neutron Star Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2117",
+          "publishedAt": "2026-07-26T16:17:02Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 490493009,
+              "name": "vanilla-expansion2117.jar",
+              "sizeBytes": 23405188,
+              "digest": "sha256:e0fd0d697c2d14704340d93c5fccf180d8d9ba924bec33377974dabd70da6f43",
+              "updatedAt": "2026-07-26T16:17:02Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2117/vanilla-expansion2117.jar"
+            }
+          ]
+        },
+        {
+          "id": 356501893,
+          "tag": "v2116",
+          "name": "v2.1.1.6 Outline Fixing Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2116",
+          "publishedAt": "2026-07-20T04:29:48Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 483048249,
+              "name": "vanilla-expansion2116.jar",
+              "sizeBytes": 23205893,
+              "digest": "sha256:2124a60fa4e61eb8ef2dc0a302566a20ccd48b5fe7011dba1a82b5e1e318d063",
+              "updatedAt": "2026-07-20T04:29:48Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2116/vanilla-expansion2116.jar"
+            }
+          ]
+        },
+        {
+          "id": 353516388,
+          "tag": "v2115",
+          "name": "v2.1.1.5 Text Hotfix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2115",
+          "publishedAt": "2026-07-14T01:09:22Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 476103995,
+              "name": "vanilla-expansion2115.jar",
+              "sizeBytes": 22159144,
+              "digest": "sha256:99c9db0695ea653495dde7ce7f7a494e15c5c3024040d0eeec03f2df032d1555",
+              "updatedAt": "2026-07-14T01:09:22Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2115/vanilla-expansion2115.jar"
+            }
+          ]
+        },
+        {
+          "id": 353011817,
+          "tag": "v2114",
+          "name": "v2.1.1.4 Java Reconstruct Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2114",
+          "publishedAt": "2026-07-13T08:18:41Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 475252914,
+              "name": "vanilla-expansion2114.jar",
+              "sizeBytes": 22151832,
+              "digest": "sha256:59c2315ce42e4b312480b9d4bf9a07ac6a7b1eb7d07f6fa1154470324fd942e0",
+              "updatedAt": "2026-07-13T08:18:41Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2114/vanilla-expansion2114.jar"
+            }
+          ]
+        },
+        {
+          "id": 352714011,
+          "tag": "v2113",
+          "name": "v2.1.1.3 Surge Hotfix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2113",
+          "publishedAt": "2026-07-12T09:18:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 474262890,
+              "name": "vanilla-expansion2113.zip",
+              "sizeBytes": 22156896,
+              "digest": "sha256:ab4133cee9690ee2a9a841f90bb9fe0557704d3277d71fdc7902a09c75ca40b8",
+              "updatedAt": "2026-07-12T09:22:33Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2113/vanilla-expansion2113.zip"
+            },
+            {
+              "id": 474265595,
+              "name": "vanilla-expansion2113.jar",
+              "sizeBytes": 22156896,
+              "digest": "sha256:ab4133cee9690ee2a9a841f90bb9fe0557704d3277d71fdc7902a09c75ca40b8",
+              "updatedAt": "2026-07-12T09:22:33Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2113/vanilla-expansion2113.jar"
+            }
+          ]
+        },
+        {
+          "id": 349441914,
+          "tag": "v2112",
+          "name": "v2.1.1.2 Heat Reactor Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2112",
+          "publishedAt": "2026-07-06T09:21:42Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 342875085,
+          "tag": "v2111",
+          "name": "v2.1.1.1 Lower Pass Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2111",
+          "publishedAt": "2026-06-22T12:01:43Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 338365385,
+          "tag": "v2103",
+          "name": "v2.1.0.3 Heat Turbine Generator Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2103",
+          "publishedAt": "2026-06-12T04:05:08Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 333715823,
+          "tag": "v2101",
+          "name": "v2.1.0.1 Omega Projector Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2101",
+          "publishedAt": "2026-06-03T13:00:34Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 332558368,
+          "tag": "v2100",
+          "name": "v2.1.0.0 Icy Boundary Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2100",
+          "publishedAt": "2026-06-01T14:43:18Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 331905281,
+          "tag": "v2046",
+          "name": "v2.0.4.6 UI Bug Fixing Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2046",
+          "publishedAt": "2026-05-30T09:09:57Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 328947579,
+          "tag": "v2045",
+          "name": "v2.0.4.5 Build 158 Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2045",
+          "publishedAt": "2026-05-25T15:23:26Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 328262204,
+          "tag": "v2044",
+          "name": "v2.0.4.4 MultiCrafterLib Update Hotfix2",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2044",
+          "publishedAt": "2026-05-23T07:59:02Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 327579475,
+          "tag": "v2043",
+          "name": "v2.0.4.3 MultiCrafterLib Update Hotfix1",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2043",
+          "publishedAt": "2026-05-22T03:56:32Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 326385150,
+          "tag": "v2042",
+          "name": "v2.0.4.2 MultiCrafterLib Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2042",
+          "publishedAt": "2026-05-21T02:22:57Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 317000979,
+          "tag": "v2041",
+          "name": "v2.0.4.1 Standardization Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2041",
+          "publishedAt": "2026-05-04T05:05:42Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 312244270,
+          "tag": "v2040-1",
+          "name": "v2.0.4.0-1 Chiniun Battle Update Hotfix1",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2040-1",
+          "publishedAt": "2026-04-22T13:54:27Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 311711383,
+          "tag": "v2040",
+          "name": "v2.0.4.0 Chiniun Battle Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2040",
+          "publishedAt": "2026-04-21T12:34:48Z",
+          "prerelease": false,
+          "assets": []
+        },
+        {
+          "id": 294688722,
+          "tag": "v2039",
+          "name": "v2.0.3.9",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2039",
+          "publishedAt": "2026-03-09T12:52:04Z",
+          "prerelease": false,
+          "assets": []
+        }
+      ]
     },
     {
       "repository": "RA2EXE/Saturation-Firepower",
