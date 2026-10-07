@@ -500,8 +500,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "f72772efab308138b3460c73941b87ae9c2b4db2",
-        "url": "https://github.com/Catana791/Asthosus/commit/f72772efab308138b3460c73941b87ae9c2b4db2"
+        "commit": "be0d8503b17acd738170728d6fe6f2e7954886bc",
+        "url": "https://github.com/Catana791/Asthosus/commit/be0d8503b17acd738170728d6fe6f2e7954886bc"
       },
       "latest": {
         "id": 388456830,
@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "4860239aed3b3640b79723e150c766e803fcff4a",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/4860239aed3b3640b79723e150c766e803fcff4a"
+        "commit": "e1be6f96e022edc4aef07321d6f70d9b41ba2093",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/e1be6f96e022edc4aef07321d6f70d9b41ba2093"
       },
       "latest": {
         "id": 280663973,
@@ -2275,13 +2275,13 @@
         "name": "aquarion",
         "displayName": "Aquarion",
         "version": "4.2.9",
-        "minGameVersion": "160.5",
+        "minGameVersion": "160.6",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "92f1be3d86ec74718507a53baad877a37e0ec5f0",
-        "url": "https://github.com/Twcash/Aquarion/commit/92f1be3d86ec74718507a53baad877a37e0ec5f0"
+        "commit": "5ba69d640a749a1d65809f3b4b91ea7df8242a4f",
+        "url": "https://github.com/Twcash/Aquarion/commit/5ba69d640a749a1d65809f3b4b91ea7df8242a4f"
       },
       "latest": {
         "id": 402680268,
@@ -3017,8 +3017,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "ca9ddfa0ad0e8bced2326c7427d872082ff3bd76",
-        "url": "https://github.com/Uenhe/Fire/commit/ca9ddfa0ad0e8bced2326c7427d872082ff3bd76"
+        "commit": "87915286148ddf4206ba00c9ee38e01550c7e77a",
+        "url": "https://github.com/Uenhe/Fire/commit/87915286148ddf4206ba00c9ee38e01550c7e77a"
       },
       "latest": {
         "id": 401274909,
@@ -4167,42 +4167,60 @@
         "path": "mod.hjson",
         "name": "new-horizon",
         "displayName": "New Horizon",
-        "version": "2.2.2-pre-beta",
+        "version": "2.3.0",
         "minGameVersion": "159.7",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "e29819bde94eaecf5b760c37e7af1c51c5484b57",
-        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/e29819bde94eaecf5b760c37e7af1c51c5484b57"
+        "commit": "d8fd65c0c03e22abc8684404f787fc6382bf28f5",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d8fd65c0c03e22abc8684404f787fc6382bf28f5"
       },
       "latest": {
-        "id": 363115247,
-        "tag": "v2.2.1",
-        "name": "2.2.1 Release (v159.7)",
-        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.2.1",
-        "publishedAt": "2026-07-31T14:10:35Z",
+        "id": 405747819,
+        "tag": "v2.3.0",
+        "name": "2.3.0 Release (v160)",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.3.0",
+        "publishedAt": "2026-10-07T13:14:00Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 496817477,
-            "name": "NewHorizonMod.2.2.1.jar",
-            "sizeBytes": 11513541,
-            "digest": "sha256:4d9c1d036e4bfe59f5c790c7064f776d63ebb951f24b4ab9aae71046e4615c87",
-            "updatedAt": "2026-07-31T15:03:52Z",
-            "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.2.1/NewHorizonMod.2.2.1.jar"
+            "id": 618740273,
+            "name": "NewHorizonMod.2.3.0.jar",
+            "sizeBytes": 9677339,
+            "digest": null,
+            "updatedAt": "2026-10-07T13:13:51Z",
+            "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.3.0/NewHorizonMod.2.3.0.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "new-horizon",
           "displayName": "New Horizon",
-          "version": "2.2.1",
+          "version": "2.3.0",
           "minGameVersion": "159.7",
           "java": false
         }
       },
       "releases": [
+        {
+          "id": 405747819,
+          "tag": "v2.3.0",
+          "name": "2.3.0 Release (v160)",
+          "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/tag/v2.3.0",
+          "publishedAt": "2026-10-07T13:14:00Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 618740273,
+              "name": "NewHorizonMod.2.3.0.jar",
+              "sizeBytes": 9677339,
+              "digest": null,
+              "updatedAt": "2026-10-07T13:13:51Z",
+              "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/releases/download/v2.3.0/NewHorizonMod.2.3.0.jar"
+            }
+          ]
+        },
         {
           "id": 363115247,
           "tag": "v2.2.1",
