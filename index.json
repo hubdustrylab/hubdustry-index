@@ -2209,14 +2209,14 @@
         "path": "mod.hjson",
         "name": "exoprosopa",
         "displayName": "[[]#93E2EE]Exoprosopa",
-        "version": "0.93",
+        "version": "0.95",
         "minGameVersion": "160",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "c1ee54ac59bc1aa6ee5b31ea354edff998641d0e",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/c1ee54ac59bc1aa6ee5b31ea354edff998641d0e"
+        "commit": "5e5ed4373713416f9213aa91f1c3791db8107397",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/5e5ed4373713416f9213aa91f1c3791db8107397"
       },
       "latest": {
         "id": 402562275,
