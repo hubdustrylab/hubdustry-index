@@ -2215,27 +2215,36 @@
       },
       "source": {
         "branch": "main",
-        "commit": "bac6e19d625b42ae098e777a7686e11cf7da1b09",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/bac6e19d625b42ae098e777a7686e11cf7da1b09"
+        "commit": "1d181c5f3fced6b559a039cc723d1e0ec1c474ea",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/1d181c5f3fced6b559a039cc723d1e0ec1c474ea"
       },
       "latest": {
-        "id": 402562275,
-        "tag": "V0.93",
-        "name": "V0.93 End-Game + Pre-Finalize Update",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.93",
-        "publishedAt": "2026-10-03T15:07:53Z",
+        "id": 407333134,
+        "tag": "V0.95",
+        "name": "V0.95 Status Effects Update",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.95",
+        "publishedAt": "2026-10-08T23:10:20Z",
         "prerelease": false,
         "assets": [],
         "manifest": {
           "path": "mod.hjson",
           "name": "exoprosopa",
           "displayName": "[[]#93E2EE]Exoprosopa",
-          "version": "0.93",
+          "version": "0.95",
           "minGameVersion": "160",
           "java": false
         }
       },
       "releases": [
+        {
+          "id": 407333134,
+          "tag": "V0.95",
+          "name": "V0.95 Status Effects Update",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.95",
+          "publishedAt": "2026-10-08T23:10:20Z",
+          "prerelease": false,
+          "assets": []
+        },
         {
           "id": 402562275,
           "tag": "V0.93",
@@ -2280,8 +2289,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "5ba69d640a749a1d65809f3b4b91ea7df8242a4f",
-        "url": "https://github.com/Twcash/Aquarion/commit/5ba69d640a749a1d65809f3b4b91ea7df8242a4f"
+        "commit": "a4696eaae00e91a90fe1ef478272f2675beb664f",
+        "url": "https://github.com/Twcash/Aquarion/commit/a4696eaae00e91a90fe1ef478272f2675beb664f"
       },
       "latest": {
         "id": 402680268,
