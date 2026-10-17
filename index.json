@@ -825,14 +825,14 @@
         "path": "mod.hjson",
         "name": "ve",
         "displayName": "Vanilla Expansion",
-        "version": "2.1.2.1",
+        "version": "2.1.2.2",
         "minGameVersion": "160",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "290baabf55d80f605df9ff1d8ce9bd8c28c6c29a",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/290baabf55d80f605df9ff1d8ce9bd8c28c6c29a"
+        "commit": "9f085cad0c4429adadb9f09113030c76bca91150",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/9f085cad0c4429adadb9f09113030c76bca91150"
       },
       "latest": {
         "id": 403011073,
