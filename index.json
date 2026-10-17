@@ -831,36 +831,54 @@
       },
       "source": {
         "branch": "main",
-        "commit": "9f085cad0c4429adadb9f09113030c76bca91150",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/9f085cad0c4429adadb9f09113030c76bca91150"
+        "commit": "b8a7dacbb64d6c53c50e17de384206603e50b826",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/b8a7dacbb64d6c53c50e17de384206603e50b826"
       },
       "latest": {
-        "id": 403011073,
-        "tag": "v2121",
-        "name": "v2.1.2.1 Annihilate Test Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2121",
-        "publishedAt": "2026-10-04T12:32:04Z",
+        "id": 415908506,
+        "tag": "v2122",
+        "name": "v2.1.2.2 New Boss Bar Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2122",
+        "publishedAt": "2026-10-17T16:06:51Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 609814719,
-            "name": "vanilla-expansion2121.jar",
-            "sizeBytes": 29278112,
-            "digest": "sha256:00f6265df35d5ec755199560e7db594f9c5c7b291228a41b6e15662e981182b1",
-            "updatedAt": "2026-10-04T12:32:04Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2121/vanilla-expansion2121.jar"
+            "id": 650892770,
+            "name": "vanilla-expansion2122.jar",
+            "sizeBytes": 29619132,
+            "digest": "sha256:80097329b1d5fd15ee9bde843b6c21850fe0af44b801563c7a4b55423aa1f972",
+            "updatedAt": "2026-10-17T16:06:51Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2122/vanilla-expansion2122.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "ve",
           "displayName": "Vanilla Expansion",
-          "version": "2.1.2.1",
+          "version": "2.1.2.2",
           "minGameVersion": "160",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 415908506,
+          "tag": "v2122",
+          "name": "v2.1.2.2 New Boss Bar Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2122",
+          "publishedAt": "2026-10-17T16:06:51Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 650892770,
+              "name": "vanilla-expansion2122.jar",
+              "sizeBytes": 29619132,
+              "digest": "sha256:80097329b1d5fd15ee9bde843b6c21850fe0af44b801563c7a4b55423aa1f972",
+              "updatedAt": "2026-10-17T16:06:51Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2122/vanilla-expansion2122.jar"
+            }
+          ]
+        },
         {
           "id": 403011073,
           "tag": "v2121",
