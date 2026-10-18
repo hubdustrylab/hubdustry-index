@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "abdb8a08ee47d3e332b1dff202e5fc323d01ab67",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/abdb8a08ee47d3e332b1dff202e5fc323d01ab67"
+        "commit": "962056eb797e62573dac36beadeb23086f5115f3",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/962056eb797e62573dac36beadeb23086f5115f3"
       },
       "latest": {
         "id": 411351085,
@@ -1520,32 +1520,50 @@
         "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/0db2c3a7a4af9cd7ae6bf070e3046bcd29fc044a"
       },
       "latest": {
-        "id": 409014043,
-        "tag": "v-4.0.6.2",
-        "name": "Saturation Firepower 4.0.6.2",
-        "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.6.2",
-        "publishedAt": "2026-10-10T14:58:59Z",
+        "id": 416405706,
+        "tag": "v-4.0.6.3",
+        "name": "4.0.6.3",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.6.3",
+        "publishedAt": "2026-10-18T11:21:50Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 628230354,
-            "name": "Saturation.Firepower.4.0.6.2.jar",
-            "sizeBytes": 7985204,
-            "digest": "sha256:855f86b9eb5dab577f2e0054aad016c7f45c4ede3cba9b7b3cf91aa54fb98ef8",
-            "updatedAt": "2026-10-10T14:55:58Z",
-            "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.6.2/Saturation.Firepower.4.0.6.2.jar"
+            "id": 653309500,
+            "name": "Saturation-Firepower-4.0.6.3.jar",
+            "sizeBytes": 8313001,
+            "digest": "sha256:a691bba97ebae05dcbb94f0bff7549b0b737f00cb7f8a72cc3a593f9fb7ce2e5",
+            "updatedAt": "2026-10-18T11:19:10Z",
+            "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.6.3/Saturation-Firepower-4.0.6.3.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "sfire-mod",
           "displayName": "Saturation Firepower Mod",
-          "version": "4.0.6.2",
+          "version": "4.0.6.3",
           "minGameVersion": "160",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 416405706,
+          "tag": "v-4.0.6.3",
+          "name": "4.0.6.3",
+          "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/tag/v-4.0.6.3",
+          "publishedAt": "2026-10-18T11:21:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 653309500,
+              "name": "Saturation-Firepower-4.0.6.3.jar",
+              "sizeBytes": 8313001,
+              "digest": "sha256:a691bba97ebae05dcbb94f0bff7549b0b737f00cb7f8a72cc3a593f9fb7ce2e5",
+              "updatedAt": "2026-10-18T11:19:10Z",
+              "url": "https://github.com/RA2EXE/Saturation-Firepower/releases/download/v-4.0.6.3/Saturation-Firepower-4.0.6.3.jar"
+            }
+          ]
+        },
         {
           "id": 409014043,
           "tag": "v-4.0.6.2",
