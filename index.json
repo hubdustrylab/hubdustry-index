@@ -1890,42 +1890,60 @@
         "path": "mod.json",
         "name": "omaloon",
         "displayName": "Omaloon",
-        "version": "0.1.2A Indev 8",
-        "minGameVersion": "159.7",
+        "version": "0.1.2A Indev 9",
+        "minGameVersion": "160.7",
         "java": true
       },
       "source": {
         "branch": "master",
-        "commit": "df06b1ae34fc462384ce47549a0431a33b816012",
-        "url": "https://github.com/stabu-dev/Omaloon/commit/df06b1ae34fc462384ce47549a0431a33b816012"
+        "commit": "b989c5177eab5ab2a4eaf9eca3c61d7edec9f0c4",
+        "url": "https://github.com/stabu-dev/Omaloon/commit/b989c5177eab5ab2a4eaf9eca3c61d7edec9f0c4"
       },
       "latest": {
-        "id": 365633003,
-        "tag": "v0.1.2A-indev8",
-        "name": "V0.1.2 Alpha Indev8",
-        "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev8",
-        "publishedAt": "2026-08-05T15:40:48Z",
+        "id": 416764256,
+        "tag": "v0.1.2A-indev9",
+        "name": "V0.1.2 Alpha Indev9",
+        "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev9",
+        "publishedAt": "2026-10-18T23:09:54Z",
         "prerelease": true,
         "assets": [
           {
-            "id": 502791377,
+            "id": 654701992,
             "name": "Omaloon.jar",
-            "sizeBytes": 4133436,
-            "digest": "sha256:f27911fe66b9255570112c46d754649fb4b36494bf80ade2cbb324ba626166b8",
-            "updatedAt": "2026-08-05T15:36:56Z",
-            "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev8/Omaloon.jar"
+            "sizeBytes": 14235564,
+            "digest": "sha256:01a53ce77cf21d1368b49a4e292144740b733f2eb431f6f83046eaa8eef520e2",
+            "updatedAt": "2026-10-18T23:11:03Z",
+            "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev9/Omaloon.jar"
           }
         ],
         "manifest": {
           "path": "mod.json",
           "name": "omaloon",
           "displayName": "Omaloon",
-          "version": "0.1.2A Indev 8",
-          "minGameVersion": "159.7",
+          "version": "0.1.2A Indev 9",
+          "minGameVersion": "160.7",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 416764256,
+          "tag": "v0.1.2A-indev9",
+          "name": "V0.1.2 Alpha Indev9",
+          "url": "https://github.com/stabu-dev/Omaloon/releases/tag/v0.1.2A-indev9",
+          "publishedAt": "2026-10-18T23:09:54Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 654701992,
+              "name": "Omaloon.jar",
+              "sizeBytes": 14235564,
+              "digest": "sha256:01a53ce77cf21d1368b49a4e292144740b733f2eb431f6f83046eaa8eef520e2",
+              "updatedAt": "2026-10-18T23:11:03Z",
+              "url": "https://github.com/stabu-dev/Omaloon/releases/download/v0.1.2A-indev9/Omaloon.jar"
+            }
+          ]
+        },
         {
           "id": 365633003,
           "tag": "v0.1.2A-indev8",
@@ -2353,42 +2371,60 @@
         "path": "mod.json",
         "name": "aquarion",
         "displayName": "Aquarion",
-        "version": "4.2.9",
-        "minGameVersion": "160.6",
+        "version": "4.3.0",
+        "minGameVersion": "160.7",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "b6494d25ae0c5f81a5eeff61f3794d99f283a147",
-        "url": "https://github.com/Twcash/Aquarion/commit/b6494d25ae0c5f81a5eeff61f3794d99f283a147"
+        "commit": "67ab635138591e9aae2f770e351b810c47ca778d",
+        "url": "https://github.com/Twcash/Aquarion/commit/67ab635138591e9aae2f770e351b810c47ca778d"
       },
       "latest": {
-        "id": 402680268,
-        "tag": "4.2.9",
-        "name": "4.2.9",
-        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.2.9",
-        "publishedAt": "2026-10-03T20:30:17Z",
+        "id": 416754834,
+        "tag": "4.3.0",
+        "name": "4.3.0",
+        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.3.0",
+        "publishedAt": "2026-10-18T22:44:34Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 608485631,
+            "id": 654680849,
             "name": "Aquarion.jar",
-            "sizeBytes": 71175294,
-            "digest": "sha256:439ab4c4434a57a6fc691d702b665b65483c7f305f369fa3ebb510036071d289",
-            "updatedAt": "2026-10-03T20:30:17Z",
-            "url": "https://github.com/Twcash/Aquarion/releases/download/4.2.9/Aquarion.jar"
+            "sizeBytes": 56392619,
+            "digest": "sha256:115024f52a5b4d1eed449762d018ad1d32ecab4c63f35835b6be486dcec767b1",
+            "updatedAt": "2026-10-18T22:57:08Z",
+            "url": "https://github.com/Twcash/Aquarion/releases/download/4.3.0/Aquarion.jar"
           }
         ],
         "manifest": {
           "path": "mod.json",
           "name": "aquarion",
           "displayName": "Aquarion",
-          "version": "4.2.9",
-          "minGameVersion": "160.5",
+          "version": "4.3.0",
+          "minGameVersion": "160.7",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 416754834,
+          "tag": "4.3.0",
+          "name": "4.3.0",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.3.0",
+          "publishedAt": "2026-10-18T22:44:34Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 654680849,
+              "name": "Aquarion.jar",
+              "sizeBytes": 56392619,
+              "digest": "sha256:115024f52a5b4d1eed449762d018ad1d32ecab4c63f35835b6be486dcec767b1",
+              "updatedAt": "2026-10-18T22:57:08Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.3.0/Aquarion.jar"
+            }
+          ]
+        },
         {
           "id": 402680268,
           "tag": "4.2.9",
