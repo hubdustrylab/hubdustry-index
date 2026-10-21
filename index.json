@@ -748,14 +748,14 @@
         "path": "mod.hjson",
         "name": "azimut",
         "displayName": "[[]#d2fffe]Azimuth[[]]",
-        "version": "0.51",
+        "version": "0.52",
         "minGameVersion": "160",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "abf11f41ecd47f99d5e75e4fdc194a8861186314",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/abf11f41ecd47f99d5e75e4fdc194a8861186314"
+        "commit": "15798d6fa0c52b7d90b6ffd6bcf0bf11a714df26",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/15798d6fa0c52b7d90b6ffd6bcf0bf11a714df26"
       },
       "latest": {
         "id": 411351085,
