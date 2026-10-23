@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "e4d089fd3c508abb4c334a679df9b1f75c3dfec1",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/e4d089fd3c508abb4c334a679df9b1f75c3dfec1"
+        "commit": "d2e70269e2135ea80e3cd9a9847f24609ec78545",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/d2e70269e2135ea80e3cd9a9847f24609ec78545"
       },
       "latest": {
         "id": 411351085,
@@ -2371,14 +2371,14 @@
         "path": "mod.json",
         "name": "aquarion",
         "displayName": "Aquarion",
-        "version": "4.3.6",
+        "version": "4.3.7",
         "minGameVersion": "160.7",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "f4d46a163582c35ecfd18251192ff8e515a81919",
-        "url": "https://github.com/Twcash/Aquarion/commit/f4d46a163582c35ecfd18251192ff8e515a81919"
+        "commit": "c98809f2c4d817622a075a86adced520420082c7",
+        "url": "https://github.com/Twcash/Aquarion/commit/c98809f2c4d817622a075a86adced520420082c7"
       },
       "latest": {
         "id": 420262811,
