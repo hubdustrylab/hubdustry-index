@@ -825,42 +825,60 @@
         "path": "mod.hjson",
         "name": "ve",
         "displayName": "Vanilla Expansion",
-        "version": "2.1.2.2",
+        "version": "2.1.2.3",
         "minGameVersion": "160",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "9b0a97148a727d1225d06740a41ee4b58aa07028",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/9b0a97148a727d1225d06740a41ee4b58aa07028"
+        "commit": "1ff812d8bccf4988364f03d350d573e7f3c92eca",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/1ff812d8bccf4988364f03d350d573e7f3c92eca"
       },
       "latest": {
-        "id": 415908506,
-        "tag": "v2122",
-        "name": "v2.1.2.2 New Boss Bar Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2122",
-        "publishedAt": "2026-10-17T16:06:51Z",
+        "id": 423508386,
+        "tag": "v2123",
+        "name": "v2.1.2.3 Warp Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2123",
+        "publishedAt": "2026-10-25T16:09:09Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 650892770,
-            "name": "vanilla-expansion2122.jar",
-            "sizeBytes": 29619132,
-            "digest": "sha256:80097329b1d5fd15ee9bde843b6c21850fe0af44b801563c7a4b55423aa1f972",
-            "updatedAt": "2026-10-17T16:06:51Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2122/vanilla-expansion2122.jar"
+            "id": 675478266,
+            "name": "vanilla-expansion2123.jar",
+            "sizeBytes": 30481878,
+            "digest": "sha256:89c2d4147cdb08bf5c7dfb9b554e770c5195fc2ec713ec242c78d84cceceb924",
+            "updatedAt": "2026-10-25T16:09:09Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2123/vanilla-expansion2123.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "ve",
           "displayName": "Vanilla Expansion",
-          "version": "2.1.2.2",
+          "version": "2.1.2.3",
           "minGameVersion": "160",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 423508386,
+          "tag": "v2123",
+          "name": "v2.1.2.3 Warp Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2123",
+          "publishedAt": "2026-10-25T16:09:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 675478266,
+              "name": "vanilla-expansion2123.jar",
+              "sizeBytes": 30481878,
+              "digest": "sha256:89c2d4147cdb08bf5c7dfb9b554e770c5195fc2ec713ec242c78d84cceceb924",
+              "updatedAt": "2026-10-25T16:09:09Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2123/vanilla-expansion2123.jar"
+            }
+          ]
+        },
         {
           "id": 415908506,
           "tag": "v2122",
