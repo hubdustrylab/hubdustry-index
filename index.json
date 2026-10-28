@@ -796,6 +796,87 @@
       ]
     },
     {
+      "repository": "Fat-Bird-Owner/Gier-java-side",
+      "url": "https://github.com/Fat-Bird-Owner/Gier-java-side",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.json",
+        "name": "gier-java",
+        "displayName": "Gier: Java Side",
+        "version": "v1",
+        "minGameVersion": "160",
+        "java": true
+      },
+      "source": {
+        "branch": "main",
+        "commit": "9b25d09ee22bef43a0ba3b5e442c49a89853a27b",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/9b25d09ee22bef43a0ba3b5e442c49a89853a27b"
+      },
+      "latest": {
+        "id": 422765906,
+        "tag": "current-build",
+        "name": "current-build",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/tag/current-build",
+        "publishedAt": "2026-10-24T14:02:46Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 685530922,
+            "name": "GierJava.jar",
+            "sizeBytes": 624427,
+            "digest": "sha256:91e47d802ec7ec28cc3c7e739f1b1056faac46b7aac4b1004ee50ebb728b1a36",
+            "updatedAt": "2026-10-28T16:03:46Z",
+            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+          },
+          {
+            "id": 685530925,
+            "name": "GierJavaDesktop.jar",
+            "sizeBytes": 526700,
+            "digest": "sha256:834908d4fb21f36a0f9fd29e094965def803077d350b321c6a5039ad91acfeef",
+            "updatedAt": "2026-10-28T16:03:46Z",
+            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.json",
+          "name": "gier-java",
+          "displayName": "Gier: Java Side",
+          "version": "v1",
+          "minGameVersion": "160",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 422765906,
+          "tag": "current-build",
+          "name": "current-build",
+          "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/tag/current-build",
+          "publishedAt": "2026-10-24T14:02:46Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 685530922,
+              "name": "GierJava.jar",
+              "sizeBytes": 624427,
+              "digest": "sha256:91e47d802ec7ec28cc3c7e739f1b1056faac46b7aac4b1004ee50ebb728b1a36",
+              "updatedAt": "2026-10-28T16:03:46Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+            },
+            {
+              "id": 685530925,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 526700,
+              "digest": "sha256:834908d4fb21f36a0f9fd29e094965def803077d350b321c6a5039ad91acfeef",
+              "updatedAt": "2026-10-28T16:03:46Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "repository": "KOCTOLOM/Mindustry-overhaul",
       "url": "https://github.com/KOCTOLOM/Mindustry-overhaul",
       "archived": false,
