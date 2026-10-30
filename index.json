@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "85cd1c0f69983f2cab86a1a10e996902f6be145a",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/85cd1c0f69983f2cab86a1a10e996902f6be145a"
+        "commit": "567592356edc2f3c3560a36e864be733cd10641c",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/567592356edc2f3c3560a36e864be733cd10641c"
       },
       "latest": {
         "id": 422765906,
@@ -822,20 +822,20 @@
         "prerelease": false,
         "assets": [
           {
-            "id": 690849281,
-            "name": "GierJavaDesktop.jar",
-            "sizeBytes": 494474,
-            "digest": "sha256:f99beed854b598ac61d51f04d21e2e67489dc0fd9a7d95c440ec902b94666d38",
-            "updatedAt": "2026-10-30T03:54:35Z",
-            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+            "id": 692008342,
+            "name": "GierJava.jar",
+            "sizeBytes": 605662,
+            "digest": "sha256:0b85abecf6014f37140418d621f3b81c2cc91e2f08828174df11b53f66882409",
+            "updatedAt": "2026-10-30T12:08:47Z",
+            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
           },
           {
-            "id": 690849284,
-            "name": "GierJava.jar",
-            "sizeBytes": 586025,
-            "digest": "sha256:3f14f235244b0e1a2657645d767a403ff515cefc4fc48dc3a9a5508352568026",
-            "updatedAt": "2026-10-30T03:54:35Z",
-            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+            "id": 692008343,
+            "name": "GierJavaDesktop.jar",
+            "sizeBytes": 509983,
+            "digest": "sha256:cb727ff2d2e5ebd2fed068d815d4a79fe13ac4f0f6de440fdcdbcf284e2a2121",
+            "updatedAt": "2026-10-30T12:08:47Z",
+            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
           }
         ],
         "manifest": {
@@ -857,20 +857,20 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 690849281,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 494474,
-              "digest": "sha256:f99beed854b598ac61d51f04d21e2e67489dc0fd9a7d95c440ec902b94666d38",
-              "updatedAt": "2026-10-30T03:54:35Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+              "id": 692008342,
+              "name": "GierJava.jar",
+              "sizeBytes": 605662,
+              "digest": "sha256:0b85abecf6014f37140418d621f3b81c2cc91e2f08828174df11b53f66882409",
+              "updatedAt": "2026-10-30T12:08:47Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 690849284,
-              "name": "GierJava.jar",
-              "sizeBytes": 586025,
-              "digest": "sha256:3f14f235244b0e1a2657645d767a403ff515cefc4fc48dc3a9a5508352568026",
-              "updatedAt": "2026-10-30T03:54:35Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+              "id": 692008343,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 509983,
+              "digest": "sha256:cb727ff2d2e5ebd2fed068d815d4a79fe13ac4f0f6de440fdcdbcf284e2a2121",
+              "updatedAt": "2026-10-30T12:08:47Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
         }
@@ -2494,8 +2494,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "ecdd9c104f3a2573c0abc40b391da5dc13372072",
-        "url": "https://github.com/Twcash/Aquarion/commit/ecdd9c104f3a2573c0abc40b391da5dc13372072"
+        "commit": "4010658359cb474c0c4c810cc774ba6eaab7cc33",
+        "url": "https://github.com/Twcash/Aquarion/commit/4010658359cb474c0c4c810cc774ba6eaab7cc33"
       },
       "latest": {
         "id": 422574533,
