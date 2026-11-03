@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "ab54cea6d0bfbf385b1e5acae52995f8248e0c7b",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/ab54cea6d0bfbf385b1e5acae52995f8248e0c7b"
+        "commit": "43ed7bc2964b740e50020312a9e8f208c720d6af",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/43ed7bc2964b740e50020312a9e8f208c720d6af"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 703616590,
+              "id": 706181111,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 602199,
-              "digest": "sha256:d1e8d7368058cc0bd60642b01bdb76147606a7c8b225121c085304a13a0412c1",
-              "updatedAt": "2026-11-03T00:00:23Z",
+              "sizeBytes": 664162,
+              "digest": "sha256:b2bfb44a0f1e88d0a414684743bb141c06a40ee3c92c5728467786d7fee939fe",
+              "updatedAt": "2026-11-03T15:57:41Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 703616595,
+              "id": 706181113,
               "name": "GierJava.jar",
-              "sizeBytes": 717267,
-              "digest": "sha256:647105036c21ec79632b5f0f99e247f0286702409df1fde471ca409e55978ff3",
-              "updatedAt": "2026-11-03T00:00:23Z",
+              "sizeBytes": 797596,
+              "digest": "sha256:f1a3e78060361b7ccbf1ed2574c15f38dcab4e5e4d8e288d8d597fa17085c4db",
+              "updatedAt": "2026-11-03T15:57:41Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
@@ -916,42 +916,60 @@
         "path": "mod.hjson",
         "name": "ve",
         "displayName": "Vanilla Expansion",
-        "version": "2.1.2.5",
+        "version": "2.1.2.6",
         "minGameVersion": "160",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "1ef0870f2f01165266cf0bd5f59e6f1a806fe0dc",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/1ef0870f2f01165266cf0bd5f59e6f1a806fe0dc"
+        "commit": "63f9d954df79e7f598a29454023623eaad42da64",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/63f9d954df79e7f598a29454023623eaad42da64"
       },
       "latest": {
-        "id": 430668123,
-        "tag": "v2125",
-        "name": "v2.1.2.5 Twilight Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2125",
-        "publishedAt": "2026-11-01T15:24:17Z",
+        "id": 432877750,
+        "tag": "v2126",
+        "name": "v2.1.2.6 Orbit Strike Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2126",
+        "publishedAt": "2026-11-03T15:34:08Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 698696418,
-            "name": "vanilla-expansion2125.jar",
-            "sizeBytes": 31647781,
-            "digest": "sha256:b99aed04957905181c4ab4e53add71aadf8a1541b04ce3bba9fb927a53acb596",
-            "updatedAt": "2026-11-01T15:24:17Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2125/vanilla-expansion2125.jar"
+            "id": 706091061,
+            "name": "vanilla-expansion2126.jar",
+            "sizeBytes": 31961267,
+            "digest": "sha256:8e02ac43ad58e81b45c157a8c66a3fd80c2f93116332abae255e6f00f06b59ae",
+            "updatedAt": "2026-11-03T15:34:08Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2126/vanilla-expansion2126.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "ve",
           "displayName": "Vanilla Expansion",
-          "version": "2.1.2.5",
+          "version": "2.1.2.6",
           "minGameVersion": "160",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 432877750,
+          "tag": "v2126",
+          "name": "v2.1.2.6 Orbit Strike Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2126",
+          "publishedAt": "2026-11-03T15:34:08Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 706091061,
+              "name": "vanilla-expansion2126.jar",
+              "sizeBytes": 31961267,
+              "digest": "sha256:8e02ac43ad58e81b45c157a8c66a3fd80c2f93116332abae255e6f00f06b59ae",
+              "updatedAt": "2026-11-03T15:34:08Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2126/vanilla-expansion2126.jar"
+            }
+          ]
+        },
         {
           "id": 430668123,
           "tag": "v2125",
