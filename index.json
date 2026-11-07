@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "e26569d19a923f558c2da99844de3c3d3a309d12",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/e26569d19a923f558c2da99844de3c3d3a309d12"
+        "commit": "33896795b45226d1de7bc7412727f27821b9f559",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/33896795b45226d1de7bc7412727f27821b9f559"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 717531402,
+              "id": 720121503,
               "name": "GierJava.jar",
-              "sizeBytes": 898694,
-              "digest": "sha256:9012ddbcb5b1f26636c96112cf22dbe45f294fe64db8fe7101f314b1fa8b73eb",
-              "updatedAt": "2026-11-06T15:05:31Z",
+              "sizeBytes": 918074,
+              "digest": "sha256:1f54bf04bf1ac8ef1cfa70122e3957bcc5234c2d7f2c8ba89c473a90df7a1265",
+              "updatedAt": "2026-11-07T08:37:03Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 717531403,
+              "id": 720121504,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 743271,
-              "digest": "sha256:5c9b105fbb3455e688be810c209d7766d1132b80455c2d770fb6dc8709eb357e",
-              "updatedAt": "2026-11-06T15:05:31Z",
+              "sizeBytes": 757251,
+              "digest": "sha256:e8a4fcd30452823f89f0abb660689505c447a02d1752a3f43541c62731b5d0d5",
+              "updatedAt": "2026-11-07T08:37:03Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
@@ -922,24 +922,24 @@
       },
       "source": {
         "branch": "main",
-        "commit": "29f2fd8c93269af8f07a822acb0de25d9c34784e",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/29f2fd8c93269af8f07a822acb0de25d9c34784e"
+        "commit": "8b73b6354e673f5ad3793d0827315b34660199af",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/8b73b6354e673f5ad3793d0827315b34660199af"
       },
       "latest": {
-        "id": 432877750,
-        "tag": "v2126",
-        "name": "v2.1.2.6 Orbit Strike Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2126",
-        "publishedAt": "2026-11-03T15:34:08Z",
+        "id": 437439575,
+        "tag": "v2126-1",
+        "name": "v2.1.2.6-1 Server Fix Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2126-1",
+        "publishedAt": "2026-11-07T08:27:04Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 706091061,
-            "name": "vanilla-expansion2126.jar",
-            "sizeBytes": 31961267,
-            "digest": "sha256:8e02ac43ad58e81b45c157a8c66a3fd80c2f93116332abae255e6f00f06b59ae",
-            "updatedAt": "2026-11-03T15:34:08Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2126/vanilla-expansion2126.jar"
+            "id": 720098711,
+            "name": "vanilla-expansion21261.jar",
+            "sizeBytes": 32034238,
+            "digest": "sha256:ff689b3293359c8afcf1a187e71925af9f6554611aa31c6219b97ce6a2c15290",
+            "updatedAt": "2026-11-07T08:27:04Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2126-1/vanilla-expansion21261.jar"
           }
         ],
         "manifest": {
@@ -952,6 +952,24 @@
         }
       },
       "releases": [
+        {
+          "id": 437439575,
+          "tag": "v2126-1",
+          "name": "v2.1.2.6-1 Server Fix Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2126-1",
+          "publishedAt": "2026-11-07T08:27:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 720098711,
+              "name": "vanilla-expansion21261.jar",
+              "sizeBytes": 32034238,
+              "digest": "sha256:ff689b3293359c8afcf1a187e71925af9f6554611aa31c6219b97ce6a2c15290",
+              "updatedAt": "2026-11-07T08:27:04Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2126-1/vanilla-expansion21261.jar"
+            }
+          ]
+        },
         {
           "id": 432877750,
           "tag": "v2126",
@@ -2466,8 +2484,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "71279ab15d69d15c9568ed0000638b270428322a",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/71279ab15d69d15c9568ed0000638b270428322a"
+        "commit": "a8b611bbbbcad035d8cc534badaa79155ec0a944",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/a8b611bbbbcad035d8cc534badaa79155ec0a944"
       },
       "latest": {
         "id": 407333134,
@@ -2540,8 +2558,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "fc8c94cf9103b036c29b4a7487bb2994b173c15f",
-        "url": "https://github.com/Twcash/Aquarion/commit/fc8c94cf9103b036c29b4a7487bb2994b173c15f"
+        "commit": "9518b464c8c115e68e5b365da96aa0c7d00dace2",
+        "url": "https://github.com/Twcash/Aquarion/commit/9518b464c8c115e68e5b365da96aa0c7d00dace2"
       },
       "latest": {
         "id": 422574533,
