@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "a871c415c44fa74d86357a1019ad9ac2b83d9b10",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/a871c415c44fa74d86357a1019ad9ac2b83d9b10"
+        "commit": "42f69652747caff4df595c0079a3eb4631cf7985",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/42f69652747caff4df595c0079a3eb4631cf7985"
       },
       "latest": {
         "id": 411351085,
@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "99107851265e09416135f01505368177cf502757",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/99107851265e09416135f01505368177cf502757"
+        "commit": "b65f199190aa232b7922621b4044c9ccef20a3ca",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/b65f199190aa232b7922621b4044c9ccef20a3ca"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 726940185,
+              "id": 728129547,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 805989,
-              "digest": "sha256:13bbf59fca83f9aeec7b3a857afb126e811fe00c042f056417de935a8aeb19eb",
-              "updatedAt": "2026-11-09T09:38:28Z",
+              "sizeBytes": 810084,
+              "digest": "sha256:40e303774837b7d18bcd031c2e1872050de50e12a5388e2df24fa0aaf18c5fe4",
+              "updatedAt": "2026-11-09T16:20:08Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 726940188,
+              "id": 728129551,
               "name": "GierJava.jar",
-              "sizeBytes": 977788,
-              "digest": "sha256:0abf329b4f238e23147d82da2b8279e4bf785ebfd0a44bb036603add67e86a75",
-              "updatedAt": "2026-11-09T09:38:28Z",
+              "sizeBytes": 983586,
+              "digest": "sha256:b7a155dd9c3ef122deeb33afacb9761bfec419ef2bc575af733eaab36d29e982",
+              "updatedAt": "2026-11-09T16:20:08Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
@@ -1071,42 +1071,60 @@
         "path": "mod.hjson",
         "name": "ve",
         "displayName": "Vanilla Expansion",
-        "version": "2.1.2.6",
+        "version": "2.1.3.0",
         "minGameVersion": "160",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "d98b67ce5b11b03da1a81778867a1b69001e11f6",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/d98b67ce5b11b03da1a81778867a1b69001e11f6"
+        "commit": "4998da06ea0713c4c862d6e0a7a7c1ee04a6e68e",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/4998da06ea0713c4c862d6e0a7a7c1ee04a6e68e"
       },
       "latest": {
-        "id": 437439575,
-        "tag": "v2126-1",
-        "name": "v2.1.2.6-1 Server Fix Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2126-1",
-        "publishedAt": "2026-11-07T08:27:04Z",
+        "id": 439347461,
+        "tag": "v2130",
+        "name": "v2.1.3.0 Metallic Glacier Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2130",
+        "publishedAt": "2026-11-09T16:08:39Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 720098711,
-            "name": "vanilla-expansion21261.jar",
-            "sizeBytes": 32034238,
-            "digest": "sha256:ff689b3293359c8afcf1a187e71925af9f6554611aa31c6219b97ce6a2c15290",
-            "updatedAt": "2026-11-07T08:27:04Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2126-1/vanilla-expansion21261.jar"
+            "id": 728085975,
+            "name": "vanilla-expansion2130.jar",
+            "sizeBytes": 32125916,
+            "digest": "sha256:7f2b01805d20baa023a8044d0274aad09b7f6a02794fb6c51404543fa6b374bb",
+            "updatedAt": "2026-11-09T16:08:39Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2130/vanilla-expansion2130.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "ve",
           "displayName": "Vanilla Expansion",
-          "version": "2.1.2.6",
+          "version": "2.1.3.0",
           "minGameVersion": "160",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 439347461,
+          "tag": "v2130",
+          "name": "v2.1.3.0 Metallic Glacier Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2130",
+          "publishedAt": "2026-11-09T16:08:39Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 728085975,
+              "name": "vanilla-expansion2130.jar",
+              "sizeBytes": 32125916,
+              "digest": "sha256:7f2b01805d20baa023a8044d0274aad09b7f6a02794fb6c51404543fa6b374bb",
+              "updatedAt": "2026-11-09T16:08:39Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2130/vanilla-expansion2130.jar"
+            }
+          ]
+        },
         {
           "id": 437439575,
           "tag": "v2126-1",
@@ -2639,8 +2657,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "fc5091c0fd5d005121de3784b6043c89bc67470b",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/fc5091c0fd5d005121de3784b6043c89bc67470b"
+        "commit": "13351126bb780088acd469d0e8ed0d9dfb69e1ee",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/13351126bb780088acd469d0e8ed0d9dfb69e1ee"
       },
       "latest": {
         "id": 407333134,
