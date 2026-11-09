@@ -500,8 +500,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "be0d8503b17acd738170728d6fe6f2e7954886bc",
-        "url": "https://github.com/Catana791/Asthosus/commit/be0d8503b17acd738170728d6fe6f2e7954886bc"
+        "commit": "787bda1eafc3f41ebee0a5b98e17447024d8c781",
+        "url": "https://github.com/Catana791/Asthosus/commit/787bda1eafc3f41ebee0a5b98e17447024d8c781"
       },
       "latest": {
         "id": 388456830,
@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "209f732b2b869036e386d289d52f4f2f61c475b9",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/209f732b2b869036e386d289d52f4f2f61c475b9"
+        "commit": "99107851265e09416135f01505368177cf502757",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/99107851265e09416135f01505368177cf502757"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 724519815,
+              "id": 726940185,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 785002,
-              "digest": "sha256:f8e9e5ea1a2d0472e48a68c313f59e3db304a9011d2fd258e69b38d46a490396",
-              "updatedAt": "2026-11-08T16:34:41Z",
+              "sizeBytes": 805989,
+              "digest": "sha256:13bbf59fca83f9aeec7b3a857afb126e811fe00c042f056417de935a8aeb19eb",
+              "updatedAt": "2026-11-09T09:38:28Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 724519817,
+              "id": 726940188,
               "name": "GierJava.jar",
-              "sizeBytes": 952516,
-              "digest": "sha256:e146dbb325765746b1b33a579763ce9ae7ee8d53bd88aa4055160996f02e63f4",
-              "updatedAt": "2026-11-08T16:34:41Z",
+              "sizeBytes": 977788,
+              "digest": "sha256:0abf329b4f238e23147d82da2b8279e4bf785ebfd0a44bb036603add67e86a75",
+              "updatedAt": "2026-11-09T09:38:28Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
@@ -2639,8 +2639,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "273a5e2b0116543fd5d14eb36fe5ccc39ec84ea0",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/273a5e2b0116543fd5d14eb36fe5ccc39ec84ea0"
+        "commit": "fc5091c0fd5d005121de3784b6043c89bc67470b",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/fc5091c0fd5d005121de3784b6043c89bc67470b"
       },
       "latest": {
         "id": 407333134,
@@ -2713,8 +2713,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "81625dcd7d0d502af9c96d8f001ba7e9e49b5564",
-        "url": "https://github.com/Twcash/Aquarion/commit/81625dcd7d0d502af9c96d8f001ba7e9e49b5564"
+        "commit": "ed6cbc72109dc6c6b7be096f809d1e0069a01e9b",
+        "url": "https://github.com/Twcash/Aquarion/commit/ed6cbc72109dc6c6b7be096f809d1e0069a01e9b"
       },
       "latest": {
         "id": 422574533,
