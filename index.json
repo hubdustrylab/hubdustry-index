@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "3837fbd0e3f636528237787c39bb76e42105dac4",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/3837fbd0e3f636528237787c39bb76e42105dac4"
+        "commit": "03c037300a271dbb67a409a03a8e3f3ede27ea7f",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/03c037300a271dbb67a409a03a8e3f3ede27ea7f"
       },
       "latest": {
         "id": 430648289,
@@ -867,20 +867,20 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 731310848,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 818241,
-              "digest": "sha256:016aeb3f427463ff4fc500212a5f34e65d2e91e3f0942a443f1c83ce96ac2c86",
-              "updatedAt": "2026-11-10T12:11:34Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+              "id": 731799472,
+              "name": "GierJava.jar",
+              "sizeBytes": 1001383,
+              "digest": "sha256:b9b37c0c71d52d2a8e6feb9c6c7bf6d26754fb3433cd4fc9748ccd4703a2f530",
+              "updatedAt": "2026-11-10T14:52:16Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 731310855,
-              "name": "GierJava.jar",
-              "sizeBytes": 994217,
-              "digest": "sha256:ab5f69189aa8819dde35b739db39e60ce802bc99328405d7fbc7ac2fcb2e869a",
-              "updatedAt": "2026-11-10T12:11:34Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+              "id": 731799473,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 825407,
+              "digest": "sha256:ee1974ba63bbe0a9da41b2b4cb500e0f4ea4d49b56ca321af596c403ba04d91a",
+              "updatedAt": "2026-11-10T14:52:16Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
         }
