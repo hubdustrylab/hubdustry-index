@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "03c037300a271dbb67a409a03a8e3f3ede27ea7f",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/03c037300a271dbb67a409a03a8e3f3ede27ea7f"
+        "commit": "cf01d9c9fde33072e7f7c4432387a8e219aa2021",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/cf01d9c9fde33072e7f7c4432387a8e219aa2021"
       },
       "latest": {
         "id": 430648289,
@@ -867,20 +867,20 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 731799472,
-              "name": "GierJava.jar",
-              "sizeBytes": 1001383,
-              "digest": "sha256:b9b37c0c71d52d2a8e6feb9c6c7bf6d26754fb3433cd4fc9748ccd4703a2f530",
-              "updatedAt": "2026-11-10T14:52:16Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+              "id": 733696251,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 825411,
+              "digest": "sha256:f9c1ac0e56a62a02435fde576692028a032f97029a2022fecb13f56ec2a18b11",
+              "updatedAt": "2026-11-11T01:42:58Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 731799473,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 825407,
-              "digest": "sha256:ee1974ba63bbe0a9da41b2b4cb500e0f4ea4d49b56ca321af596c403ba04d91a",
-              "updatedAt": "2026-11-10T14:52:16Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+              "id": 733696253,
+              "name": "GierJava.jar",
+              "sizeBytes": 1001382,
+              "digest": "sha256:7c15ff74125b6272d1ff71c7afb376df9453bc76dcd37aa114f1481e39a3921a",
+              "updatedAt": "2026-11-11T01:42:58Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
         }
@@ -2743,42 +2743,96 @@
         "path": "mod.json",
         "name": "aquarion",
         "displayName": "Aquarion",
-        "version": "4.4.1",
+        "version": "4.4.4",
         "minGameVersion": "160.7",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "6bd1f1f1750165359b6a4af8051f07dd7dcbbe5a",
-        "url": "https://github.com/Twcash/Aquarion/commit/6bd1f1f1750165359b6a4af8051f07dd7dcbbe5a"
+        "commit": "a2a10191f2fea4ada14ce9cf0d649789903e9525",
+        "url": "https://github.com/Twcash/Aquarion/commit/a2a10191f2fea4ada14ce9cf0d649789903e9525"
       },
       "latest": {
-        "id": 439807736,
-        "tag": "4.4.1",
-        "name": "4.4.1",
-        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.4.1",
-        "publishedAt": "2026-11-10T00:34:06Z",
+        "id": 441064299,
+        "tag": "4.4.4",
+        "name": "4.4.4",
+        "url": "https://github.com/Twcash/Aquarion/releases/tag/4.4.4",
+        "publishedAt": "2026-11-10T23:48:19Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 731012428,
+            "id": 733408742,
             "name": "Aquarion.jar",
-            "sizeBytes": 142697905,
-            "digest": "sha256:285a85d6ef29e36e77fa7e75b9de7c16184372d246bef28c5e3970c946577e29",
-            "updatedAt": "2026-11-10T10:29:04Z",
-            "url": "https://github.com/Twcash/Aquarion/releases/download/4.4.1/Aquarion.jar"
+            "sizeBytes": 142717975,
+            "digest": "sha256:4960ccffc37783299e5007d2230905f2a983e9a8b8c6fb776c10b7ec764fe769",
+            "updatedAt": "2026-11-10T23:48:19Z",
+            "url": "https://github.com/Twcash/Aquarion/releases/download/4.4.4/Aquarion.jar"
           }
         ],
         "manifest": {
           "path": "mod.json",
           "name": "aquarion",
           "displayName": "Aquarion",
-          "version": "4.4.0",
+          "version": "4.4.4",
           "minGameVersion": "160.7",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 441064299,
+          "tag": "4.4.4",
+          "name": "4.4.4",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.4.4",
+          "publishedAt": "2026-11-10T23:48:19Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 733408742,
+              "name": "Aquarion.jar",
+              "sizeBytes": 142717975,
+              "digest": "sha256:4960ccffc37783299e5007d2230905f2a983e9a8b8c6fb776c10b7ec764fe769",
+              "updatedAt": "2026-11-10T23:48:19Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.4.4/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 441051584,
+          "tag": "4.4.3",
+          "name": "4.4.3",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.4.3",
+          "publishedAt": "2026-11-10T23:28:24Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 733359794,
+              "name": "Aquarion.jar",
+              "sizeBytes": 142720003,
+              "digest": "sha256:c31de34f8735272e0ede5a7f15f1513ec456f9b13494ed66f5355a7425222829",
+              "updatedAt": "2026-11-10T23:28:24Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.4.3/Aquarion.jar"
+            }
+          ]
+        },
+        {
+          "id": 440976923,
+          "tag": "4.4.2",
+          "name": "4.4.2",
+          "url": "https://github.com/Twcash/Aquarion/releases/tag/4.4.2",
+          "publishedAt": "2026-11-10T22:14:09Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 733162447,
+              "name": "Aquarion.jar",
+              "sizeBytes": 142709652,
+              "digest": "sha256:e1b3b23a2a3dc08bbbc4945bdd804a778ac4c8d9a49aa51b101bbbfd1a9846fd",
+              "updatedAt": "2026-11-10T22:14:08Z",
+              "url": "https://github.com/Twcash/Aquarion/releases/download/4.4.2/Aquarion.jar"
+            }
+          ]
+        },
         {
           "id": 439807736,
           "tag": "4.4.1",
