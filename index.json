@@ -500,8 +500,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "787bda1eafc3f41ebee0a5b98e17447024d8c781",
-        "url": "https://github.com/Catana791/Asthosus/commit/787bda1eafc3f41ebee0a5b98e17447024d8c781"
+        "commit": "023da88f4ef89463b612a65a96d8df47018b01b3",
+        "url": "https://github.com/Catana791/Asthosus/commit/023da88f4ef89463b612a65a96d8df47018b01b3"
       },
       "latest": {
         "id": 388456830,
@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "6b77e2989832483bd559eb183f9b31779711c7ac",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/6b77e2989832483bd559eb183f9b31779711c7ac"
+        "commit": "1dcf1899d85255cff2115753b95c35858d0508a6",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/1dcf1899d85255cff2115753b95c35858d0508a6"
       },
       "latest": {
         "id": 430648289,
@@ -867,20 +867,20 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 737374135,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 882821,
-              "digest": "sha256:b1c222a5fee7fb4532d7cbe6ae66fbed78565a1f22421f664c9c6357ded71b15",
-              "updatedAt": "2026-11-12T00:06:19Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+              "id": 738589847,
+              "name": "GierJava.jar",
+              "sizeBytes": 1078680,
+              "digest": "sha256:a487a0e68a70fe75b12cca8f73304a26131614275d5a77fc52ea6018aa32a863",
+              "updatedAt": "2026-11-12T07:56:52Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 737374136,
-              "name": "GierJava.jar",
-              "sizeBytes": 1072377,
-              "digest": "sha256:3987a6d7ca104f298400a21a8eeec3db1d2449b2d676222e9314164356161aa8",
-              "updatedAt": "2026-11-12T00:06:19Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+              "id": 738589848,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 888831,
+              "digest": "sha256:f89e02cf66de375347faef3c96e4cd41b8d289cff74ee9b4d384070bac1349f6",
+              "updatedAt": "2026-11-12T07:56:52Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
         }
@@ -2669,33 +2669,42 @@
         "path": "mod.hjson",
         "name": "exoprosopa",
         "displayName": "[[]#93E2EE]Exoprosopa",
-        "version": "0.95",
+        "version": "0.96",
         "minGameVersion": "160",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "f3f24a493f18c3960fdb98477377758d025a7e71",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/f3f24a493f18c3960fdb98477377758d025a7e71"
+        "commit": "42a23bcf5ccc57ff043d0d24892da24bdadd3427",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/42a23bcf5ccc57ff043d0d24892da24bdadd3427"
       },
       "latest": {
-        "id": 407333134,
-        "tag": "V0.95",
-        "name": "V0.95 Status Effects Update",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.95",
-        "publishedAt": "2026-10-08T23:10:20Z",
+        "id": 442496204,
+        "tag": "V0.96",
+        "name": "V0.96 Pyroxene Update",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.96",
+        "publishedAt": "2026-11-12T04:34:16Z",
         "prerelease": false,
         "assets": [],
         "manifest": {
           "path": "mod.hjson",
           "name": "exoprosopa",
           "displayName": "[[]#93E2EE]Exoprosopa",
-          "version": "0.95",
+          "version": "0.96",
           "minGameVersion": "160",
           "java": false
         }
       },
       "releases": [
+        {
+          "id": 442496204,
+          "tag": "V0.96",
+          "name": "V0.96 Pyroxene Update",
+          "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.96",
+          "publishedAt": "2026-11-12T04:34:16Z",
+          "prerelease": false,
+          "assets": []
+        },
         {
           "id": 407333134,
           "tag": "V0.95",
@@ -2749,8 +2758,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "a2a10191f2fea4ada14ce9cf0d649789903e9525",
-        "url": "https://github.com/Twcash/Aquarion/commit/a2a10191f2fea4ada14ce9cf0d649789903e9525"
+        "commit": "3493251ad2cbfb92b071c8fd4cb3295c4de20ada",
+        "url": "https://github.com/Twcash/Aquarion/commit/3493251ad2cbfb92b071c8fd4cb3295c4de20ada"
       },
       "latest": {
         "id": 441064299,
