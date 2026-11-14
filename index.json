@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "b6246f327916a671a08d01ee57aaf215e677e9f5",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/b6246f327916a671a08d01ee57aaf215e677e9f5"
+        "commit": "cf6168da4f10d01a6ccdc1a7249727e6e087c625",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/cf6168da4f10d01a6ccdc1a7249727e6e087c625"
       },
       "latest": {
         "id": 430648289,
@@ -867,20 +867,20 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 746288123,
-              "name": "GierJava.jar",
-              "sizeBytes": 1104191,
-              "digest": "sha256:1e6ee1a60bf521b87e29d393965997eb3291f0749952960e6b6c97688554a0c4",
-              "updatedAt": "2026-11-14T04:29:10Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+              "id": 746648187,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 915849,
+              "digest": "sha256:c3faa4965a07d4f2b36188c80af4edcfce43d71b204eb3df8f7953af9da7a55b",
+              "updatedAt": "2026-11-14T07:08:31Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 746288124,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 911570,
-              "digest": "sha256:6ead89460fa905a41e0d9a69a27848c89612cce5c2842d6bed36f06fcbc43609",
-              "updatedAt": "2026-11-14T04:29:10Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+              "id": 746648189,
+              "name": "GierJava.jar",
+              "sizeBytes": 1109066,
+              "digest": "sha256:4f3ba822ae3afcc910e51ce26a1d2bb1e8a7e13c8f81aebd4070214f8da2ba22",
+              "updatedAt": "2026-11-14T07:08:31Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
         }
@@ -916,42 +916,60 @@
         "path": "mod.hjson",
         "name": "modularis",
         "displayName": "Modularis",
-        "version": "0.6",
+        "version": "0.6.1",
         "minGameVersion": "158",
         "java": true
       },
       "source": {
         "branch": "master",
-        "commit": "96af54862aed6610c2c428369bffeb211416a1a1",
-        "url": "https://github.com/koctz34/Modularis/commit/96af54862aed6610c2c428369bffeb211416a1a1"
+        "commit": "456075ce2e70daba34180923bb85d4988659340d",
+        "url": "https://github.com/koctz34/Modularis/commit/456075ce2e70daba34180923bb85d4988659340d"
       },
       "latest": {
-        "id": 438337442,
-        "tag": "0.6",
-        "name": "0.6",
-        "url": "https://github.com/koctz34/Modularis/releases/tag/0.6",
-        "publishedAt": "2026-11-08T15:39:15Z",
+        "id": 445318375,
+        "tag": "0.6.1",
+        "name": "0.6.1",
+        "url": "https://github.com/koctz34/Modularis/releases/tag/0.6.1",
+        "publishedAt": "2026-11-14T13:34:40Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 724463710,
-            "name": "Modularisf.jar",
-            "sizeBytes": 971831,
-            "digest": "sha256:1c63130d2d557e36a8c250c84e4de2568a08f9e94c7b7fda2ad663392b93b5a3",
-            "updatedAt": "2026-11-08T16:13:56Z",
-            "url": "https://github.com/koctz34/Modularis/releases/download/0.6/Modularisf.jar"
+            "id": 747593538,
+            "name": "Modularis.jar",
+            "sizeBytes": 4330659,
+            "digest": "sha256:c90cbfc4a70ae769ad8fca1f3e556d5cb3a5276e84b06647fd50a8de8c1d4975",
+            "updatedAt": "2026-11-14T13:34:40Z",
+            "url": "https://github.com/koctz34/Modularis/releases/download/0.6.1/Modularis.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "modularis",
           "displayName": "Modularis",
-          "version": "0.6",
+          "version": "0.6.1",
           "minGameVersion": "158",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 445318375,
+          "tag": "0.6.1",
+          "name": "0.6.1",
+          "url": "https://github.com/koctz34/Modularis/releases/tag/0.6.1",
+          "publishedAt": "2026-11-14T13:34:40Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 747593538,
+              "name": "Modularis.jar",
+              "sizeBytes": 4330659,
+              "digest": "sha256:c90cbfc4a70ae769ad8fca1f3e556d5cb3a5276e84b06647fd50a8de8c1d4975",
+              "updatedAt": "2026-11-14T13:34:40Z",
+              "url": "https://github.com/koctz34/Modularis/releases/download/0.6.1/Modularis.jar"
+            }
+          ]
+        },
         {
           "id": 438337442,
           "tag": "0.6",
@@ -1077,8 +1095,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "9745a9c5c2d45c1c72a8a452ad54cb65f4ab40c2",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/9745a9c5c2d45c1c72a8a452ad54cb65f4ab40c2"
+        "commit": "9a37011ab75acb2fbc4a698c94bed63594526f0c",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/9a37011ab75acb2fbc4a698c94bed63594526f0c"
       },
       "latest": {
         "id": 439971600,
