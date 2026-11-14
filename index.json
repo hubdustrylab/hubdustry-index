@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "4dc286c00bbc3a09d7abd0e78f1668d85039d5db",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/4dc286c00bbc3a09d7abd0e78f1668d85039d5db"
+        "commit": "b6246f327916a671a08d01ee57aaf215e677e9f5",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/b6246f327916a671a08d01ee57aaf215e677e9f5"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 744120252,
+              "id": 746288123,
               "name": "GierJava.jar",
-              "sizeBytes": 1084134,
-              "digest": "sha256:d7a11c1a4b91a30f61c6e54a24817ad2a27788305be9920e550d44c5f367b80e",
-              "updatedAt": "2026-11-13T15:21:14Z",
+              "sizeBytes": 1104191,
+              "digest": "sha256:1e6ee1a60bf521b87e29d393965997eb3291f0749952960e6b6c97688554a0c4",
+              "updatedAt": "2026-11-14T04:29:10Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 744120255,
+              "id": 746288124,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 892744,
-              "digest": "sha256:72af81001a39e99b6b284d41081ed003cf8680b81b0ccd57b5d71082c61d17e1",
-              "updatedAt": "2026-11-13T15:21:14Z",
+              "sizeBytes": 911570,
+              "digest": "sha256:6ead89460fa905a41e0d9a69a27848c89612cce5c2842d6bed36f06fcbc43609",
+              "updatedAt": "2026-11-14T04:29:10Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
@@ -2675,8 +2675,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "cdfc40ff36ba9cce9a5f053494c2e1b051f6d27c",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/cdfc40ff36ba9cce9a5f053494c2e1b051f6d27c"
+        "commit": "1143047cbb68f20feec39e60bb3c64ef617a6e1c",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/1143047cbb68f20feec39e60bb3c64ef617a6e1c"
       },
       "latest": {
         "id": 442496204,
