@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "772cc1ddc1a84d5f41ae73685f52207bb17a8cf9",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/772cc1ddc1a84d5f41ae73685f52207bb17a8cf9"
+        "commit": "4c12a9707d415994c8ffcbf9aaf4863db21be5c2",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/4c12a9707d415994c8ffcbf9aaf4863db21be5c2"
       },
       "latest": {
         "id": 430648289,
@@ -867,20 +867,20 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 750447361,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 941627,
-              "digest": "sha256:849aac9b0716e2210270899b9171a164eaa8d4ebd312ce827ece0aac83f60b24",
-              "updatedAt": "2026-11-15T09:12:36Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
+              "id": 750541769,
+              "name": "GierJava.jar",
+              "sizeBytes": 1139193,
+              "digest": "sha256:553fe31a49e7a03bc359690a5ca57e2ae719c71f6865f8f9d06cdddf74dec0cb",
+              "updatedAt": "2026-11-15T09:52:09Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 750447364,
-              "name": "GierJava.jar",
-              "sizeBytes": 1137018,
-              "digest": "sha256:6dd141e97d3219ee5e069ba95a6121409dd19ddce5a26385e6205dab363aebed",
-              "updatedAt": "2026-11-15T09:12:36Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+              "id": 750541773,
+              "name": "GierJavaDesktop.jar",
+              "sizeBytes": 943312,
+              "digest": "sha256:e0440561dd9f069bcb88e410c405dd93164997b8b61b38c324cc570c77183b40",
+              "updatedAt": "2026-11-15T09:52:10Z",
+              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
         }
@@ -895,14 +895,14 @@
         "path": "mod.hjson",
         "name": "mov",
         "displayName": "Mindustry Overhaul",
-        "version": "v1.4.92",
+        "version": "v1.4.93",
         "minGameVersion": "151.1",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "d8d07177713612ee59d78e49310e38ffbcb74cf0",
-        "url": "https://github.com/KOCTOLOM/Mindustry-overhaul/commit/d8d07177713612ee59d78e49310e38ffbcb74cf0"
+        "commit": "588c6b86839bf4099596e9c8cae6b88b52e6b116",
+        "url": "https://github.com/KOCTOLOM/Mindustry-overhaul/commit/588c6b86839bf4099596e9c8cae6b88b52e6b116"
       },
       "latest": null,
       "releases": []
@@ -2693,8 +2693,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "7aa3300cafa2ba59f0fe881bddafe934e76af4b5",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/7aa3300cafa2ba59f0fe881bddafe934e76af4b5"
+        "commit": "609e9f0e27cb51a6f08883ef028ac72f8f9768a1",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/609e9f0e27cb51a6f08883ef028ac72f8f9768a1"
       },
       "latest": {
         "id": 442496204,
@@ -2776,8 +2776,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "201a50cffca90bed30c8e6dc30b7167d97c5f557",
-        "url": "https://github.com/Twcash/Aquarion/commit/201a50cffca90bed30c8e6dc30b7167d97c5f557"
+        "commit": "a282e5e9f98db53789b4388d6a00b0c46b451c8e",
+        "url": "https://github.com/Twcash/Aquarion/commit/a282e5e9f98db53789b4388d6a00b0c46b451c8e"
       },
       "latest": {
         "id": 441064299,
@@ -4184,14 +4184,14 @@
         "path": "mod.hjson",
         "name": "new-horizon",
         "displayName": "New Horizon",
-        "version": "2.3.0",
-        "minGameVersion": "159.7",
+        "version": "2.3.1",
+        "minGameVersion": "160",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "d8fd65c0c03e22abc8684404f787fc6382bf28f5",
-        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d8fd65c0c03e22abc8684404f787fc6382bf28f5"
+        "commit": "d581823b710db1ab90697bf95535f97d115a36fb",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d581823b710db1ab90697bf95535f97d115a36fb"
       },
       "latest": {
         "id": 405747819,
