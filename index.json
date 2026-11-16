@@ -500,8 +500,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "023da88f4ef89463b612a65a96d8df47018b01b3",
-        "url": "https://github.com/Catana791/Asthosus/commit/023da88f4ef89463b612a65a96d8df47018b01b3"
+        "commit": "9a2fd5c00295fe1743ffed4972c3f222ff97d96d",
+        "url": "https://github.com/Catana791/Asthosus/commit/9a2fd5c00295fe1743ffed4972c3f222ff97d96d"
       },
       "latest": {
         "id": 388456830,
@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "71c56fa20d14da33dcb0b794220c53d37de10709",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/71c56fa20d14da33dcb0b794220c53d37de10709"
+        "commit": "2e2e3cbc89d7e2310cce19aeddd93a91a5f36b67",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/2e2e3cbc89d7e2310cce19aeddd93a91a5f36b67"
       },
       "latest": {
         "id": 411351085,
@@ -1095,8 +1095,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "5a6c4b66ff67c76a958531aa73c2e259c68ceaba",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/5a6c4b66ff67c76a958531aa73c2e259c68ceaba"
+        "commit": "0e970ad66b5ea32f7c675017d927a3a6bde22d5c",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/0e970ad66b5ea32f7c675017d927a3a6bde22d5c"
       },
       "latest": {
         "id": 439971600,
@@ -2693,15 +2693,15 @@
       },
       "source": {
         "branch": "main",
-        "commit": "2b3193dbf19669f0e0430b4bb74d3987c252d611",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/2b3193dbf19669f0e0430b4bb74d3987c252d611"
+        "commit": "eb5fcc87e12ac9c30806fc0222f5d6310c9d62e0",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/eb5fcc87e12ac9c30806fc0222f5d6310c9d62e0"
       },
       "latest": {
-        "id": 442496204,
+        "id": 446862433,
         "tag": "V0.96",
         "name": "V0.96 Pyroxene Update",
         "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.96",
-        "publishedAt": "2026-11-12T04:34:16Z",
+        "publishedAt": "2026-11-16T10:03:00Z",
         "prerelease": false,
         "assets": [],
         "manifest": {
@@ -2715,11 +2715,11 @@
       },
       "releases": [
         {
-          "id": 442496204,
+          "id": 446862433,
           "tag": "V0.96",
           "name": "V0.96 Pyroxene Update",
           "url": "https://github.com/TnmSpiroct/Exoprosopa/releases/tag/V0.96",
-          "publishedAt": "2026-11-12T04:34:16Z",
+          "publishedAt": "2026-11-16T10:03:00Z",
           "prerelease": false,
           "assets": []
         },
@@ -4190,8 +4190,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "d12631aa40ff729cd6190a1b5fc3e1a8179e99ff",
-        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d12631aa40ff729cd6190a1b5fc3e1a8179e99ff"
+        "commit": "d23b1c48ef3dfd3f2b25b627c0ae48aadd63ad71",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d23b1c48ef3dfd3f2b25b627c0ae48aadd63ad71"
       },
       "latest": {
         "id": 405747819,
