@@ -1095,8 +1095,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "9a37011ab75acb2fbc4a698c94bed63594526f0c",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/9a37011ab75acb2fbc4a698c94bed63594526f0c"
+        "commit": "5a6c4b66ff67c76a958531aa73c2e259c68ceaba",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/5a6c4b66ff67c76a958531aa73c2e259c68ceaba"
       },
       "latest": {
         "id": 439971600,
@@ -2693,8 +2693,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "609e9f0e27cb51a6f08883ef028ac72f8f9768a1",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/609e9f0e27cb51a6f08883ef028ac72f8f9768a1"
+        "commit": "2b3193dbf19669f0e0430b4bb74d3987c252d611",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/2b3193dbf19669f0e0430b4bb74d3987c252d611"
       },
       "latest": {
         "id": 442496204,
@@ -4184,14 +4184,14 @@
         "path": "mod.hjson",
         "name": "new-horizon",
         "displayName": "New Horizon",
-        "version": "2.3.1",
+        "version": "2.3.1.1",
         "minGameVersion": "160",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "993d8e89b9d7c39842b12ae42a58f2642776b302",
-        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/993d8e89b9d7c39842b12ae42a58f2642776b302"
+        "commit": "d12631aa40ff729cd6190a1b5fc3e1a8179e99ff",
+        "url": "https://github.com/Yuria-Shikibe/NewHorizonMod/commit/d12631aa40ff729cd6190a1b5fc3e1a8179e99ff"
       },
       "latest": {
         "id": 405747819,
