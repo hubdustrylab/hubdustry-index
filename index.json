@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "ca4de1aea2c5e0abb4368b3e02895aac64e520ee",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/ca4de1aea2c5e0abb4368b3e02895aac64e520ee"
+        "commit": "1f5c67e7f5ca4aa3092f240a62549ac375943de7",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/1f5c67e7f5ca4aa3092f240a62549ac375943de7"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 759119246,
+              "id": 762098942,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 1020157,
-              "digest": "sha256:1c9235d0539851a830d3578123b0d81cd1503b08af1239dac928994628293f6f",
-              "updatedAt": "2026-11-17T13:10:43Z",
+              "sizeBytes": 1045166,
+              "digest": "sha256:0965b1ee34a81a16d93500958de60faf663dce650af463d07b82bc0effca92f1",
+              "updatedAt": "2026-11-18T05:45:36Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 759119247,
+              "id": 762098947,
               "name": "GierJava.jar",
-              "sizeBytes": 1218621,
-              "digest": "sha256:ec21ec13007b2934361252f9fbbab183e89789d19f90c498c5c29eee22ed372f",
-              "updatedAt": "2026-11-17T13:10:43Z",
+              "sizeBytes": 1244476,
+              "digest": "sha256:1565f30e730a53147f6c05da06571fa64dc5c5f24cd187c2ed80405346f6cd72",
+              "updatedAt": "2026-11-18T05:45:36Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
@@ -1089,42 +1089,60 @@
         "path": "mod.hjson",
         "name": "ve",
         "displayName": "Vanilla Expansion",
-        "version": "2.1.3.0",
+        "version": "2.1.3.1",
         "minGameVersion": "160",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "0e970ad66b5ea32f7c675017d927a3a6bde22d5c",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/0e970ad66b5ea32f7c675017d927a3a6bde22d5c"
+        "commit": "bd4c918762243994281924036435732529b33971",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/bd4c918762243994281924036435732529b33971"
       },
       "latest": {
-        "id": 439971600,
-        "tag": "v2130-1",
-        "name": "v2.1.3.0-1 Metallic Glacier Hotfix Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2130-1",
-        "publishedAt": "2026-11-10T05:15:33Z",
+        "id": 449638165,
+        "tag": "v2131",
+        "name": "v2.1.3.1 Debug Block Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2131",
+        "publishedAt": "2026-11-18T07:14:59Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 730204566,
-            "name": "vanilla-expansion21301.jar",
-            "sizeBytes": 32127940,
-            "digest": "sha256:c1ea60e137f7c7eedf2b30cf86e7a2dfc1a7682df81faf6736bc1d5301b3e302",
-            "updatedAt": "2026-11-10T05:15:33Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2130-1/vanilla-expansion21301.jar"
+            "id": 762341768,
+            "name": "vanilla-expansion2131.jar",
+            "sizeBytes": 32239107,
+            "digest": "sha256:8dd0c1c344509c04d8fb437501981ba19fe68755199bf9b5c411184b91b51c40",
+            "updatedAt": "2026-11-18T07:14:59Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2131/vanilla-expansion2131.jar"
           }
         ],
         "manifest": {
           "path": "mod.hjson",
           "name": "ve",
           "displayName": "Vanilla Expansion",
-          "version": "2.1.3.0",
+          "version": "2.1.3.1",
           "minGameVersion": "160",
           "java": true
         }
       },
       "releases": [
+        {
+          "id": 449638165,
+          "tag": "v2131",
+          "name": "v2.1.3.1 Debug Block Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2131",
+          "publishedAt": "2026-11-18T07:14:59Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 762341768,
+              "name": "vanilla-expansion2131.jar",
+              "sizeBytes": 32239107,
+              "digest": "sha256:8dd0c1c344509c04d8fb437501981ba19fe68755199bf9b5c411184b91b51c40",
+              "updatedAt": "2026-11-18T07:14:59Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2131/vanilla-expansion2131.jar"
+            }
+          ]
+        },
         {
           "id": 439971600,
           "tag": "v2130-1",
