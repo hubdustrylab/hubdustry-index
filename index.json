@@ -500,8 +500,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "4ddf782390f44b53b9edfd04461afee25913e28d",
-        "url": "https://github.com/Catana791/Asthosus/commit/4ddf782390f44b53b9edfd04461afee25913e28d"
+        "commit": "6736d84e5ca050209b893661e6750c6b76f282ec",
+        "url": "https://github.com/Catana791/Asthosus/commit/6736d84e5ca050209b893661e6750c6b76f282ec"
       },
       "latest": {
         "id": 388456830,
@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "58cbe3d28028233815a72d9e2239a721b0f7d8df",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/58cbe3d28028233815a72d9e2239a721b0f7d8df"
+        "commit": "c19179f93d585c118f4520c843c281fdbbe1f861",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/c19179f93d585c118f4520c843c281fdbbe1f861"
       },
       "latest": {
         "id": 411351085,
@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "87044c676ec1f93bc79901a9b4e3b839dbc002a0",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/87044c676ec1f93bc79901a9b4e3b839dbc002a0"
+        "commit": "0fd57e56c0343b60e63c0323d419cb2b53b13275",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/0fd57e56c0343b60e63c0323d419cb2b53b13275"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 766404300,
+              "id": 768179595,
               "name": "GierJava.jar",
-              "sizeBytes": 1266408,
-              "digest": "sha256:660ae2a88c08f0137caa198537d154f7eb2e349caa3aff6487b295d8eb19c264",
-              "updatedAt": "2026-11-19T05:41:41Z",
+              "sizeBytes": 1269738,
+              "digest": "sha256:1b4f2b2f3ac2c1cadabe86fad85f51a172d7c73afab996275c738b0e94fe6b9d",
+              "updatedAt": "2026-11-19T15:19:24Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             },
             {
-              "id": 766404306,
+              "id": 768179600,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 1064905,
-              "digest": "sha256:fe6915a6084cd25046f67df7074f56091240a2dee1b8f93e82a6ffd3dad07a09",
-              "updatedAt": "2026-11-19T05:41:41Z",
+              "sizeBytes": 1067328,
+              "digest": "sha256:d1bef418ef0d922a7cea23b22ab3ad256382043455d226537e15f65bb4508aab",
+              "updatedAt": "2026-11-19T15:19:25Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             }
           ]
@@ -1918,14 +1918,14 @@
         "path": "mod.hjson",
         "name": "sfire-mod",
         "displayName": "Saturation Firepower Mod",
-        "version": "4.0.6.3",
+        "version": "4.0.7",
         "minGameVersion": "160",
         "java": true
       },
       "source": {
         "branch": "main",
-        "commit": "5e0b856be8d578203b102de390e9fb4a5c52e51f",
-        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/5e0b856be8d578203b102de390e9fb4a5c52e51f"
+        "commit": "0eb99ef991dbca0b641de1833fa59d2ffb280858",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/0eb99ef991dbca0b641de1833fa59d2ffb280858"
       },
       "latest": {
         "id": 416405706,
