@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "7312e22160063b46d78665a388780e04f238c70c",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/7312e22160063b46d78665a388780e04f238c70c"
+        "commit": "63842a668b319b3e9fb420e0c54170c41389dc35",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/63842a668b319b3e9fb420e0c54170c41389dc35"
       },
       "latest": {
         "id": 411351085,
@@ -1095,8 +1095,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "bb52d09329bc05ac8b664e659c0ca8db3d90b285",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/bb52d09329bc05ac8b664e659c0ca8db3d90b285"
+        "commit": "7d1ba5fb66ef39faaa0741449b698bd2eea850e0",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/7d1ba5fb66ef39faaa0741449b698bd2eea850e0"
       },
       "latest": {
         "id": 449638165,
@@ -2776,6 +2776,100 @@
           "publishedAt": "2025-05-19T11:54:13Z",
           "prerelease": false,
           "assets": []
+        }
+      ]
+    },
+    {
+      "repository": "traincrisis/SerpuloPlus",
+      "url": "https://github.com/traincrisis/SerpuloPlus",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "serpuloplus",
+        "displayName": "[[]#a179fa]Serpulo[[]white]+",
+        "version": "PR0.4",
+        "minGameVersion": "157",
+        "java": false
+      },
+      "source": {
+        "branch": "main",
+        "commit": "0ff59985d756bafa9a51a1ed35a0e33a302ca3cc",
+        "url": "https://github.com/traincrisis/SerpuloPlus/commit/0ff59985d756bafa9a51a1ed35a0e33a302ca3cc"
+      },
+      "latest": null,
+      "releases": [
+        {
+          "id": 330011983,
+          "tag": "0.4",
+          "name": "PR0.4: The Fat Items Update",
+          "url": "https://github.com/traincrisis/SerpuloPlus/releases/tag/0.4",
+          "publishedAt": "2026-05-27T08:10:31Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 430917302,
+              "name": "SerpuloPlus-PR0.4.zip",
+              "sizeBytes": 5554412,
+              "digest": "sha256:c0a2cf15f8c32ada5ac3d5d4b25409f86fe05356bbdb406a91dca1c252cc9553",
+              "updatedAt": "2026-05-27T08:10:24Z",
+              "url": "https://github.com/traincrisis/SerpuloPlus/releases/download/0.4/SerpuloPlus-PR0.4.zip"
+            }
+          ]
+        },
+        {
+          "id": 322530814,
+          "tag": "0.3.1",
+          "name": "PR0.3.1: Warm Balancing Update",
+          "url": "https://github.com/traincrisis/SerpuloPlus/releases/tag/0.3.1",
+          "publishedAt": "2026-05-14T12:45:47Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 420158448,
+              "name": "SerpuloPlus-PR0.3.1.zip",
+              "sizeBytes": 5151598,
+              "digest": "sha256:263ef258ab2dabf0358169de872a2d9916da1b6ad4ddc40327f46ec911c07e7b",
+              "updatedAt": "2026-05-14T12:52:26Z",
+              "url": "https://github.com/traincrisis/SerpuloPlus/releases/download/0.3.1/SerpuloPlus-PR0.3.1.zip"
+            }
+          ]
+        },
+        {
+          "id": 320165564,
+          "tag": "0.3",
+          "name": "PR0.3: The Hot 'n' Cold Update",
+          "url": "https://github.com/traincrisis/SerpuloPlus/releases/tag/0.3",
+          "publishedAt": "2026-05-10T18:00:34Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 416802902,
+              "name": "SerpuloPlus-PR0.3.zip",
+              "sizeBytes": 5122498,
+              "digest": "sha256:a650eb48d24b34876e15a2bec3a66568471c51656fc9f923082c9fd366d6cdea",
+              "updatedAt": "2026-05-10T18:00:34Z",
+              "url": "https://github.com/traincrisis/SerpuloPlus/releases/download/0.3/SerpuloPlus-PR0.3.zip"
+            }
+          ]
+        },
+        {
+          "id": 312182373,
+          "tag": "0.2",
+          "name": "PR0.2: Initial Public Release",
+          "url": "https://github.com/traincrisis/SerpuloPlus/releases/tag/0.2",
+          "publishedAt": "2026-04-22T11:36:48Z",
+          "prerelease": true,
+          "assets": [
+            {
+              "id": 402452945,
+              "name": "SerpuloPlus-PR0.2.zip",
+              "sizeBytes": 5002609,
+              "digest": "sha256:d30ce7506afe799be3aeb6f55c5ee577cd3150171e5f5b6a0c8ab594db02f418",
+              "updatedAt": "2026-05-10T18:01:42Z",
+              "url": "https://github.com/traincrisis/SerpuloPlus/releases/download/0.2/SerpuloPlus-PR0.2.zip"
+            }
+          ]
         }
       ]
     },
