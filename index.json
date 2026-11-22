@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "adbe2985eaaa3a40c7d4d25da784913c428cc4bc",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/adbe2985eaaa3a40c7d4d25da784913c428cc4bc"
+        "commit": "93625a5693b343f08a2c3ee394c91e6ae5229e75",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/93625a5693b343f08a2c3ee394c91e6ae5229e75"
       },
       "latest": {
         "id": 411351085,
@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "732c998f41d1b94ed83aeb4b936be259af91bd35",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/732c998f41d1b94ed83aeb4b936be259af91bd35"
+        "commit": "92b1493749b32f51b8e5f72d22eb551502a7df4b",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/92b1493749b32f51b8e5f72d22eb551502a7df4b"
       },
       "latest": {
         "id": 430648289,
@@ -867,20 +867,193 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 778516365,
+              "id": 779578336,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 1079268,
-              "digest": "sha256:21e47ca8274d0cde86c49539e56494a741d6900ed5a5adc9929d0eaaec53b416",
-              "updatedAt": "2026-11-22T09:21:40Z",
+              "sizeBytes": 1080469,
+              "digest": "sha256:41d348c82f21a2db09725269a3107458a6666a11f26b38c57e1b5ca43520665c",
+              "updatedAt": "2026-11-22T15:55:34Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 778516425,
+              "id": 779578344,
               "name": "GierJava.jar",
-              "sizeBytes": 1282810,
-              "digest": "sha256:b84ac2ad9cdd4aed7353b2252c621542e17f853b97a7d2eba32204c746c5378d",
-              "updatedAt": "2026-11-22T09:21:40Z",
+              "sizeBytes": 1284471,
+              "digest": "sha256:73170339e7b06508d331c15c3f2a18b34765ed71506df8c34f5ffe48201bc51b",
+              "updatedAt": "2026-11-22T15:55:34Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "ion7274/Modularis",
+      "url": "https://github.com/ion7274/Modularis",
+      "archived": false,
+      "channel": "stable",
+      "manifest": {
+        "path": "mod.hjson",
+        "name": "modularis",
+        "displayName": "Modularis",
+        "version": "0.6.1",
+        "minGameVersion": "158",
+        "java": true
+      },
+      "source": {
+        "branch": "master",
+        "commit": "05eb3f0b8afeddc12609fb403e56abacb2ff6ea5",
+        "url": "https://github.com/ion7274/Modularis/commit/05eb3f0b8afeddc12609fb403e56abacb2ff6ea5"
+      },
+      "latest": {
+        "id": 445318375,
+        "tag": "0.6.1",
+        "name": "0.6.1",
+        "url": "https://github.com/ion7274/Modularis/releases/tag/0.6.1",
+        "publishedAt": "2026-11-14T13:34:40Z",
+        "prerelease": false,
+        "assets": [
+          {
+            "id": 747593538,
+            "name": "Modularis.jar",
+            "sizeBytes": 4330659,
+            "digest": "sha256:c90cbfc4a70ae769ad8fca1f3e556d5cb3a5276e84b06647fd50a8de8c1d4975",
+            "updatedAt": "2026-11-14T13:34:40Z",
+            "url": "https://github.com/ion7274/Modularis/releases/download/0.6.1/Modularis.jar"
+          }
+        ],
+        "manifest": {
+          "path": "mod.hjson",
+          "name": "modularis",
+          "displayName": "Modularis",
+          "version": "0.6.1",
+          "minGameVersion": "158",
+          "java": true
+        }
+      },
+      "releases": [
+        {
+          "id": 445318375,
+          "tag": "0.6.1",
+          "name": "0.6.1",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.6.1",
+          "publishedAt": "2026-11-14T13:34:40Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 747593538,
+              "name": "Modularis.jar",
+              "sizeBytes": 4330659,
+              "digest": "sha256:c90cbfc4a70ae769ad8fca1f3e556d5cb3a5276e84b06647fd50a8de8c1d4975",
+              "updatedAt": "2026-11-14T13:34:40Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.6.1/Modularis.jar"
+            }
+          ]
+        },
+        {
+          "id": 438337442,
+          "tag": "0.6",
+          "name": "0.6",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.6",
+          "publishedAt": "2026-11-08T15:39:15Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 724463710,
+              "name": "Modularisf.jar",
+              "sizeBytes": 971831,
+              "digest": "sha256:1c63130d2d557e36a8c250c84e4de2568a08f9e94c7b7fda2ad663392b93b5a3",
+              "updatedAt": "2026-11-08T16:13:56Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.6/Modularisf.jar"
+            }
+          ]
+        },
+        {
+          "id": 413877248,
+          "tag": "0.5",
+          "name": "0.5",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.5",
+          "publishedAt": "2026-10-15T13:58:19Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 644039948,
+              "name": "modularis.jar",
+              "sizeBytes": 805431,
+              "digest": "sha256:90942a0e4f3fcecc6524c950d8e5de9d08d366a36014bd0a2896087d4253fbf9",
+              "updatedAt": "2026-10-15T13:58:15Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.5/modularis.jar"
+            }
+          ]
+        },
+        {
+          "id": 410851907,
+          "tag": "0.4.1",
+          "name": "0.4.1",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.4.1",
+          "publishedAt": "2026-10-12T17:30:04Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 634474029,
+              "name": "modularis.jar",
+              "sizeBytes": 801864,
+              "digest": "sha256:3c3c733092fc1d628ab5c704619a6c7359d0344c82ce7068e4b441cfc4149935",
+              "updatedAt": "2026-10-12T17:29:53Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.4.1/modularis.jar"
+            }
+          ]
+        },
+        {
+          "id": 356291754,
+          "tag": "0.4",
+          "name": "0.4",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.4",
+          "publishedAt": "2026-08-23T09:00:58Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 526329056,
+              "name": "Modularisf.jar",
+              "sizeBytes": 802173,
+              "digest": "sha256:86d0c53221b0eb2265b0095626e6fc02e7fb31ac79a9c5518d8503e1e43be2bd",
+              "updatedAt": "2026-08-23T14:56:18Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.4/Modularisf.jar"
+            }
+          ]
+        },
+        {
+          "id": 355096538,
+          "tag": "0.3",
+          "name": "0.3",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.3",
+          "publishedAt": "2026-07-18T09:08:27Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 481399088,
+              "name": "Modularis.jar",
+              "sizeBytes": 2903862,
+              "digest": "sha256:27f6999a65139ca6593eda73d1dbe6addb89cb919837b1022f591e28cbcc8241",
+              "updatedAt": "2026-07-18T11:05:54Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.3/Modularis.jar"
+            }
+          ]
+        },
+        {
+          "id": 354317285,
+          "tag": "0.2",
+          "name": "0.2",
+          "url": "https://github.com/ion7274/Modularis/releases/tag/0.2",
+          "publishedAt": "2026-07-15T09:21:50Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 477744847,
+              "name": "Modularis.jar",
+              "sizeBytes": 662449,
+              "digest": "sha256:9d8b661ea9b43929a4eeab84b440447daead39de52a3ba43e26bb29c6c6e74ac",
+              "updatedAt": "2026-07-15T09:18:33Z",
+              "url": "https://github.com/ion7274/Modularis/releases/download/0.2/Modularis.jar"
             }
           ]
         }
@@ -908,179 +1081,6 @@
       "releases": []
     },
     {
-      "repository": "koctz34/Modularis",
-      "url": "https://github.com/koctz34/Modularis",
-      "archived": false,
-      "channel": "stable",
-      "manifest": {
-        "path": "mod.hjson",
-        "name": "modularis",
-        "displayName": "Modularis",
-        "version": "0.6.1",
-        "minGameVersion": "158",
-        "java": true
-      },
-      "source": {
-        "branch": "master",
-        "commit": "456075ce2e70daba34180923bb85d4988659340d",
-        "url": "https://github.com/koctz34/Modularis/commit/456075ce2e70daba34180923bb85d4988659340d"
-      },
-      "latest": {
-        "id": 445318375,
-        "tag": "0.6.1",
-        "name": "0.6.1",
-        "url": "https://github.com/koctz34/Modularis/releases/tag/0.6.1",
-        "publishedAt": "2026-11-14T13:34:40Z",
-        "prerelease": false,
-        "assets": [
-          {
-            "id": 747593538,
-            "name": "Modularis.jar",
-            "sizeBytes": 4330659,
-            "digest": "sha256:c90cbfc4a70ae769ad8fca1f3e556d5cb3a5276e84b06647fd50a8de8c1d4975",
-            "updatedAt": "2026-11-14T13:34:40Z",
-            "url": "https://github.com/koctz34/Modularis/releases/download/0.6.1/Modularis.jar"
-          }
-        ],
-        "manifest": {
-          "path": "mod.hjson",
-          "name": "modularis",
-          "displayName": "Modularis",
-          "version": "0.6.1",
-          "minGameVersion": "158",
-          "java": true
-        }
-      },
-      "releases": [
-        {
-          "id": 445318375,
-          "tag": "0.6.1",
-          "name": "0.6.1",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.6.1",
-          "publishedAt": "2026-11-14T13:34:40Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 747593538,
-              "name": "Modularis.jar",
-              "sizeBytes": 4330659,
-              "digest": "sha256:c90cbfc4a70ae769ad8fca1f3e556d5cb3a5276e84b06647fd50a8de8c1d4975",
-              "updatedAt": "2026-11-14T13:34:40Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.6.1/Modularis.jar"
-            }
-          ]
-        },
-        {
-          "id": 438337442,
-          "tag": "0.6",
-          "name": "0.6",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.6",
-          "publishedAt": "2026-11-08T15:39:15Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 724463710,
-              "name": "Modularisf.jar",
-              "sizeBytes": 971831,
-              "digest": "sha256:1c63130d2d557e36a8c250c84e4de2568a08f9e94c7b7fda2ad663392b93b5a3",
-              "updatedAt": "2026-11-08T16:13:56Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.6/Modularisf.jar"
-            }
-          ]
-        },
-        {
-          "id": 413877248,
-          "tag": "0.5",
-          "name": "0.5",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.5",
-          "publishedAt": "2026-10-15T13:58:19Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 644039948,
-              "name": "modularis.jar",
-              "sizeBytes": 805431,
-              "digest": "sha256:90942a0e4f3fcecc6524c950d8e5de9d08d366a36014bd0a2896087d4253fbf9",
-              "updatedAt": "2026-10-15T13:58:15Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.5/modularis.jar"
-            }
-          ]
-        },
-        {
-          "id": 410851907,
-          "tag": "0.4.1",
-          "name": "0.4.1",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.4.1",
-          "publishedAt": "2026-10-12T17:30:04Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 634474029,
-              "name": "modularis.jar",
-              "sizeBytes": 801864,
-              "digest": "sha256:3c3c733092fc1d628ab5c704619a6c7359d0344c82ce7068e4b441cfc4149935",
-              "updatedAt": "2026-10-12T17:29:53Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.4.1/modularis.jar"
-            }
-          ]
-        },
-        {
-          "id": 356291754,
-          "tag": "0.4",
-          "name": "0.4",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.4",
-          "publishedAt": "2026-08-23T09:00:58Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 526329056,
-              "name": "Modularisf.jar",
-              "sizeBytes": 802173,
-              "digest": "sha256:86d0c53221b0eb2265b0095626e6fc02e7fb31ac79a9c5518d8503e1e43be2bd",
-              "updatedAt": "2026-08-23T14:56:18Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.4/Modularisf.jar"
-            }
-          ]
-        },
-        {
-          "id": 355096538,
-          "tag": "0.3",
-          "name": "0.3",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.3",
-          "publishedAt": "2026-07-18T09:08:27Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 481399088,
-              "name": "Modularis.jar",
-              "sizeBytes": 2903862,
-              "digest": "sha256:27f6999a65139ca6593eda73d1dbe6addb89cb919837b1022f591e28cbcc8241",
-              "updatedAt": "2026-07-18T11:05:54Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.3/Modularis.jar"
-            }
-          ]
-        },
-        {
-          "id": 354317285,
-          "tag": "0.2",
-          "name": "0.2",
-          "url": "https://github.com/koctz34/Modularis/releases/tag/0.2",
-          "publishedAt": "2026-07-15T09:21:50Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 477744847,
-              "name": "Modularis.jar",
-              "sizeBytes": 662449,
-              "digest": "sha256:9d8b661ea9b43929a4eeab84b440447daead39de52a3ba43e26bb29c6c6e74ac",
-              "updatedAt": "2026-07-15T09:18:33Z",
-              "url": "https://github.com/koctz34/Modularis/releases/download/0.2/Modularis.jar"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "repository": "Martian238/Vanilla-Expansion-Mod",
       "url": "https://github.com/Martian238/Vanilla-Expansion-Mod",
       "archived": false,
@@ -1095,8 +1095,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "7d1ba5fb66ef39faaa0741449b698bd2eea850e0",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/7d1ba5fb66ef39faaa0741449b698bd2eea850e0"
+        "commit": "f2c49109c747495dd0ba558169ec1a7d82a71896",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/f2c49109c747495dd0ba558169ec1a7d82a71896"
       },
       "latest": {
         "id": 449638165,
