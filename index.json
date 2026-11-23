@@ -500,8 +500,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "6736d84e5ca050209b893661e6750c6b76f282ec",
-        "url": "https://github.com/Catana791/Asthosus/commit/6736d84e5ca050209b893661e6750c6b76f282ec"
+        "commit": "caa8d84d2b8ce7f77373503decaba7a622f5cd97",
+        "url": "https://github.com/Catana791/Asthosus/commit/caa8d84d2b8ce7f77373503decaba7a622f5cd97"
       },
       "latest": {
         "id": 388456830,
@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "93625a5693b343f08a2c3ee394c91e6ae5229e75",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/93625a5693b343f08a2c3ee394c91e6ae5229e75"
+        "commit": "6487b287d5f1f59c7918f508c2477e0ac918348a",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/6487b287d5f1f59c7918f508c2477e0ac918348a"
       },
       "latest": {
         "id": 411351085,
@@ -810,8 +810,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "92b1493749b32f51b8e5f72d22eb551502a7df4b",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/92b1493749b32f51b8e5f72d22eb551502a7df4b"
+        "commit": "905b9e72f29f40c246a24dd6840006e1f743f5a0",
+        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/905b9e72f29f40c246a24dd6840006e1f743f5a0"
       },
       "latest": {
         "id": 430648289,
@@ -867,19 +867,19 @@
           "prerelease": false,
           "assets": [
             {
-              "id": 779578336,
+              "id": 783132971,
               "name": "GierJavaDesktop.jar",
-              "sizeBytes": 1080469,
-              "digest": "sha256:41d348c82f21a2db09725269a3107458a6666a11f26b38c57e1b5ca43520665c",
-              "updatedAt": "2026-11-22T15:55:34Z",
+              "sizeBytes": 1091521,
+              "digest": "sha256:f343dc5c1740daacecfc8bc3c73600cccec149ed9e248e5233d8520638e183eb",
+              "updatedAt": "2026-11-23T13:51:38Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
             },
             {
-              "id": 779578344,
+              "id": 783132974,
               "name": "GierJava.jar",
-              "sizeBytes": 1284471,
-              "digest": "sha256:73170339e7b06508d331c15c3f2a18b34765ed71506df8c34f5ffe48201bc51b",
-              "updatedAt": "2026-11-22T15:55:34Z",
+              "sizeBytes": 1298200,
+              "digest": "sha256:5f7358fe23179eab42eb90d897a8d85b66ac48ae372d4210d505f61299c5e630",
+              "updatedAt": "2026-11-23T13:51:38Z",
               "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
             }
           ]
@@ -1095,8 +1095,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "f2c49109c747495dd0ba558169ec1a7d82a71896",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/f2c49109c747495dd0ba558169ec1a7d82a71896"
+        "commit": "27a9b383f1f2a1841dcdb5320e284e518dbe573f",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/27a9b383f1f2a1841dcdb5320e284e518dbe573f"
       },
       "latest": {
         "id": 449638165,
@@ -1924,8 +1924,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "0eb99ef991dbca0b641de1833fa59d2ffb280858",
-        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/0eb99ef991dbca0b641de1833fa59d2ffb280858"
+        "commit": "92f0ef31a6f440dce48f8a509cd589747f672ab7",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/92f0ef31a6f440dce48f8a509cd589747f672ab7"
       },
       "latest": {
         "id": 416405706,
@@ -2711,8 +2711,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "2633573ad8a6d5b7c20307b17bfc1b6e5a740344",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/2633573ad8a6d5b7c20307b17bfc1b6e5a740344"
+        "commit": "2a4f5794500ffd48672b2e2e09cf13e828accc7c",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/2a4f5794500ffd48672b2e2e09cf13e828accc7c"
       },
       "latest": {
         "id": 446862433,
