@@ -754,8 +754,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "f021f2463f97381f9ef4e4cb01f86a78da7ee94f",
-        "url": "https://github.com/DeerCarbonate/Azimuth/commit/f021f2463f97381f9ef4e4cb01f86a78da7ee94f"
+        "commit": "086debcc3dc113951e2b0fe9e30048da9f290bdd",
+        "url": "https://github.com/DeerCarbonate/Azimuth/commit/086debcc3dc113951e2b0fe9e30048da9f290bdd"
       },
       "latest": {
         "id": 411351085,
@@ -792,97 +792,6 @@
           "publishedAt": "2026-01-28T11:11:45Z",
           "prerelease": false,
           "assets": []
-        }
-      ]
-    },
-    {
-      "repository": "Fat-Bird-Owner/Gier-java-side",
-      "url": "https://github.com/Fat-Bird-Owner/Gier-java-side",
-      "archived": false,
-      "channel": "stable",
-      "manifest": {
-        "path": "mod.json",
-        "name": "gier-java",
-        "displayName": "Gier: Java Side",
-        "version": "v1",
-        "minGameVersion": "160",
-        "java": true
-      },
-      "source": {
-        "branch": "main",
-        "commit": "d44d8ccf46fa1c83ca1835507d02e63a0184a777",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/commit/d44d8ccf46fa1c83ca1835507d02e63a0184a777"
-      },
-      "latest": {
-        "id": 430648289,
-        "tag": "V1.5",
-        "name": "Gier: Java side - V1.5 ",
-        "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/tag/V1.5",
-        "publishedAt": "2026-11-01T14:49:21Z",
-        "prerelease": false,
-        "assets": [
-          {
-            "id": 698613182,
-            "name": "GierJava.jar",
-            "sizeBytes": 650555,
-            "digest": "sha256:a7aa641262983ce2adfca0f0a5d1022bdbbb2c2048be1ac8bf18a6eb97371400",
-            "updatedAt": "2026-11-01T14:48:12Z",
-            "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/V1.5/GierJava.jar"
-          }
-        ],
-        "manifest": {
-          "path": "mod.json",
-          "name": "gier-java",
-          "displayName": "Gier: Java Side",
-          "version": "v1",
-          "minGameVersion": "160",
-          "java": true
-        }
-      },
-      "releases": [
-        {
-          "id": 430648289,
-          "tag": "V1.5",
-          "name": "Gier: Java side - V1.5 ",
-          "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/tag/V1.5",
-          "publishedAt": "2026-11-01T14:49:21Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 698613182,
-              "name": "GierJava.jar",
-              "sizeBytes": 650555,
-              "digest": "sha256:a7aa641262983ce2adfca0f0a5d1022bdbbb2c2048be1ac8bf18a6eb97371400",
-              "updatedAt": "2026-11-01T14:48:12Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/V1.5/GierJava.jar"
-            }
-          ]
-        },
-        {
-          "id": 422765906,
-          "tag": "current-build",
-          "name": "current-build",
-          "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/tag/current-build",
-          "publishedAt": "2026-10-24T14:02:46Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 787926582,
-              "name": "GierJava.jar",
-              "sizeBytes": 1305364,
-              "digest": "sha256:5cf03f1d722b44b7b5c061258bb0db7eb96d55af24b73b2d4cc17cd99b9523f2",
-              "updatedAt": "2026-11-24T16:22:49Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJava.jar"
-            },
-            {
-              "id": 787926584,
-              "name": "GierJavaDesktop.jar",
-              "sizeBytes": 1097816,
-              "digest": "sha256:455429914c8f6dbf31d25ae5d90580d3bfc4791b814ba357651842018e9fe88e",
-              "updatedAt": "2026-11-24T16:22:49Z",
-              "url": "https://github.com/Fat-Bird-Owner/Gier-java-side/releases/download/current-build/GierJavaDesktop.jar"
-            }
-          ]
         }
       ]
     },
@@ -1095,24 +1004,24 @@
       },
       "source": {
         "branch": "main",
-        "commit": "27a9b383f1f2a1841dcdb5320e284e518dbe573f",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/27a9b383f1f2a1841dcdb5320e284e518dbe573f"
+        "commit": "53142b2a376e988af4cbc6cb8964d2ab7f41274a",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/53142b2a376e988af4cbc6cb8964d2ab7f41274a"
       },
       "latest": {
-        "id": 449638165,
-        "tag": "v2131",
-        "name": "v2.1.3.1 Debug Block Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2131",
-        "publishedAt": "2026-11-18T07:14:59Z",
+        "id": 458122057,
+        "tag": "v2132",
+        "name": "v2.1.3.2 Anti-Cheat Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2132",
+        "publishedAt": "2026-11-25T13:06:20Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 762341768,
-            "name": "vanilla-expansion2131.jar",
-            "sizeBytes": 32239107,
-            "digest": "sha256:8dd0c1c344509c04d8fb437501981ba19fe68755199bf9b5c411184b91b51c40",
-            "updatedAt": "2026-11-18T07:14:59Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2131/vanilla-expansion2131.jar"
+            "id": 791791929,
+            "name": "vanilla-expansion2132.jar",
+            "sizeBytes": 32350037,
+            "digest": "sha256:94947fecdcf08c19ef3c31cd2ff5a86419b4a96c37ed3fbe788bd71614bde9c9",
+            "updatedAt": "2026-11-25T14:04:37Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2132/vanilla-expansion2132.jar"
           }
         ],
         "manifest": {
@@ -1125,6 +1034,24 @@
         }
       },
       "releases": [
+        {
+          "id": 458122057,
+          "tag": "v2132",
+          "name": "v2.1.3.2 Anti-Cheat Update",
+          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2132",
+          "publishedAt": "2026-11-25T13:06:20Z",
+          "prerelease": false,
+          "assets": [
+            {
+              "id": 791791929,
+              "name": "vanilla-expansion2132.jar",
+              "sizeBytes": 32350037,
+              "digest": "sha256:94947fecdcf08c19ef3c31cd2ff5a86419b4a96c37ed3fbe788bd71614bde9c9",
+              "updatedAt": "2026-11-25T14:04:37Z",
+              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2132/vanilla-expansion2132.jar"
+            }
+          ]
+        },
         {
           "id": 449638165,
           "tag": "v2131",
@@ -2711,8 +2638,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "d697591cd397559b011fae8550ef33b6ac11ce50",
-        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/d697591cd397559b011fae8550ef33b6ac11ce50"
+        "commit": "a9d996325a4a3ca31f4932eb22a422c35e3c28ae",
+        "url": "https://github.com/TnmSpiroct/Exoprosopa/commit/a9d996325a4a3ca31f4932eb22a422c35e3c28ae"
       },
       "latest": {
         "id": 446862433,
