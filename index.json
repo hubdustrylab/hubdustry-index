@@ -1004,24 +1004,24 @@
       },
       "source": {
         "branch": "main",
-        "commit": "53142b2a376e988af4cbc6cb8964d2ab7f41274a",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/53142b2a376e988af4cbc6cb8964d2ab7f41274a"
+        "commit": "77566f60cd00410de94a32061cac8a29598e5a19",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/commit/77566f60cd00410de94a32061cac8a29598e5a19"
       },
       "latest": {
-        "id": 458122057,
-        "tag": "v2132",
-        "name": "v2.1.3.2 Anti-Cheat Update",
-        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2132",
-        "publishedAt": "2026-11-25T13:06:20Z",
+        "id": 449638165,
+        "tag": "v2131",
+        "name": "v2.1.3.1 Debug Block Update",
+        "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2131",
+        "publishedAt": "2026-11-18T07:14:59Z",
         "prerelease": false,
         "assets": [
           {
-            "id": 791791929,
-            "name": "vanilla-expansion2132.jar",
-            "sizeBytes": 32350037,
-            "digest": "sha256:94947fecdcf08c19ef3c31cd2ff5a86419b4a96c37ed3fbe788bd71614bde9c9",
-            "updatedAt": "2026-11-25T14:04:37Z",
-            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2132/vanilla-expansion2132.jar"
+            "id": 762341768,
+            "name": "vanilla-expansion2131.jar",
+            "sizeBytes": 32239107,
+            "digest": "sha256:8dd0c1c344509c04d8fb437501981ba19fe68755199bf9b5c411184b91b51c40",
+            "updatedAt": "2026-11-18T07:14:59Z",
+            "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2131/vanilla-expansion2131.jar"
           }
         ],
         "manifest": {
@@ -1034,24 +1034,6 @@
         }
       },
       "releases": [
-        {
-          "id": 458122057,
-          "tag": "v2132",
-          "name": "v2.1.3.2 Anti-Cheat Update",
-          "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/tag/v2132",
-          "publishedAt": "2026-11-25T13:06:20Z",
-          "prerelease": false,
-          "assets": [
-            {
-              "id": 791791929,
-              "name": "vanilla-expansion2132.jar",
-              "sizeBytes": 32350037,
-              "digest": "sha256:94947fecdcf08c19ef3c31cd2ff5a86419b4a96c37ed3fbe788bd71614bde9c9",
-              "updatedAt": "2026-11-25T14:04:37Z",
-              "url": "https://github.com/Martian238/Vanilla-Expansion-Mod/releases/download/v2132/vanilla-expansion2132.jar"
-            }
-          ]
-        },
         {
           "id": 449638165,
           "tag": "v2131",
