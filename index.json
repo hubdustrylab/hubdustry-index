@@ -1833,8 +1833,8 @@
       },
       "source": {
         "branch": "main",
-        "commit": "269cfd4b2c016e4b371f9ed967b5fd1feeb1f10e",
-        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/269cfd4b2c016e4b371f9ed967b5fd1feeb1f10e"
+        "commit": "aab1ae239598adf806d8a1b1e4c856fc8cfe11d5",
+        "url": "https://github.com/RA2EXE/Saturation-Firepower/commit/aab1ae239598adf806d8a1b1e4c856fc8cfe11d5"
       },
       "latest": {
         "id": 416405706,
@@ -2697,14 +2697,14 @@
         "path": "mod.hjson",
         "name": "serpuloplus",
         "displayName": "[[]#a179fa]Serpulo[[]white]+",
-        "version": "PR0.4",
+        "version": "PR0.4.1",
         "minGameVersion": "157",
         "java": false
       },
       "source": {
         "branch": "main",
-        "commit": "0ff59985d756bafa9a51a1ed35a0e33a302ca3cc",
-        "url": "https://github.com/traincrisis/SerpuloPlus/commit/0ff59985d756bafa9a51a1ed35a0e33a302ca3cc"
+        "commit": "2419e8146f948da3f25215b0ff0f34b1716c1cbe",
+        "url": "https://github.com/traincrisis/SerpuloPlus/commit/2419e8146f948da3f25215b0ff0f34b1716c1cbe"
       },
       "latest": null,
       "releases": [
